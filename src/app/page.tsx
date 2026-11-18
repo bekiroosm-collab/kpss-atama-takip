@@ -1,3 +1,4 @@
-import Dashboard from "@/components/Dashboard";
-export const dynamic = "force-dynamic";
-export default function Home(){ return <Dashboard/>; }
+import { redirect } from "next/navigation";
+export default function Home() {
+  redirect("/p94/index.html");
+}

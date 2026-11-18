@@ -1,12 +1,15 @@
-import { NextResponse } from "next/server";
-import { getSupabase } from "@/lib/supabase";
-export async function POST(req:Request){
-  const db=getSupabase();
-  if(!db)return NextResponse.json({error:"database_not_configured"},{status:503});
-  const subscription=await req.json();
-  if(!subscription?.endpoint || !subscription?.keys?.p256dh || !subscription?.keys?.auth)
-    return NextResponse.json({error:"invalid_subscription"},{status:400});
-  const {error}=await db.from("push_subscriptions").upsert({endpoint:subscription.endpoint,subscription},{onConflict:"endpoint"});
-  if(error)return NextResponse.json({error:"save_failed"},{status:500});
-  return NextResponse.json({ok:true});
+import { activeFeed, keys, pushDatabase, send, validSubscription } from "@/lib/site-push";
+export async function POST(req: Request) {
+  if (req.headers.get("origin") !== new URL(req.url).origin) return new Response(null,{status:403});
+  const sub=await req.json().catch(()=>null);
+  if (!validSubscription(sub)) return Response.json({error:"invalid_subscription"},{status:400});
+  try {
+    const pair=await keys();
+    const db=pushDatabase();
+    const baseline=(await activeFeed()).map(n=>n.id);
+    const {error}=await db.from("push_subscriptions").upsert({endpoint:sub.endpoint,subscription:sub,baseline},{onConflict:"endpoint",ignoreDuplicates:true});
+    if(error) throw error;
+    await send(sub,{title:"Atama Takip",body:"Bildirimler açık. Yeni P94 ilanları bu uygulamadan gelecek.",tag:"p94-welcome"},pair);
+    return Response.json({ok:true});
+  } catch {return Response.json({error:"subscription_or_test_failed"},{status:503});}
 }

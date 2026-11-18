@@ -1,41 +1,11 @@
-# Atama Takip — KPSS Ortaöğretim
+# Atama Takip · Vercel'de iPhone bildirimleri
 
-Next.js + Vercel + Supabase başlangıç projesi. Arayüz mobil uyumludur; ilanlar, kaynak durumları ve bildirim akışı için temel uygulama uçları dahildir.
+Ana alan adı P94 mobil panelini açar. Eski panel /panel adresindedir. Yeni doğrulanmış ilanlar public/p94/feed.json üzerinden okunur. Kullanıcının puanı cihazda kalır.
 
-## Önemli üretim notu
-Bu depo, **canlı resmî ilan toplayıcılarının tamamlandığını iddia etmez**. Kaynakların her biri için erişim yöntemi doğrulanıp ayrı adapter yazılmalıdır. `/api/cron/collect` şu an bilerek 503 döndürür ve sahte ilan üretmez. İŞKUR, Kariyer Kapısı, Resmî Gazete ve SBB sayfalarının erişim/robots/kullanım koşulları kontrol edilmeden agresif scraping yapılmamalıdır. Resmî başvuru için daima kaynak bağlantısı açılmalıdır.
+1. Bu Next.js deposunu Vercel'e bağla ve kullanacağın HTTPS alan adını projeye ekle.
+2. Supabase SQL Editor'da yeni bir veritabanı için önce [ana şemayı](supabase/schema.sql), sonra [Web Push tablolarını](supabase/webpush.sql) çalıştır. Ana şema zaten kuruluysa yalnızca webpush.sql gerekir.
+3. Vercel Production ortamına NEXT_PUBLIC_SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY ve en az 32 rastgele karakterli CRON_SECRET ekle, ardından yeniden deploy et. Gizli değerleri repoya koyma. İlk bildirim isteğinde sunucu kalıcı VAPID anahtarlarını Supabase'de üretir. Mevcut VAPID_PUBLIC_KEY ve VAPID_PRIVATE_KEY kullanılıyorsa bu çifti koru.
+4. GitHub → Settings → Secrets and variables → Actions içinde Variables bölümüne P94_SITE_URL (ör. https://siten.com), Secrets bölümüne Vercel'dekiyle aynı CRON_SECRET değerini ekle. Actions açık olmalı. İlan dosyası main dalında değiştiğinde gönderim denenir. Saatlik tekrar ve Vercel'deki günlük cron kaçırılan gönderimleri yeniden kontrol eder. Zamanlanmış çalıştırmalar gecikebilir. Actions → Deliver P94 alerts → Run workflow ile gönderim yolunu sınayabilirsin.
+5. iPhone’da asıl alan adını Safari’de aç → Paylaş → Ana Ekrana Ekle. Simgeyi aç → Bildirimler → Bildirimleri aç → İzin Ver. İlk onayda gerçek Web Push test bildirimi gönderilir. Alan adı değişirse yeni simgeden yeniden abone ol. Yeni abonelik esnasında açık olan ilanlar başlangıç listesine alınır; sonradan eklenen açık ilanlar bildirilir.
 
-## Yerelde çalıştırma
-1. Node.js 20+ kur.
-2. `npm install`
-3. `.env.example` dosyasını `.env.local` olarak kopyala.
-4. `npm run dev`
-
-Supabase projesi oluşturup `supabase/schema.sql` dosyasını SQL Editor'da çalıştır. Supabase URL ve service role key değerlerini Vercel ortam değişkenlerine ekle. Service role key kesinlikle `NEXT_PUBLIC_` ile başlamamalı ve GitHub'a yüklenmemelidir.
-
-## GitHub ve Vercel
-1. Bu klasörü GitHub deposuna yükle.
-2. Vercel'de **Add New → Project** ile depoyu içe aktar.
-3. Framework: Next.js (otomatik algılanır).
-4. Environment Variables bölümüne `.env.example` içindeki değişkenleri ekle.
-5. Deploy et.
-
-## Zamanlanmış kontrol
-`vercel.json` her 30 dakikada `/api/cron/collect` çağırır. Vercel cron çağrısı `CRON_SECRET` ile korunur. Adapter'lar tamamlanmadan cron sadece güvenli bir yapılandırma uyarısı döndürür. Vercel planının cron sıklığı ve çalışma süresi limitlerini kontrol et.
-
-## Push bildirimleri
-VAPID anahtarları üret:
-`npx web-push generate-vapid-keys`
-`VAPID_PUBLIC_KEY`, `VAPID_PRIVATE_KEY`, `VAPID_SUBJECT` değişkenlerini ekle. Ayrıca istemci tarafı için `NEXT_PUBLIC_VAPID_PUBLIC_KEY` değişkenini aynı public key ile tanımla. Bildirim aboneliği Supabase'e kaydedilir. Gerçek ilan algılama ve push gönderimi, kaynak adapter'ları tamamlandıktan sonra cron işine bağlanmalıdır.
-
-## Resmî kaynaklar
-- https://esube.iskur.gov.tr/
-- https://kariyerkapisi.gov.tr/isealim
-- https://www.resmigazete.gov.tr/
-- https://kamuilan.sbb.gov.tr/
-
-## Güvenlik
-- Supabase service role anahtarını istemciye veya GitHub'a koyma.
-- `CRON_SECRET` için uzun, rastgele bir değer kullan.
-- Başvuru şartları ve KPSS puan türünü ilan metninden doğrula; yalnızca başlıktan otomatik uygunluk kararı verme.
-- Site resmî kurum değildir; kaynak bağlantıları üzerinden doğrulama yapılmalıdır.
+İlanların kaynağı mevcut saatlik resmî kaynak taramasıdır. Bildirim sunucusunun çalışması için uygulamanın veya ChatGPT'nin telefonda açık olması gerekmez. Sağlayıcının bildirimi kabul etmesi cihazın ekranda gösterdiğini doğrulamaz.

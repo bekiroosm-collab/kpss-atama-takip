@@ -1,0 +1,25 @@
+name: Deliver P94 alerts
+on:
+  push:
+    branches: [main]
+    paths: ['public/p94/feed.json']
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions: {}
+concurrency:
+  group: p94-dispatch
+  cancel-in-progress: false
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    if: ${{ vars.P94_SITE_URL != '' }}
+    steps:
+      - name: Send verified notices through the production site
+        env:
+          SITE_URL: ${{ vars.P94_SITE_URL }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+        run: |
+          test -n "$CRON_SECRET"
+          curl --proto '=https' --fail --silent --show-error --max-time 65 \
+            --header "Authorization: Bearer $CRON_SECRET" "${SITE_URL%/}/api/cron/collect"

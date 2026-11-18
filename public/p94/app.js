@@ -16,7 +16,44 @@ function date(s){if(!s)return 'Belirtilmemiş';return new Date(s.length===10?s+'
 function safeUrl(url){try{const u=new URL(url);return u.protocol==='https:'&&/\.(gov|bel|edu)\.tr$/.test(u.hostname)?esc(u.href):''}catch{return ''}}
 function modal(html){el('modal').innerHTML=html;el('dialog').showModal()}
 el('editScore').onclick=()=>{modal('<h2>P94 puanım</h2><p>2026 ortaöğretim sonuç belgendeki puanı gir. Puanın bu tarayıcıda saklanır.</p><form class="scorebox" id="scoreForm"><label for="score">2026 KPSS P94 puanı</label><input id="score" inputmode="decimal" required placeholder="Örn. 78,12345"><button class="primary">Puanımı kaydet</button></form>');el('score').value=score===null?'':String(score).replace('.',',');el('scoreForm').onsubmit=e=>{e.preventDefault();const field=el('score'),v=field.value.trim().replace(',','.');if(!/^\d{1,3}(\.\d{1,5})?$/.test(v)||Number(v)>100){field.setCustomValidity('0 ile 100 arasında, en fazla 5 ondalık basamaklı bir puan gir.');field.reportValidity();field.oninput=()=>field.setCustomValidity('');return}if(save('p94-score',Number(v))){score=Number(v);el('dialog').close();render()}}};
-el('bell').onclick=()=>modal('<h2>İlan bildirimleri</h2><p>Yeni P94 ilanları saatlik takipte. Yeni ilan veya önemli bir şart değişikliği bulunduğunda ChatGPT üzerinden haber alırsın.</p><p class="note">iPhone’da Ayarlar → Bildirimler → ChatGPT bölümünden bildirim iznini aç. Duyurular tüm illeri kapsar.</p>');
+el('bell').onclick=async()=>{
+  modal('<h2>İlan bildirimleri</h2><p id="pushState" role="status">Bildirim ayarları kontrol ediliyor…</p><button id="subscribe" hidden>Bildirimleri aç</button>');
+  const state=el('pushState'),button=el('subscribe');
+  const ios=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+  if(ios&&!navigator.standalone&&!matchMedia('(display-mode: standalone)').matches){
+    state.textContent='Safari’de Paylaş → Ana Ekrana Ekle seçeneğini kullan. Ardından Atama Takip simgesinden açıp bildirimlere izin ver.';return;
+  }
+  if(!window.isSecureContext||!('serviceWorker' in navigator)||!('PushManager' in window)||!('Notification' in window)){
+    state.textContent='Bu tarayıcıda Web Push kullanılamıyor. iPhone için iOS 16.4 veya üzeri ve HTTPS gerekir.';return;
+  }
+  if(Notification.permission==='denied'){state.textContent='Bildirim izni kapalı. Cihazının bildirim ayarlarından Atama Takip için izni aç.';return}
+  try{
+    const config=await json('/api/push/config');
+    await navigator.serviceWorker.register('/sw.js');
+    const registration=await navigator.serviceWorker.ready;
+    const existing=await registration.pushManager.getSubscription();
+    state.textContent='Yeni P94 ilanları uygulama kapalıyken de bu cihazda bildirim olarak gösterilir.';
+    button.hidden=false;
+    button.textContent=existing?'Aboneliği doğrula ve test gönder':'Bildirimleri aç';
+    button.onclick=async()=>{
+      button.disabled=true;
+      try{
+        if(await Notification.requestPermission()!=='granted')throw Error('Bildirim izni verilmedi.');
+        const raw=atob(config.publicKey.replace(/-/g,'+').replace(/_/g,'/'));
+        const key=Uint8Array.from(raw,c=>c.charCodeAt(0));
+        let sub=await registration.pushManager.getSubscription();
+        if(sub?.options.applicationServerKey && String(new Uint8Array(sub.options.applicationServerKey))!==String(key)){
+          await sub.unsubscribe();sub=null;
+        }
+        if(!sub)sub=await registration.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:key});
+        const res=await fetch('/api/push/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(sub)});
+        if(!res.ok)throw Error('Sunucu test bildirimini gönderemedi. Kurulumu kontrol edip tekrar dene.');
+        state.textContent='Aboneliğin kaydedildi. Atama Takip test bildirimi gönderildi.';
+        button.textContent='Test bildirimi gönder';
+      }catch(e){state.textContent=e.message||'Abonelik kurulamadı.'}finally{button.disabled=false}
+    };
+  }catch{state.textContent='Bildirim sunucusu henüz hazır değil. Vercel ve Supabase kurulumunu kontrol et.'}
+};
 function sourcesList(){return '<div class="sources">'+Object.entries(sources).map(([name,url])=>'<a target="_blank" rel="noopener" href="'+url+'">'+name+'</a>').join('')+'</div>'}
 function activeItems(){const today=new Date().toLocaleDateString('sv-SE',{timeZone:'Europe/Istanbul'});return (feed?.notices||[]).filter(n=>!n.end||n.end>=today)}
 function match(n){const hay=fold([n.title,n.institution,n.city,n.conditions].join(' '));return hay.includes(fold(query))&&new RegExp(filters[filter]).test(hay)&&(!onlyScore||(score!==null&&n.year===2026&&Number.isFinite(n.min)&&score>=n.min))}

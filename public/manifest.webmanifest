@@ -1,1 +1,18 @@
-{"name":"Atama Takip - KPSS Ortaöğretim","short_name":"Atama Takip","start_url":"/","display":"standalone","background_color":"#f7f9fc","theme_color":"#ffffff","lang":"tr","icons":[]}
+{
+  "id": "/p94/index.html",
+  "name": "Atama Takip",
+  "short_name": "Atama Takip",
+  "start_url": "/p94/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f5",
+  "theme_color": "#102e38",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/p94/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
