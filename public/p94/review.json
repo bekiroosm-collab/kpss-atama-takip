@@ -1,0 +1,26 @@
+{
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=51fd7921-cfbe-482f-8e2f-b8a569a605d0": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T00:01:55+03:00",
+    "reason": "68 hemşire kadrosu hemşirelik lisansı ve 2026 P3 istiyor.",
+    "evidence": "https://www.deu.edu.tr/file/2026/11/Sozlesmeli-Personel-Ilani.pdf"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=84e11358-b080-4b29-ae1e-3ab83bd8f689": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T00:01:55+03:00",
+    "reason": "M01/M02 mühendis için lisans P3, T01/T02 tekniker için ön lisans P93 isteniyor.",
+    "evidence": "https://pdb.marmara.edu.tr/notice/universitemiz-sozlesmeli-personel-alimi-1"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=db21f412-186a-4d5c-bc46-03dff9ea17fb": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T00:01:55+03:00",
+    "reason": "Uzman pozisyonları ile büro görevlisi için lisans mezuniyeti gerekiyor.",
+    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf"
+  },
+  "https://turkiye.gov.tr/sahil-guvenlik-komutanligi-is-basvurusu": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T00:01:55+03:00",
+    "reason": "13 Kasım tarihli ilanın altı unvanı yalnızca P03 veya P93 kabul ediyor.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113.pdf"
+  }
+}
