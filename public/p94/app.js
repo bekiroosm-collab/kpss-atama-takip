@@ -9,6 +9,7 @@ const filters={'Tümü':'','Çankırı':'cankiri','Samsun':'samsun','Kâtiplik':
 function read(key,def){try{return JSON.parse(localStorage.getItem(key))??def}catch{return def}}
 function save(key,data){try{localStorage.setItem(key,JSON.stringify(data));return true}catch{alert('Bu tarayıcı kaydı saklayamadı.');return false}}
 let score=read('p94-score',null), saved=read('p94-list',[]), feed=null, historyRows=[], historyError=false, feedError=false;
+let directory=null, monitoring=null, coverageIssue=false;
 let query='', historyQuery='Çankırı', filter='Tümü', onlyScore=false;
 const page=()=>['ilanlar','listem','gecmis','kaynaklar'].includes(location.hash.slice(1))?location.hash.slice(1):'ilanlar';
 const fmt=n=>Number(n).toLocaleString('tr-TR',{maximumFractionDigits:5});
@@ -54,21 +55,48 @@ el('bell').onclick=async()=>{
     };
   }catch{state.textContent='Bildirim sunucusu henüz hazır değil. Vercel ve Supabase kurulumunu kontrol et.'}
 };
+function coveragePanel(){
+  if(!directory||!monitoring)return '<p class="note">Kurum tarama kaydı henüz yüklenemedi. Kapsam belirsiz.</p>';
+  const registered=Object.keys(directory.institutions);
+  const records=monitoring.sources;
+  let recent=0,unread=0,pending=0,stale=0;
+  for(const key of registered){
+    const state=records[key];
+    if(!state)pending++;
+    else if(state.status!=='links_read')unread++;
+    else if(Date.now()-Date.parse(state.readAt)>86400000)stale++;
+    else recent++;
+  }
+  const gaps=registered.filter(key=>['retry','needs_review'].includes(records[key]?.status));
+  const gapList=gaps.length?'<details><summary>Yeniden kontrol edilecek kaynaklar ('+gaps.length+')</summary><ul>'+gaps.map(key=>'<li>'+esc(directory.institutions[key][0])+'</li>').join('')+'</ul></details>':'';
+  const kk=monitoring.portals?.['Kariyer Kapısı'];
+  const last=kk?.status==='read'?'Kariyer Kapısı · '+kk.count+' ilan bağlantısı okundu ('+date(kk.attempt)+').':'Kariyer Kapısı · liste kontrol bekliyor.';
+  return '<p>'+last+'</p><h3>Kurum tarama durumu</h3><p>'+recent+' kaynakta son 24 saatte duyuru bağlantıları okundu. '+unread+' kaynak tekrar kontrol bekliyor. '+pending+' kaynak henüz sırada. '+stale+' kaynağın kontrolü 24 saati geçti.</p><p class="meta">Kurum dizinindeki '+registered.length+' kaynak kaydı birden fazla dizinde yer alan kurumları içerebilir. Bağlantılar, ilanın resmî metni ve P94 şartı incelendikten sonra ilan listesine alınır.</p>'+gapList+(directory.incomplete?.length?'<p class="note">Tam okunamayan dizin sayfası: '+directory.incomplete.length+'</p>':'')+(coverageIssue?'<p>Güncel tarama kaydı alınamadı; son kayıt gösteriliyor.</p>':'');
+}
+async function loadCoverage(){
+  const readFile=async name=>{
+    try{return await json(feedURL.replace('feed.json',name))}
+    catch{coverageIssue=true;return json('./'+name)}
+  };
+  coverageIssue=false;
+  try{[directory,monitoring]=await Promise.all([readFile('directory.json'),readFile('monitor.json')])}catch{coverageIssue=true}
+  if(page()==='kaynaklar')render();
+}
 function sourcesList(){return '<div class="sources">'+Object.entries(sources).map(([name,url])=>'<a target="_blank" rel="noopener" href="'+url+'">'+name+'</a>').join('')+'</div>'}
 function activeItems(){const today=new Date().toLocaleDateString('sv-SE',{timeZone:'Europe/Istanbul'});return (feed?.notices||[]).filter(n=>!n.end||n.end>=today)}
 function match(n){const hay=fold([n.title,n.institution,n.city,n.conditions].join(' '));return hay.includes(fold(query))&&new RegExp(filters[filter]).test(hay)&&(!onlyScore||(score!==null&&n.year===2026&&Number.isFinite(n.min)&&score>=n.min))}
 function item(n,inList){const url=safeUrl(n.url),idx=saved.findIndex(x=>x.id===n.id);
  const fields=[n.city,n.quota!=null?n.quota+' kontenjan':null,n.year?n.year+' P94':'P94 yılı belirtilmemiş',n.min!=null?'En az '+fmt(n.min)+' puan':'Asgari puan belirtilmemiş'].filter(Boolean);
  return '<article class="item"><small>'+esc(n.institution)+'</small><h3>'+esc(n.title)+'</h3><p>'+esc(fields.join(' · '))+'</p><p>'+esc(n.conditions)+'</p><p class="meta">Başvuru · '+date(n.start)+' – '+date(n.end)+'</p><div class="actions">'+(url?'<a target="_blank" rel="noopener" href="'+url+'">Resmî ilan</a>':'')+'<button data-save="'+esc(n.id)+'">'+(idx>=0?'Listemden çıkar':'Listeme ekle')+'</button>'+(inList?'<button data-move="-1" data-index="'+idx+'" '+(idx===0?'disabled':'')+'>Yukarı</button><button data-move="1" data-index="'+idx+'" '+(idx===saved.length-1?'disabled':'')+'>Aşağı</button>':'')+'</div></article>'}
-function drawItems(){const rows=activeItems().filter(match);el('results').innerHTML='<div class="row"><h2>İlanlar</h2><span class="tag">'+rows.length+' ilan</span></div>'+(rows.length?rows.map(n=>item(n,false)).join(''):'<div class="empty"><b aria-hidden="true">◎</b><h3>'+(feed?'Eşleşen ilan bulunamadı':'İlanlar yükleniyor')+'</h3><p class="meta">'+(activeItems().length?'Filtreleri değiştirerek diğer ilanları görebilirsin.':'Doğrulanmış açık P94 ilanları burada listelenir.')+'</p></div>')+'<p class="meta">'+esc(feed?.coverage||'')+'</p><small>'+(feed?.checkedAt?'Son kayıtlı kontrol · '+date(feed.checkedAt):'')+(feedError?' · Güncel akış alınamadı.':'')+'</small>'}
+function drawItems(){const rows=activeItems().filter(match);el('results').innerHTML='<div class="row"><h2>İlanlar</h2><span class="tag">'+rows.length+' ilan</span></div>'+(rows.length?rows.map(n=>item(n,false)).join(''):'<div class="empty"><b aria-hidden="true">◎</b><h3>'+(feed?(activeItems().length?'Bu filtreyle eşleşen ilan yok':'Henüz doğrulanmış açık ilan yok'):'İlanlar yükleniyor')+'</h3><p class="meta">'+(activeItems().length?'Filtreleri değiştirerek diğer ilanları görebilirsin.':'Tarama sürüyor. Henüz incelenmemiş kurumlarda açık ilan olabilir.')+'</p></div>')+'<p><a href="#kaynaklar">Tarama kapsamını gör</a></p><p class="meta">'+esc(feed?.coverage||'')+'</p><small>'+(feed?.checkedAt?'Son kayıtlı kontrol · '+date(feed.checkedAt):'')+(feedError?' · Güncel akış alınamadı.':'')+'</small>'}
 function drawHistory(){const rows=historyRows.filter(r=>fold(r[1]+' '+r[0]).includes(fold(historyQuery)));el('historical').innerHTML='<small>'+rows.length+' kadro kaydı</small>'+rows.map(r=>'<article class="item"><small>'+esc(r[0])+' · '+r[2]+' kontenjan</small><h3>'+esc(r[1].replaceAll(' / ',' · ').toLocaleLowerCase('tr'))+'</h3><p>Taban <span class="num">'+fmt(r[3])+'</span> · Tavan '+fmt(r[4])+'</p>'+(score===null?'':'<small>Puanın tabanın '+(score>=r[3]?fmt(score-r[3])+' puan üzerinde':fmt(r[3]-score)+' puan altında')+'</small>')+'</article>').join('')+(rows.length?'':'<p>'+ (historyError?'Geçmiş veriler alınamadı.':'Bu aramayla eşleşen kayıt yok.')+'</p>')}
 function render(){const p=page();document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('on',a.hash==='#'+p));el('editScore').textContent=score===null?'P94 puanımı gir':'P94 · '+fmt(score)+'  /  Düzenle';
 if(p==='ilanlar'){el('panel').innerHTML='<div class="filters"><label for="q"><strong>İlan ara</strong></label><input type="search" id="q" placeholder="Kurum, kadro veya şehir"><div class="chips">'+Object.keys(filters).map(x=>'<button class="chip '+(x===filter?'on':'')+'" data-filter="'+x+'" aria-pressed="'+(x===filter)+'">'+x+'</button>').join('')+'</div><label style="display:block;margin-top:12px"><input id="fit" style="width:auto" type="checkbox" '+(onlyScore?'checked':'')+'> Puan barajını karşıladıklarım</label></div><div class="card" id="results" aria-live="polite"></div>';el('q').value=query;el('q').oninput=e=>{query=e.target.value;drawItems()};el('fit').onchange=e=>{if(score===null&&e.target.checked){e.target.checked=false;el('editScore').click();return}onlyScore=e.target.checked;drawItems()};drawItems()}
 if(p==='listem'){el('panel').innerHTML='<div class="card"><h2>Tercih listem</h2><p class="meta">Kaydettiğin kadroları öncelik sırasına koy. Listen bu cihazda saklanır.</p>'+(saved.length?saved.map(n=>item(feed?.notices.find(x=>x.id===n.id)||n,true)).join(''):'<div class="empty"><h3>Listen henüz boş</h3><p>Bir ilanı açıp “Listeme ekle” ile buraya kaydedebilirsin.</p><a href="#ilanlar">İlanlara dön</a></div>')+'</div>'}
 if(p==='gecmis'){el('panel').innerHTML='<div class="card"><h2>Geçmiş yerleştirmeler</h2><p>ÖSYM 2026/1 ortaöğretim sonuçları. Puanını kaydettiğinde geçmiş tabanla arandaki farkı görebilirsin.</p><a href="'+pdf+'" target="_blank" rel="noopener">ÖSYM sonuç tablosu</a></div><div class="filters"><label for="hq">Şehir, unvan veya kadro kodu</label><input type="search" id="hq"><div id="historical"></div></div>';el('hq').value=historyQuery;el('hq').oninput=e=>{historyQuery=e.target.value;drawHistory()};drawHistory()}
-if(p==='kaynaklar'){el('panel').innerHTML='<div class="card"><h2>Resmî kaynaklar</h2><p>Başvuru kılavuzlarını, özel koşulları ve kurum duyurularını incele.</p>'+sourcesList()+'</div>'}}
+if(p==='kaynaklar'){el('panel').innerHTML='<div class="card"><h2>Resmî kaynaklar</h2><p>Başvuru kılavuzlarını, özel koşulları ve kurum duyurularını incele.</p>'+sourcesList()+'</div><div class="card">'+coveragePanel()+'</div>'}}
 document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.filter){filter=b.dataset.filter;render()}if(b.dataset.save){const id=b.dataset.save,n=feed?.notices.find(x=>x.id===id);const next=saved.some(x=>x.id===id)?saved.filter(x=>x.id!==id):n?[...saved,n]:saved;if(save('p94-list',next))saved=next;render()}if(b.dataset.move){const i=Number(b.dataset.index),j=i+Number(b.dataset.move),next=[...saved];if(j<0||j>=next.length)return;[next[i],next[j]]=[next[j],next[i]];if(save('p94-list',next))saved=next;render()}});
 async function json(url){const r=await fetch(url,{cache:'no-store',signal:AbortSignal.timeout(10000)});if(!r.ok)throw Error('fetch');return r.json()}
 async function refresh(){try{const live=await json(feedURL);if(!Array.isArray(live.notices))throw Error('format');feed=live;feedError=false;save('p94-cache',live)}catch{feedError=true}if(page()==='ilanlar'&&el('results'))drawItems();else if(page()==='listem')render()}
-async function init(){feed=read('p94-cache',null);render();try{if(!feed)feed=await json('./feed.json')}catch{feedError=true}try{historyRows=await json('./history.json')}catch{historyError=true}render();refresh();setInterval(refresh,300000)}
+async function init(){feed=read('p94-cache',null);render();try{if(!feed)feed=await json('./feed.json')}catch{feedError=true}try{historyRows=await json('./history.json')}catch{historyError=true}render();refresh();loadCoverage();setInterval(()=>{refresh();loadCoverage()},300000)}
 window.addEventListener('hashchange',render);init();
