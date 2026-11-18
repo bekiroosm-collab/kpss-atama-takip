@@ -31,38 +31,40 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=89781649-6080-4021-9739-f8ba3d875cd0": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=f657a20b-5132-4e3a-8b1e-131e031f065b": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=724294dd-2cf3-4df3-8cd5-615baea623be": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Denetmen yardımcılığı için Tablo 1’de en az dört yıllık yükseköğretim şartı var.",
+    "evidence": "https://kariyerkapisi.gov.tr/Ups/Evraklar/sgk-tablo1-05112026.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=bf7a4a08-46c9-4643-a8c4-6ccf9c8c6d1b": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "İki uzman yardımcılığı grubu için de dört yıllık lisans gerekiyor.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=c1ab5cba-d22b-40ab-b89b-1d27431a422c": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=4d1a4aba-67fa-449d-b19d-13b197a770f0": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -71,9 +73,10 @@
     "evidence": "https://resmigazete.gov.tr/eskiler/2026/11/20261110.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=dea72757-7130-466f-bcf2-8d316d02add1": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Tek psikolog kadrosunda psikoloji lisansı ve 2026 P3 türünde en az 70 puan aranıyor.",
+    "evidence": "https://depo.btu.edu.tr/img/duyurular/1794553413_6464fbe90e7ae3487e87.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=31b4b404-05cb-4298-9460-1ab3b13b33e8": {
     "status": "ineligible",
@@ -82,39 +85,44 @@
     "evidence": "https://anadolu.edu.tr/uploads/anadolu/ckfinder/personel/files/S%C3%B6zle%C5%9Fmeli%20Personel%20Al%C4%B1m%20%C4%B0lan%C4%B1%20-%202026.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=8892720e-d38e-46f8-994e-138c6d4b7d81": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Uzman yardımcılığı kadroları dört yıllık lisans gerektiriyor.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261116-4-3.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=f82ad1a8-39b9-4732-acb4-be6cbe8f772e": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Denetçi yardımcılığı kadroları dört yıllık lisans gerektiriyor.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261116-4-3.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=a1ba338b-81ac-4dfb-9cc3-dc53c4c438cd": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Bilişim personeli ilanında belirtilen dört yıllık fakülte bölümlerinden mezuniyet gerekiyor.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=4850e095-8b16-4aba-9956-555740a41146": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=2b5ee2d8-3958-4fd1-a3cb-219bcb7b536d": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Stajyer hazine kontrolörlüğü giriş sınavı dört yıllık lisans mezunlarına açık.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Rize Yatırım Destek Ofisi için uzman alımında lisans mezuniyeti gerekiyor.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0": {
     "status": "ineligible",
@@ -123,14 +131,38 @@
     "evidence": "https://kudaka.gov.tr/assets/upload/dosyalar/zafer-personel-alim-ilani.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=41353f9d-7dda-4b65-b2ba-de6bf8e72f54": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:28:48+03:00",
-    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "26 pozisyon için ortak başvuru şartı en az dört yıllık lisans mezuniyeti.",
+    "evidence": "https://www.ssb.gov.tr/storage/img/proje-bazli-sozlesmeli-personel-alimi-giris-sinavi-ilan-metni.pdf"
   },
   "https://izmir.bel.tr/tr/Haberler/izmir-buyuksehir-belediyesi-90-zabita-memuru-alacak/59670/156": {
     "status": "ineligible",
     "checkedAt": "2026-11-19T01:28:48+03:00",
     "reason": "Belediye 90 zabıta kadrosunun 60’ını lisans, 30’unu ön lisans mezunlarına ayırdı.",
     "evidence": "https://izmir.bel.tr/tr/Haberler/izmir-buyuksehir-belediyesi-90-zabita-memuru-alacak/59670/156"
+  },
+  "https://personel.akdeniz.edu.tr/tr/duyuru/t_c__akdeniz_universitesi_rektorlugunden_surekli_isci_alim_ilani-19880": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Ziraat Fakültesi sürekli işçi alımında adaylar noter kurasıyla belirlenip sözlü sınava çağrılıyor.",
+    "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/t_c__akdeniz_universitesi_rektorlugunden_surekli_isci_alim_ilani-19880"
+  },
+  "https://mudurnu.bel.tr/duyurular/sozlesmeli-memur-alim-ilani": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "Tek mühendis kadrosu için lisans ve 2026 P3 türünde en az 75 puan gerekiyor.",
+    "evidence": "https://mudurnu.bel.tr/app/files/1417_9491_2869-Mudurnu-Bel-Ilan.pdf"
+  },
+  "https://www.bozkoy.bel.tr/ilan/bozkoy-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alim-ilani-ve-basvuru-formu": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "İtfaiye eri için spor alanında lisans mezuniyeti ve P3 türünde en az 65 puan gerekiyor.",
+    "evidence": "https://bozkoy.bel.tr/uploads/files/BOZK%C3%96Y%20BELED%C4%B0YE%20BA%C5%9EKANLI%C4%9EINA%20%C4%B0LK%20DEFA%20ATANMAK%20%C3%9CZERE%20%C4%B0TFA%C4%B0YE%20ER%C4%B0%20ALIM%20%C4%B0LANI.pdf"
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "reason": "33435 sayılı nüshanın kurum başlıklarına erişildi. Mudurnu kadrosu belediye PDF’sinden doğrulandı. Diğer eklerin tam metinleri yeniden kontrol edilecek."
   }
 }
