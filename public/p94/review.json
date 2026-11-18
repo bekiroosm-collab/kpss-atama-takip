@@ -22,5 +22,115 @@
     "checkedAt": "2026-11-19T00:01:55+03:00",
     "reason": "13 Kasım tarihli ilanın altı unvanı yalnızca P03 veya P93 kabul ediyor.",
     "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113.pdf"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=26f5b7a7-865c-483f-9045-2f77e5e7fb9d": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "İki avukat kadrosunun her ikisi de hukuk fakültesi mezuniyeti ve 2026 P3 türünde en az 75 puan istiyor.",
+    "evidence": "https://pdb.idu.edu.tr/upload/duyuru/4254/s2026-3_sozlesmeli_avukat_alimi-07.11.2026.pdf"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=89781649-6080-4021-9739-f8ba3d875cd0": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=f657a20b-5132-4e3a-8b1e-131e031f065b": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=724294dd-2cf3-4df3-8cd5-615baea623be": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=bf7a4a08-46c9-4643-a8c4-6ccf9c8c6d1b": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=c1ab5cba-d22b-40ab-b89b-1d27431a422c": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=4d1a4aba-67fa-449d-b19d-13b197a770f0": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "16 çözümleyici ve programcı kadrosunda lisans P1 veya ön lisans P93 puanı gerekiyor.",
+    "evidence": "https://resmigazete.gov.tr/eskiler/2026/11/20261110.pdf"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=dea72757-7130-466f-bcf2-8d316d02add1": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=31b4b404-05cb-4298-9460-1ab3b13b33e8": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Tek kadro çevre mühendisi. Çevre mühendisliği lisansı ve 2026 P3 türünde en az 60 puan gerekiyor.",
+    "evidence": "https://anadolu.edu.tr/uploads/anadolu/ckfinder/personel/files/S%C3%B6zle%C5%9Fmeli%20Personel%20Al%C4%B1m%20%C4%B0lan%C4%B1%20-%202026.pdf"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=8892720e-d38e-46f8-994e-138c6d4b7d81": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=f82ad1a8-39b9-4732-acb4-be6cbe8f772e": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=a1ba338b-81ac-4dfb-9cc3-dc53c4c438cd": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=4850e095-8b16-4aba-9956-555740a41146": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=2b5ee2d8-3958-4fd1-a3cb-219bcb7b536d": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Uzman personel adayları için lisans mezuniyeti gerekiyor.",
+    "evidence": "https://kudaka.gov.tr/assets/upload/dosyalar/zafer-personel-alim-ilani.pdf"
+  },
+  "https://kariyerkapisi.gov.tr/IlanDetay?i=41353f9d-7dda-4b65-b2ba-de6bf8e72f54": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Kariyer Kapısı ayrıntı sayfası kadro satırlarını göstermedi. Kurumun güncel ilanı ve ekleri üzerinden yeniden doğrulanacak."
+  },
+  "https://izmir.bel.tr/tr/Haberler/izmir-buyuksehir-belediyesi-90-zabita-memuru-alacak/59670/156": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T01:28:48+03:00",
+    "reason": "Belediye 90 zabıta kadrosunun 60’ını lisans, 30’unu ön lisans mezunlarına ayırdı.",
+    "evidence": "https://izmir.bel.tr/tr/Haberler/izmir-buyuksehir-belediyesi-90-zabita-memuru-alacak/59670/156"
   }
 }
