@@ -31,12 +31,12 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=89781649-6080-4021-9739-f8ba3d875cd0": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
     "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=f657a20b-5132-4e3a-8b1e-131e031f065b": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
     "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=724294dd-2cf3-4df3-8cd5-615baea623be": {
@@ -52,18 +52,19 @@
     "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261109.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=c1ab5cba-d22b-40ab-b89b-1d27431a422c": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
-    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "İstanbul Kalkınma Ajansının beş uzman kadrosunda hem KPSS hem tecrübe yoluyla başvuranlardan dört yıllık lisans isteniyor.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261012.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=4d1a4aba-67fa-449d-b19d-13b197a770f0": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
-    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "Kurum sekiz bilişim pozisyonunu yayımladı. İlanın DOCX eki okunamadı ve Resmî Gazete eki zaman aşımına uğradı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
     "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
@@ -103,9 +104,10 @@
     "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261102.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=4850e095-8b16-4aba-9956-555740a41146": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
-    "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "Orta Anadolu Kalkınma Ajansının altı uzman ve bir büro görevlisi için yayımladığı Tablo 2 ve Tablo 3 dört yıllık lisans mezuniyeti istiyor.",
+    "evidence": "https://www.doka.org.tr/assets/dosyalar/announcement_1220/files/E1___lanMetni.pdf"
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=2b5ee2d8-3958-4fd1-a3cb-219bcb7b536d": {
     "status": "ineligible",
@@ -115,7 +117,7 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
     "reason": "Kurumun kasım ilanı ve ekleri yeniden arandı. Güncel kadroların tamamı için öğrenim ve puan şartları henüz doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
@@ -162,7 +164,37 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm": {
     "status": "pending",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
-    "reason": "33435 sayılı nüshanın kurum başlıklarına erişildi. Mudurnu kadrosu belediye PDF’sinden doğrulandı. Diğer eklerin tam metinleri yeniden kontrol edilecek."
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "19 Kasım çeşitli ilanlar dizini aramada bulundu. Günlük sayı ve ek PDF’ler bu kontrolde okunamadı."
+  },
+  "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-9-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "27 Temmuz ilanının yedek adaylarına evrak teslim çağrısı. Yeni aday başvurusu alınmıyor.",
+    "evidence": "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-9-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/"
+  },
+  "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-8-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "27 Temmuz ilanının yedek adaylarına evrak teslim çağrısı. Yeni aday başvurusu alınmıyor.",
+    "evidence": "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-8-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/"
+  },
+  "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-7-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "27 Temmuz ilanının yedek adaylarına evrak teslim çağrısı. Yeni aday başvurusu alınmıyor.",
+    "evidence": "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-7-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/"
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261030-4-8.pdf": {
+    "status": "cancelled",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "Samsun Asarcık Belediyesi 30 Ekim tarihli memur alımını 10 Kasım’da iptal etti.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261110-4-13.pdf"
+  },
+  "https://sile.bel.tr/uploads/cm/um/cmumlngwd011v4cnpmra1gdzw/cmumlngwd011v4cnpmra1gdzw.pdf": {
+    "status": "closed",
+    "checkedAt": "2026-11-19T03:32:32+03:00",
+    "reason": "Şile Belediyesinin sekiz ortaöğretim zabıta kadrosunda başvurular 6 Kasım’da kapandı. 20 Kasım sözlü ve uygulamalı sınav tarihi.",
+    "evidence": "https://sile.bel.tr/uploads/cm/um/cmumlngwd011v4cnpmra1gdzw/cmumlngwd011v4cnpmra1gdzw.pdf"
   }
 }
