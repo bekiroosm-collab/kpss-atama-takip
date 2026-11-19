@@ -231,9 +231,9 @@
     "reason": "Sayfa açıldı. Güncel dış başvuru, öğrenim şartı ve süre birlikte doğrulanamadı."
   },
   "https://www.karatekin.edu.tr/duyuru/69653": {
-    "status": "pending",
-    "checkedAt": "2026-11-19T04:38:53+03:00",
-    "reason": "Sayfa açıldı. Güncel dış başvuru, öğrenim şartı ve süre birlikte doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-19T05:46:58+03:00",
+    "reason": "KUZKA dört uzman alımının uzatılmış son başvuru tarihini 21 Eylül 2026 olarak duyurdu. https://www.kuzka.gov.tr/news/kuzey-anadolu-kalkinma-ajansi-personel-alimi-basvuru-suresi-uzatildi-419"
   },
   "https://pdb.samsun.edu.tr/idari-personel-sube-mudurlugu/sozlesmeli-personel-ve-isci-islemleri-ofisi/": {
     "status": "pending",
@@ -2258,5 +2258,20 @@
     "checkedAt": "2026-11-19T04:38:53+03:00",
     "reason": "Trabzon Orman Bölge Müdürlüğünün İŞKUR başvuruları 9 Kasım’da kapandı. İlanda kura ile sözlü ve uygulamalı sınav belirtiliyor.",
     "evidence": "https://www.ogm.gov.tr/trabzonobm/duyurular/gecici-isci-alim-ilani"
+  },
+  "https://www.akhisar.bel.tr/duyuru/aciktan-atama-ilani-22-10-2026": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-19T05:46:58+03:00",
+    "reason": "Tek makine mühendisi kadrosu lisans mezuniyeti ve 2026 KPSS P3 en az 70 puan gerektiriyor. https://akhisar.bel.tr/images/duyuru/20-10-2026-1-20261021100258-01.pdf"
+  },
+  "https://www.sariidris.bel.tr/duyuru/sariidris-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alim-duzeltme-ilani": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T05:46:58+03:00",
+    "reason": "Belediyenin zabıta memuru düzeltme duyurusunda erişim doğrulama ekranı açıldı. Düzeltilmiş kadro tablosu ve puan türü öncelikle yeniden kontrol edilmeli."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261023-4-12.pdf": {
+    "status": "pending",
+    "checkedAt": "2026-11-19T05:46:58+03:00",
+    "reason": "23 Ekim Resmî Gazete dizininde Boztepe Belediyesi ilanı bulundu. Kadro tablosunun PDF bağlantısı zaman aşımına uğradı."
   }
 }
