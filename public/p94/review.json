@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-21T21:40:04Z",
+    "checkedAt": "2026-11-21T23:32:47Z",
     "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı ayrıntı alanları boş. Resmî şartname doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı ilan ayrıntıları boş. Asıl şartname doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-21T21:40:04Z",
+    "checkedAt": "2026-11-21T23:32:47Z",
     "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı ayrıntı alanları boş. Resmî şartname doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı ilan ayrıntıları boş. Asıl şartname doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -11561,59 +11561,59 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11624,10 +11624,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
-    "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -14825,9 +14825,723 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4.htm": {
     "status": "pending",
-    "reason": "22 Kasım Çeşitli İlânlar dizini ve tam sayı okunamadı. Arama sonuçlarındaki son doğrulanabilir dizin 21 Kasım tarihli.",
+    "reason": "33438 sayılı günlük dizinde MAPEG, Vakıflar Genel Müdürlüğü ve Kültür ve Turizm Bakanlığı ilanları görüldü. Ek metinleri okunamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4.htm",
-    "checkedAt": "2026-11-21T21:40:04Z",
-    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "33438 sayılı günlük dizinde MAPEG, Vakıflar Genel Müdürlüğü ve Kültür ve Turizm Bakanlığı ilanları görüldü. Ek metinleri okunamadı."
+  },
+  "https://www.acipayam.bel.tr/zabita-mudurlugu": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.acipayam.bel.tr/zabita-mudurlugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.acipayam.bel.tr/zabita": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.acipayam.bel.tr/zabita",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.acipayam.bel.tr/kurum-icinde-zabita-memuru-alimi-ilani": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.acipayam.bel.tr/kurum-icinde-zabita-memuru-alimi-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://adilcevaz.bel.tr/hizmetler/zabita-hizmetleri/": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://adilcevaz.bel.tr/hizmetler/zabita-hizmetleri/",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://adilcevaz.bel.tr/tam-zamanli-sozlesmeli-veteriner-hekim-sozlu-sinav-sonucu/": {
+    "status": "closed",
+    "reason": "Kurumun duyurusu önceki alımın sınavına veya sonuçlarına ilişkin.",
+    "evidence": "https://adilcevaz.bel.tr/tam-zamanli-sozlesmeli-veteriner-hekim-sozlu-sinav-sonucu/",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurumun duyurusu önceki alımın sınavına veya sonuçlarına ilişkin."
+  },
+  "https://adilcevaz.bel.tr/3750-2/": {
+    "status": "closed",
+    "reason": "Son başvuru 18 Eylül 2025.",
+    "evidence": "https://adilcevaz.bel.tr/3750-2/",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Son başvuru 18 Eylül 2025."
+  },
+  "https://adilcevaz.bel.tr/zabita-ekiplerinden-gida-denetimi/": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://adilcevaz.bel.tr/zabita-ekiplerinden-gida-denetimi/",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.afsin.bel.tr/sayfa/personel-alimi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.afsin.bel.tr/sayfa/personel-alimi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.agli.bel.tr/zabita-amirligi.php": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.agli.bel.tr/zabita-amirligi.php",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.akcadag.bel.tr/birim/zabıta-amirliği.html": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.akcadag.bel.tr/birim/zabıta-amirliği.html",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.akcakale.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.akcakale.bel.tr/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.akcakale.bel.tr/haber/akcakale-belediyesi-zabita-ekiplerinden-lokanta-ve-donercilere-hijyen-denetimi-belediye-baskani-ecz-abdulhakim-ayhan-in-talimatiyla-ilcede-bulunan-lokantalar-ve-donerciler-belediye-zabita-ekipleri-tarafindan-titiz-bir-denetimden-gecirildi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.akcakale.bel.tr/haber/akcakale-belediyesi-zabita-ekiplerinden-lokanta-ve-donercilere-hijyen-denetimi-belediye-baskani-ecz-abdulhakim-ayhan-in-talimatiyla-ilcede-bulunan-lokantalar-ve-donerciler-belediye-zabita-ekipleri-tarafindan-titiz-bir-denetimden-gecirildi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.akcakale.bel.tr/duyuru/sozlesmeli-personel-alimi-mulakatina-hak-kazananlar": {
+    "status": "closed",
+    "reason": "Kurumun duyurusu önceki alımın sınavına veya sonuçlarına ilişkin.",
+    "evidence": "https://www.akcakale.bel.tr/duyuru/sozlesmeli-personel-alimi-mulakatina-hak-kazananlar",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurumun duyurusu önceki alımın sınavına veya sonuçlarına ilişkin."
+  },
+  "https://www.akcakale.bel.tr/duyuru/ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani": {
+    "status": "closed",
+    "reason": "21 Nisan 2026 tarihli alımın mülakat listesi 12 Haziran’da yayımlandı.",
+    "evidence": "https://www.akcakale.bel.tr/duyuru/sozlesmeli-personel-alimi-mulakatina-hak-kazananlar",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "21 Nisan 2026 tarihli alımın mülakat listesi 12 Haziran’da yayımlandı."
+  },
+  "https://www.akcakale.bel.tr/duyuru/100-temizlik-personel-alimi-yapilacaktir": {
+    "status": "closed",
+    "reason": "100 temizlik personeli için son başvuru 30 Nisan 2025.",
+    "evidence": "https://www.akcakale.bel.tr/duyuru/100-temizlik-personel-alimi-yapilacaktir",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "100 temizlik personeli için son başvuru 30 Nisan 2025."
+  },
+  "https://www.akcakale.bel.tr/haber/birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.akcakale.bel.tr/haber/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.akcakale.bel.tr/haber/haber/akcakale-belediyesi-zabita-ekiplerinden-lokanta-ve-donercilere-hijyen-denetimi-belediye-baskani-ecz-abdulhakim-ayhan-in-talimatiyla-ilcede-bulunan-lokantalar-ve-donerciler-belediye-zabita-ekipleri-tarafindan-titiz-bir-denetimden-gecirildi": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.akcakale.bel.tr/haber/haber/akcakale-belediyesi-zabita-ekiplerinden-lokanta-ve-donercilere-hijyen-denetimi-belediye-baskani-ecz-abdulhakim-ayhan-in-talimatiyla-ilcede-bulunan-lokantalar-ve-donerciler-belediye-zabita-ekipleri-tarafindan-titiz-bir-denetimden-gecirildi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://akkisla.bel.tr/zabita/": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://akkisla.bel.tr/zabita/",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.akkus.bel.tr/duyurular/kurum-ici-zabita-memuru-alimi-sinav-sonuclari": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.akkus.bel.tr/duyurular/kurum-ici-zabita-memuru-alimi-sinav-sonuclari",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.akkus.bel.tr/duyurular/kurum-ici-zabita-memur-alimi-sinavina-girmeye-hak-kazananlar-aday-listesi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.akkus.bel.tr/duyurular/kurum-ici-zabita-memur-alimi-sinavina-girmeye-hak-kazananlar-aday-listesi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.akkus.bel.tr/duyurular/kurum-ici-zabita-memuru-alimi-sinav-ilani": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.akkus.bel.tr/duyurular/kurum-ici-zabita-memuru-alimi-sinav-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.akkus.bel.tr/duyurular/ilk-defa-atanmak-uzere-memur-alimi-iptal-ilani": {
+    "status": "closed",
+    "reason": "Belediye, 2 Mart 2025 tarihli memur alım ilanını iptal etti.",
+    "evidence": "https://www.akkus.bel.tr/duyurular/ilk-defa-atanmak-uzere-memur-alimi-iptal-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediye, 2 Mart 2025 tarihli memur alım ilanını iptal etti."
+  },
+  "https://www.akkus.bel.tr/duyurular/ordu-ili-akkus-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alimi-ilani": {
+    "status": "closed",
+    "reason": "Belediye, 2 Mart 2025 tarihli memur alım ilanını iptal etti.",
+    "evidence": "https://www.akkus.bel.tr/duyurular/ilk-defa-atanmak-uzere-memur-alimi-iptal-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediye, 2 Mart 2025 tarihli memur alım ilanını iptal etti."
+  },
+  "https://www.akyazi.bel.tr/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.akyazi.bel.tr/zabita-mudurlugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.akyazi.bel.tr/zabita-hizmetleri-1": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.akyazi.bel.tr/zabita-hizmetleri-1",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.akyurt.bel.tr/birim/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.akyurt.bel.tr/birim/zabita-mudurlugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://alapli.bel.tr/duyuru/418-kurum-ici-zabita-memuru-alimi-basvuru-listesi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/duyuru/418-kurum-ici-zabita-memuru-alimi-basvuru-listesi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/duyuru/417-kurum-ici-zabita-memuru-alimi-sinav-ilani": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/duyuru/417-kurum-ici-zabita-memuru-alimi-sinav-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/duyuru/409-alapli-belediyesi-isci-alimi": {
+    "status": "closed",
+    "reason": "Üç beden işçisi için son başvuru 15 Nisan 2026.",
+    "evidence": "https://alapli.bel.tr/duyuru/409-alapli-belediyesi-isci-alimi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Üç beden işçisi için son başvuru 15 Nisan 2026."
+  },
+  "https://alapli.bel.tr/duyuru/389-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinav-sonuclarina-gore-atamaya-esas-basari-listeleri": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/duyuru/389-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinav-sonuclarina-gore-atamaya-esas-basari-listeleri",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://alapli.bel.tr/zabita-mudurlugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://alapli.bel.tr/detay/418-kurum-ici-zabita-memuru-alimi-basvuru-listesi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/418-kurum-ici-zabita-memuru-alimi-basvuru-listesi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/417-kurum-ici-zabita-memuru-alimi-sinav-ilani": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/417-kurum-ici-zabita-memuru-alimi-sinav-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/409-alapli-belediyesi-isci-alimi": {
+    "status": "closed",
+    "reason": "Üç beden işçisi için son başvuru 15 Nisan 2026.",
+    "evidence": "https://alapli.bel.tr/duyuru/409-alapli-belediyesi-isci-alimi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Üç beden işçisi için son başvuru 15 Nisan 2026."
+  },
+  "https://alapli.bel.tr/detay/389-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinav-sonuclarina-gore-atamaya-esas-basari-listeleri": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/389-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinav-sonuclarina-gore-atamaya-esas-basari-listeleri",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/385-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinava-katilmaya-hak-kazanan-adaylar": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/385-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinava-katilmaya-hak-kazanan-adaylar",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/382-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-5-adet-itfaiye-eri-alinacaktir": {
+    "status": "closed",
+    "reason": "2025 itfaiye eri alımı sözlü ve uygulamalı sınav aşamasına geçti.",
+    "evidence": "https://alapli.bel.tr/duyuru/389-alapli-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-sozlu-ve-uygulamali-sinav-sonuclarina-gore-atamaya-esas-basari-listeleri",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "2025 itfaiye eri alımı sözlü ve uygulamalı sınav aşamasına geçti."
+  },
+  "https://alapli.bel.tr/detay/379-alapli-belediye-baskanligi-kurum-ici-zabita-memuru-alimi-sinav-ilani": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/379-alapli-belediye-baskanligi-kurum-ici-zabita-memuru-alimi-sinav-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/375-isci-personel-alimi": {
+    "status": "closed",
+    "reason": "Üç temizlik işçisi için son başvuru 23 Mayıs 2025.",
+    "evidence": "https://alapli.bel.tr/detay/375-isci-personel-alimi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Üç temizlik işçisi için son başvuru 23 Mayıs 2025."
+  },
+  "https://alapli.bel.tr/detay/298-alapli-belediye-baskanligi-aciktan-atama-yoluyla-memur-alimi-atamaya-esas-basari-listeleri": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/298-alapli-belediye-baskanligi-aciktan-atama-yoluyla-memur-alimi-atamaya-esas-basari-listeleri",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/285-alapli-belediye-baskanligi-aciktan-atama-yoluyla-memur-alimi-sozlu-sinava-katilmaya-hak-kazanan-adaylarin-listesi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/285-alapli-belediye-baskanligi-aciktan-atama-yoluyla-memur-alimi-sozlu-sinava-katilmaya-hak-kazanan-adaylarin-listesi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://alapli.bel.tr/detay/276-alapli-belediye-baskanligi-ilk-defa-atanmak-uzere-memur-alim-ilani": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://alapli.bel.tr/detay/276-alapli-belediye-baskanligi-ilk-defa-atanmak-uzere-memur-alim-ilani",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.alpu.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.alpu.bel.tr/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.altinekin.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.altinekin.bel.tr/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.alucra.bel.tr/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.alucra.bel.tr/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.alucra.bel.tr/kamu-gorevlerine-ilk-defa-atanacaklar-icin-istenen-belgeler": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.alucra.bel.tr/kamu-gorevlerine-ilk-defa-atanacaklar-icin-istenen-belgeler",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.amasra.bel.tr/BartinAmasra/Birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.amasra.bel.tr/BartinAmasra/Birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120401_3c0486d8ebd94760809b44bd0da7d45e.zip": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120401_3c0486d8ebd94760809b44bd0da7d45e.zip",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120304_ea6d618c47af4f8ab6366fa015f1850e.zip": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120304_ea6d618c47af4f8ab6366fa015f1850e.zip",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120219_e73ad95d4c80436c94f612f1ce50c6ce.zip": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120219_e73ad95d4c80436c94f612f1ce50c6ce.zip",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120159_32c2758680134f9dbc38b6a1d99359e8.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120159_32c2758680134f9dbc38b6a1d99359e8.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120127_2daa0bf1f178420897a2f149a3e02439.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120127_2daa0bf1f178420897a2f149a3e02439.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120056_94e642383e1447a4bd3f546ba3155f8d.zip": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120056_94e642383e1447a4bd3f546ba3155f8d.zip",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115953_07d5497eff1e4a00bb55033be680c782.zip": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115953_07d5497eff1e4a00bb55033be680c782.zip",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115928_310e21ee080d490fa582f43e34da16aa.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115928_310e21ee080d490fa582f43e34da16aa.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115856_30b217ea45cd4e8aab0201bee7308cf6.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115856_30b217ea45cd4e8aab0201bee7308cf6.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115816_3e9ba8fd34c54f78901130be189268ba.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115816_3e9ba8fd34c54f78901130be189268ba.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115746_5bc1d4bb5d074a5faad13eba79dc720c.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115746_5bc1d4bb5d074a5faad13eba79dc720c.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213432_1937e97af76d4418846b283120d25acf.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213432_1937e97af76d4418846b283120d25acf.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213116_15dc19d8ea3e43ef9f4a8fe4973ed53c.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213116_15dc19d8ea3e43ef9f4a8fe4973ed53c.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213020_40c8e29716394e67a5552818baf745a1.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213020_40c8e29716394e67a5552818baf745a1.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212713_d5a3a770a637428c8879de2e3b59a2da.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212713_d5a3a770a637428c8879de2e3b59a2da.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212645_86e43ed476784a508f1a016d360b7ade.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212645_86e43ed476784a508f1a016d360b7ade.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212601_d0bbbe7f52484fa79f06b9c1d0a30061.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212601_d0bbbe7f52484fa79f06b9c1d0a30061.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212530_79cf632730d94af9ace6f810469a7eb6.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212530_79cf632730d94af9ace6f810469a7eb6.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163736_299703e9b185448f83268e0b82c68853.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163736_299703e9b185448f83268e0b82c68853.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163609_e13ab2d8010744bd8c1230baa5a9e7b7.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163609_e13ab2d8010744bd8c1230baa5a9e7b7.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.andirin.bel.tr/birim.php?slug=zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.andirin.bel.tr/birim.php?slug=zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://araban.bel.tr/haber/zabita-ekiplerimizden-firinlara-gramaj-ve-hijyen-denetimi.html": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://araban.bel.tr/haber/zabita-ekiplerimizden-firinlara-gramaj-ve-hijyen-denetimi.html",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://araban.bel.tr/birim/zabita-amirligi.html": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://araban.bel.tr/birim/zabita-amirligi.html",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.arapgir.bel.tr/dosyalar/zabita.pdf": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.arapgir.bel.tr/dosyalar/zabita.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://armutlu.bel.tr/duyurular/sozlesmeli-personel-alimina-ait-sozlu-sinava-katilan-aday-sinav-sonuclari": {
+    "status": "closed",
+    "reason": "Kurumun duyurusu önceki alımın sınavına veya sonuçlarına ilişkin.",
+    "evidence": "https://armutlu.bel.tr/duyurular/sozlesmeli-personel-alimina-ait-sozlu-sinava-katilan-aday-sinav-sonuclari",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurumun duyurusu önceki alımın sınavına veya sonuçlarına ilişkin."
+  },
+  "https://armutlu.bel.tr/duyurular/sozlesmeli-personel-alimina-ait-sozlu-sinava-katilmaya-hak-kazanan-aday-listesi": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://armutlu.bel.tr/duyurular/sozlesmeli-personel-alimina-ait-sozlu-sinava-katilmaya-hak-kazanan-aday-listesi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.arsin.bel.tr/BirimPersonel/7": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.arsin.bel.tr/BirimPersonel/7",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.arsin.bel.tr/Duyurular/Detay/4028": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.arsin.bel.tr/Duyurular/Detay/4028",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.artuklu.bel.tr/birim/zabita-mudurugu": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.artuklu.bel.tr/birim/zabita-mudurugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.artuklu.bel.tr/duyuru/birim/zabita-mudurugu": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.artuklu.bel.tr/duyuru/birim/zabita-mudurugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.artvin.bel.tr/zabita-mudurlugu": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.artvin.bel.tr/zabita-mudurlugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.asarcik.bel.tr/duyuru/150/asarck-beledyesne-lk-defa-atanmak-uzere-memur-mmar-alm-lannn-ptalne-lskn-duyuru": {
+    "status": "closed",
+    "reason": "Belediye mimar alımının iptalini duyurdu.",
+    "evidence": "https://www.asarcik.bel.tr/duyuru/150/asarck-beledyesne-lk-defa-atanmak-uzere-memur-mmar-alm-lannn-ptalne-lskn-duyuru",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediye mimar alımının iptalini duyurdu."
+  },
+  "https://www.asarcik.bel.tr/duyuru/149/asarck-beledye-baskanlgna-lk-defa-atanmak-uzere-memur-alm-lan-ve-basvuru-formu": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.asarcik.bel.tr/duyuru/149/asarck-beledye-baskanlgna-lk-defa-atanmak-uzere-memur-alm-lan-ve-basvuru-formu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.asarcik.bel.tr/duyuru/138/lk-defa-atanmak-uzere-sozlesmel-personel-alm-nha-sonucu": {
+    "status": "closed",
+    "reason": "Tekniker için 1 Eylül 2025 tarihli sözlü sınavın nihai sonucu.",
+    "evidence": "https://www.asarcik.bel.tr/duyuru/138/lk-defa-atanmak-uzere-sozlesmel-personel-alm-nha-sonucu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Tekniker için 1 Eylül 2025 tarihli sözlü sınavın nihai sonucu."
+  },
+  "https://www.asarcik.bel.tr/duyuru/137/sozlesmel-teknker-personel-alm-on-degerlendrme-sonucu": {
+    "status": "closed",
+    "reason": "Tekniker alımının ön değerlendirme sonucu.",
+    "evidence": "https://www.asarcik.bel.tr/duyuru/137/sozlesmel-teknker-personel-alm-on-degerlendrme-sonucu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Tekniker alımının ön değerlendirme sonucu."
+  },
+  "https://www.asarcik.bel.tr/duyuru/133/asarck-beledye-baskanlgna-lk-defa-atanmak-uzere-sozlesmel-personel-alm-lan-ve-basvuru-formu": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.asarcik.bel.tr/duyuru/133/asarck-beledye-baskanlgna-lk-defa-atanmak-uzere-sozlesmel-personel-alm-lan-ve-basvuru-formu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.atabey.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.atabey.bel.tr/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.atakum.bel.tr/detayTesis-23": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.atakum.bel.tr/detayTesis-23",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.atakum.bel.tr/birimDetay-zabita-mudurlugu": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.atakum.bel.tr/birimDetay-zabita-mudurlugu",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.atkaracalar.bel.tr/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.atkaracalar.bel.tr/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.avanos.bel.tr/birimler/zabita-mudurlugu-15": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.avanos.bel.tr/birimler/zabita-mudurlugu-15",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.avanos.bel.tr/mudurler": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.avanos.bel.tr/mudurler",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.ayancik.bel.tr/detay/sayfa/zabita-hizmetleri/": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.ayancik.bel.tr/detay/sayfa/zabita-hizmetleri/",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.aybasti.bel.tr/sayfa/zabita-islemleri": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.aybasti.bel.tr/sayfa/zabita-islemleri",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.ayvacik.bel.tr/sayfa/zabita-islemleri": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.ayvacik.bel.tr/sayfa/zabita-islemleri",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.azdavay.bel.tr/BirimDetayi/ZABITA-AMIRLIGI/65": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.azdavay.bel.tr/BirimDetayi/ZABITA-AMIRLIGI/65",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.azdavay.bel.tr/IcerikDetayi/PERSONEL-ALIMI-ILANI/1599": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.azdavay.bel.tr/IcerikDetayi/PERSONEL-ALIMI-ILANI/1599",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.azdavay.bel.tr/IcerikDetayi/KURUM-DISI-KAMU-ISCI-ALIM-ILAN-FORMU/1594": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.azdavay.bel.tr/IcerikDetayi/KURUM-DISI-KAMU-ISCI-ALIM-ILAN-FORMU/1594",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.azdavay.bel.tr/IcerikDetayi/KURUM-DISI-KAMU-ISCI-ALIM-ILAN-FORMU/1586": {
+    "status": "pending",
+    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "evidence": "https://www.azdavay.bel.tr/IcerikDetayi/KURUM-DISI-KAMU-ISCI-ALIM-ILAN-FORMU/1586",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+  },
+  "https://www.bahcesaray.bel.tr/birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.bahcesaray.bel.tr/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.baklan.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor.",
+    "evidence": "https://www.baklan.bel.tr/birim/zabita-amirligi",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Belediyenin birim, hizmet veya denetim sayfası. Personel başvurusu duyurmuyor."
+  },
+  "https://www.baklan.bel.tr/duyuru/lise-giris-sinavi-belediye-baskanimiz-yusuf-gulsever-in-mesaji": {
+    "status": "pending",
+    "reason": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek.",
+    "evidence": "https://www.baklan.bel.tr/duyuru/lise-giris-sinavi-belediye-baskanimiz-yusuf-gulsever-in-mesaji",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Kurum bağlantısı okunamadı. İlanın durumu tekrar kontrol edilecek."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf": {
+    "status": "pending",
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf": {
+    "status": "pending",
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf": {
+    "status": "pending",
+    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf",
+    "checkedAt": "2026-11-21T23:32:47Z",
+    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
   }
 }
