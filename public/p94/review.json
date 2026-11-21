@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "İlan detayında kadro ve tarihler yüklenmedi."
+    "lastAttempt": "Kariyer Kapısı ilan alanları boş döndü."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "İlan detayında kadro ve tarihler yüklenmedi."
+    "lastAttempt": "Kariyer Kapısı ilan alanları boş döndü."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -11562,58 +11562,58 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11625,9 +11625,9 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:00:22Z",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Günlük sayı ve ek PDF doğrudan okunamadı."
+    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -14628,25 +14628,25 @@
     "lastAttempt": "Resmî sayfa incelendi."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-5.-grup-yedek-liste.html": {
-    "status": "pending",
-    "reason": "“06 Kas 2026/1 Sözleşmeli Personel Alımı 5. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos alımına daha önce başvuran yedek adaylara evrak teslim çağrısı. Son teslim 20.11.2026 saat 17.00.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-5.-grup-yedek-liste.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/formlar/sozlesmeli-personel-ilani-sonrasi-istenen-belgeler.html": {
-    "status": "pending",
-    "reason": "“Sözleşmeli Personel İlanına Başvuru İçin Gerekli Belgeler” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin başvuru dilekçesi ve belge örnekleri sayfası.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/formlar/sozlesmeli-personel-ilani-sonrasi-istenen-belgeler.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/657-sayili-kanunun-4B-maddesi-uyarinca-gorev-yapan-personelin-sozlesme-yenilememesi.html": {
-    "status": "pending",
-    "reason": "“657 sayılı Kanunun 4/B Maddesi Uyarınca Görev Yapan Personel Sözleşme Yenilememesi Durumunda 1 Yıl Geçmedikçe Kurumların Sözleşmeli Personel Pozisyonlarında İstihdam Edilemeyecekti” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "ineligible",
+    "reason": "Mevcut sözleşmeli personelin sözleşme yenilememesine ilişkin mevzuat duyurusu.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/657-sayili-kanunun-4B-maddesi-uyarinca-gorev-yapan-personelin-sozlesme-yenilememesi.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://www.ilan.gov.tr/ilan/kategori/73/akademik-personel-alimlari": {
     "status": "pending",
@@ -14656,53 +14656,53 @@
     "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-6.-grup-yedek-liste.html": {
-    "status": "pending",
-    "reason": "“20 Kas 2026/1 Sözleşmeli Personel Alımı 6. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos alımına daha önce başvuran yedek adaylara evrak teslim çağrısı. Son teslim 04.12.2026 saat 17.00.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-6.-grup-yedek-liste.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-4.-grup-yedek-liste.html": {
-    "status": "pending",
-    "reason": "“23 Eki 2026/1 Sözleşmeli Personel Alımı 4. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos alımına daha önce başvuran yedek adaylara evrak teslim çağrısı. Son teslim 06.11.2026 saat 17.00.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-4.-grup-yedek-liste.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-3.-grup-yedek-liste.html": {
-    "status": "pending",
-    "reason": "“09 Eki 2026/1 Sözleşmeli Personel Alımı 3. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos alımına daha önce başvuran yedek adaylara evrak teslim çağrısı. Son teslim 23.10.2026 saat 17.00.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-3.-grup-yedek-liste.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-2.-grup-yedek-liste.html": {
-    "status": "pending",
-    "reason": "“25 Eyl 2026/1 Sözleşmeli Personel Alımı 2. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos alımına daha önce başvuran yedek adaylara evrak teslim çağrısı. Son teslim 09.10.2026 saat 17.00.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-2.-grup-yedek-liste.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-1.-grup-yedek-liste.html": {
-    "status": "pending",
-    "reason": "“11 Eyl 2026/1 Sözleşmeli Personel Alımı 1. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos alımına daha önce başvuran yedek adaylara evrak teslim çağrısı. Son teslim 25.09.2026 saat 17.00.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-1.-grup-yedek-liste.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/sozlesmeli-personel-ilani-20261-alim-sonuclari.html": {
-    "status": "pending",
-    "reason": "“27 Ağu Sözleşmeli Personel İlanı 2026/1 Alım Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "closed",
+    "reason": "6 Ağustos 2026 tarihli 2026/1 alımı P94 kabul etmişti. Kurum sonuç duyurusunda başvuruların tamamlandığını bildirdi.",
+    "checkedAt": "2026-11-21T18:44:37Z",
     "evidence": "https://personel.beun.edu.tr/duyurular/sozlesmeli-personel-ilani-20261-alim-sonuclari.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-ilani.html": {
-    "status": "pending",
-    "reason": "“06 Ağu 2026/1 Sözleşmeli Personel Alımı İlanı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
-    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-ilani.html",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "status": "closed",
+    "reason": "6 Ağustos 2026 tarihli 2026/1 alımı P94 kabul etmişti. Kurum sonuç duyurusunda başvuruların tamamlandığını bildirdi.",
+    "checkedAt": "2026-11-21T18:44:37Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/sozlesmeli-personel-ilani-20261-alim-sonuclari.html",
+    "lastAttempt": "Kurum duyurusunun içeriği kontrol edildi."
   },
   "https://ceylanpinar.bel.tr/birim/zabıta-müdürlüğü": {
     "status": "ineligible",
