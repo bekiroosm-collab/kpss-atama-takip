@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-21T18:44:37Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-21T20:19:06Z",
+    "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı ilan alanları boş döndü."
+    "lastAttempt": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-21T18:44:37Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-21T20:19:06Z",
+    "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı ilan alanları boş döndü."
+    "lastAttempt": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -3103,11 +3103,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://bakka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-oka-personel-alimi-15242": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://bakka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-oka-personel-alimi-15242",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "ineligible",
+    "checkedAt": "2026-11-21T20:19:06Z",
+    "reason": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor.",
+    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf",
+    "lastAttempt": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor."
   },
   "https://bakka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani-15241": {
     "status": "pending",
@@ -5092,11 +5092,11 @@
     "evidence": "https://www.dogaka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani/852"
   },
   "https://www.dogaka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-oka-personel-alimi-duyurusu/850": {
-    "status": "pending",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "https://www.dogaka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-oka-personel-alimi-duyurusu/850",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "ineligible",
+    "reason": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor.",
+    "checkedAt": "2026-11-21T20:19:06Z",
+    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf",
+    "lastAttempt": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor."
   },
   "https://www.dogaka.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-personel-alim-ilani/848": {
     "status": "pending",
@@ -11562,58 +11562,58 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11625,9 +11625,9 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T18:44:37Z",
+    "checkedAt": "2026-11-21T20:19:06Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek PDF ve tam sayı okunamadı."
+    "lastAttempt": "Ek dosya ve günün tam sayısı yeniden açılmaya çalışıldı. Metne erişilemedi."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -14801,5 +14801,19 @@
     "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.19mayis.bel.tr/birim/zabita-mudurlugu",
     "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.ahika.gov.tr/en/duyurular/t-c-orta-karadeniz-kalkinma-ajansi-oka-personel-alim-ilani-2026": {
+    "status": "ineligible",
+    "reason": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor.",
+    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf",
+    "checkedAt": "2026-11-21T20:19:06Z",
+    "lastAttempt": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor."
+  },
+  "https://elmali.adalet.gov.tr/5766_sonuc": {
+    "status": "ineligible",
+    "reason": "20 Kasım duyurusu haziran alımının sözlü sınav sonuçlarını açıklıyor. 7 Aralık yalnızca kazananların evrak teslim süresi.",
+    "evidence": "https://elmali.adalet.gov.tr/5766_sonuc",
+    "checkedAt": "2026-11-21T20:19:06Z",
+    "lastAttempt": "20 Kasım duyurusu haziran alımının sözlü sınav sonuçlarını açıklıyor. 7 Aralık yalnızca kazananların evrak teslim süresi."
   }
 }
