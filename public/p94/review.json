@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Detay sayfasında başvuru ve kadro alanlarının değerleri yüklenmedi."
+    "lastAttempt": "İlan alanları boş döndü."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Detay sayfasında başvuru ve kadro alanlarının değerleri yüklenmedi."
+    "lastAttempt": "İlan alanları boş döndü."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -11561,58 +11561,58 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11624,9 +11624,9 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "checkedAt": "2026-11-21T17:10:15Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Resmî ek ve tam sayı adresinden okunabilir PDF alınamadı."
+    "lastAttempt": "Ek PDF okunamadı."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -13337,5 +13337,1468 @@
     "checkedAt": "2026-11-21T16:21:05Z",
     "evidence": "https://cankiri.adalet.gov.tr/amp/sozlesmeli-zabit-katibi-uygulamali-sinav-sonuclari-ilani",
     "lastAttempt": "Kurumun yayımladığı metin kontrol edildi."
+  },
+  "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-yazili-sinavi-1": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Yazılı Sınavı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-yazili-sinavi-1",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-yazili-sinavi-ilani": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Yazılı Sınavı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-yazili-sinavi-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-alimi-ilani-1": {
+    "status": "pending",
+    "reason": "“SÖZLEŞMELİ PERSONEL ALIMI İLANI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-alimi-ilani-1",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.suen.gov.tr/duyurular/turkiye-su-enstitusu-sozlesmeli-personel-alimi": {
+    "status": "pending",
+    "reason": "“Türkiye Su Enstitüsü Sözleşmeli Personel Alımı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.suen.gov.tr/duyurular/turkiye-su-enstitusu-sozlesmeli-personel-alimi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-alimi-ilani": {
+    "status": "pending",
+    "reason": "“SÖZLEŞMELİ PERSONEL ALIMI İLANI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.suen.gov.tr/duyurular/sozlesmeli-personel-alimi-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=143": {
+    "status": "closed",
+    "reason": "Kura sonrası yedek adayların evrak kontrolü.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=143",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=142": {
+    "status": "pending",
+    "reason": "“Amasra 4 İşçi Alımı 1. Etap Yedek Aday Evrak Kontrolü Sonuçları ve 2. Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=142",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=139": {
+    "status": "closed",
+    "reason": "Mevcut adaylar 16 Kasım’da işe başlamak üzere çağrılmış.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=139",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=138": {
+    "status": "pending",
+    "reason": "“Amasra 20 İşçi Alımı 2.Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=138",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=137": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=137",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=136": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=136",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=135": {
+    "status": "pending",
+    "reason": "“Zonguldak İçin 57 İşçi Alımı Kura Çekim Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=135",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=134": {
+    "status": "pending",
+    "reason": "“Amasra (Bartın) İçin 4 İşçi Alımı Kura Çekim Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=134",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=133": {
+    "status": "pending",
+    "reason": "“Zonguldak 242 İşçi Alımı 7. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=133",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=132": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=132",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=131": {
+    "status": "closed",
+    "reason": "Kura sonrası yedek adaylara belge teslim çağrısı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=131",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=118": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=118",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=116": {
+    "status": "pending",
+    "reason": "“61 İşçi Alımı Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=116",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=113": {
+    "status": "pending",
+    "reason": "“Amasra 20 İşçi Alımı 1.Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=113",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=114": {
+    "status": "pending",
+    "reason": "“Zonguldak 242 İşçi Alımı 1.Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=114",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=111": {
+    "status": "pending",
+    "reason": "“Zonguldak 242 İşçi Alımı 4. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=111",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=112": {
+    "status": "pending",
+    "reason": "“Amasra 20 İşçi Alımı 4. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=112",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=108": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=108",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=109": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=109",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=105": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=105",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=106": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=106",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=103": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=103",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=104": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=104",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=99": {
+    "status": "pending",
+    "reason": "“Zonguldak 242 İşçi Alımı Evrak Kontrolü Sonuçları ve 1. Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=99",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=100": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=100",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=95": {
+    "status": "pending",
+    "reason": "“Zonguldak İçin 242 İşçi Alımı Kura Çekim Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=95",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=96": {
+    "status": "pending",
+    "reason": "“Amasra (Bartın) İçin 20 İşçi Alımı Kura Çekim Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=96",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=93": {
+    "status": "pending",
+    "reason": "“262 İşçi Alımı Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=93",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=79": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 4. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=79",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=76": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 4. Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=76",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=72": {
+    "status": "pending",
+    "reason": "“6 Engelli İşçi Alımı İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=72",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=71": {
+    "status": "pending",
+    "reason": "“Amasra Taşkömürü İşletme Müessese Müdürlüğü 19 Nitelikli İşçi Alımı 2.Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=71",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=70": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 4. Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=70",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=67": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 9. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=67",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=66": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 3. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=66",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=65": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 9. Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=65",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=63": {
+    "status": "pending",
+    "reason": "“6 Engelli İşçi Alımı 1. Etap Yedek Adayın Belge Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=63",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=64": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 3. Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=64",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=62": {
+    "status": "pending",
+    "reason": "“6 Engelli İşçi Alımı Asıl Adayların Belge Kontrol Sonuçları ve 1. Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=62",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=61": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 20. Etap Evrak Kontrol Sonucu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=61",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=60": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 19. Etap Evrak Kontrol Sonucu ve 20.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=60",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=59": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 3. Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=59",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=58": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 18. Etap Evrak Kontrol Sonucu ve 19.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=58",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=57": {
+    "status": "pending",
+    "reason": "“6 Engelli İşçi Alımı Kura Çekim Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=57",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=56": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 1.Etap İşe Başvuru Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=56",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=55": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 17. Etap Evrak Kontrol Sonucu ve 18.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=55",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=54": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 16. Etap Evrak Kontrol Sonucu ve 17.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=54",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=51": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 15. Etap Evrak Kontrol Sonucu ve 16.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=51",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=50": {
+    "status": "pending",
+    "reason": "“6 Engelli İşçi Alımı Kura Çekimi” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=50",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=49": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 14. Etap Evrak Kontrol Sonucu ve 15.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=49",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=48": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 13. Etap Evrak Kontrol Sonucu ve 14.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=48",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=45": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 12. Etap Evrak Kontrol Sonucu ve 13.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=45",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=43": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 11. Etap Evrak Kontrol Sonucu ve 12.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=43",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=41": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 10. Etap Evrak Kontrol Sonucu ve 11.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=41",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=40": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=40",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=37": {
+    "status": "pending",
+    "reason": "“2000 Gruplu İşçi Alımı İkinci Kura Çekimi” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=37",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=38": {
+    "status": "pending",
+    "reason": "“2000 Gruplu İşçi Alımı İkinci Kura Çekimi İçin Nihai Listeler” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=38",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=35": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 8. Etap Evrak Kontrol Sonuçları ve 9.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=35",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=36": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 2. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=36",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=34": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 8. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=34",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=30": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=30",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=31": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=31",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=32": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı 1. Etap Evrak Kontrol Sonuçları ve 2 .Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=32",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=29": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=29",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=28": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=28",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=24": {
+    "status": "pending",
+    "reason": "“Amasra T.İ.M. 19 Nitelikli İşçi Alımı Evrak Kontrolü Sonuçları Ve 1.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=24",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=23": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 5. Etap Evrak Kontrol Sonuçları Ve 6.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=23",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=22": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 6.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=22",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=21": {
+    "status": "pending",
+    "reason": "“4 Nitelikli Numuneci İşçi Alımı 4. Etap Evrak Kontrol Sonuçları Ve 5.Etap Yedek Aday Çağrılması” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=21",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=20": {
+    "status": "pending",
+    "reason": "“19 Nitelikli İşçi Alımı Kura Çekim Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=20",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=19": {
+    "status": "pending",
+    "reason": "“4 NİTELİKLİ NUMUNECİ İŞÇİ ALIMI 3. ETAP EVRAK KONTROL SONUÇLARI VE 4.ETAP YEDEK ADAY ÇAĞRILMASI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=19",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=18": {
+    "status": "pending",
+    "reason": "“4 NİTELİKLİ NUMUNECİ İŞÇİ ALIMI 2. ETAP EVRAK KONTROL SONUÇLARI VE 3.ETAP YEDEK ADAY ÇAĞRILMASI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=18",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=17": {
+    "status": "pending",
+    "reason": "“132 NİTELİKLİ İŞÇİ ALIMI 2.ETAP İŞE BAŞVURU DUYURUSU” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=17",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=14": {
+    "status": "pending",
+    "reason": "“AMASRA TAŞKÖMÜRÜ İŞLETME MÜESSESE MÜDÜRLÜĞÜ İÇİN 19 NİTELİKLİ İŞÇİ ALIMI KURA ÇEKİMİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=14",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=15": {
+    "status": "pending",
+    "reason": "“4 NİTELİKLİ NUMUNECİ İŞÇİ ALIMI 1.ETAP EVRAK KONTROL SONUÇLARI VE 2.ETAP YEDEK ADAY ÇAĞRILMASI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=15",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=3": {
+    "status": "pending",
+    "reason": "“4 NİTELİKLİ İŞÇİ ALIMI NUMUNECİ SANATI VE İŞ MAKİNESİ OPERATÖRÜ İŞÇİ ALIMI EVRAK KONTROL SONUÇLARI V” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=3",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=5": {
+    "status": "closed",
+    "reason": "Kurum yedek adayların teslim edeceği belgeleri bildiriyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=5",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=6": {
+    "status": "pending",
+    "reason": "“NUMUNECİ 4 NİTELİKLİ İŞÇİ ALIMI KURA ÇEKİM SONUÇLARI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=6",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=7": {
+    "status": "pending",
+    "reason": "“4 NİTELİKLİ “NUMUNECİ” SANATINDA İŞÇİ ALIMI KURA ÇEKİMİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=7",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=10": {
+    "status": "pending",
+    "reason": "“4 NİTELİKLİ İŞÇİ ALIMI EVRAK KONTROLÜ SONUÇLARI VE YEDEK ADAY ÇAĞRILMASI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=10",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=11": {
+    "status": "pending",
+    "reason": "“132 NİTELİKLİ İŞÇİ ALIMI 1.ETAP İŞE BAŞVURU DUYURUSU” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=11",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=12": {
+    "status": "pending",
+    "reason": "“132 Nitelikli İşçi Alımı 5. Etap Evrak Kontrol Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=12",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://tibu.edu.tr/sozlesmeli-personel-alimi-nihai-degelerndirme-sonuclari-2026-03/": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alımı Nihai Değerlendirme Sonuçları (2026-03)” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://tibu.edu.tr/sozlesmeli-personel-alimi-nihai-degelerndirme-sonuclari-2026-03/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://tibu.edu.tr/sozlesmeli-personel-alim-ilani-2026-03-on-degerlendirme-sonuclari/": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alım İlanı (2026-03) Ön Değerlendirme Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://tibu.edu.tr/sozlesmeli-personel-alim-ilani-2026-03-on-degerlendirme-sonuclari/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://pdb.tibu.edu.tr/sozlesmeli-personel-alimi-nihai-degelerndirme-sonuclari-2026-03/": {
+    "status": "closed",
+    "reason": "28 Eylül ilanının kesin sonuçları açıklanmış. Asıl adayların evrak teslimi 9 Kasım’da sona ermiş.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://pdb.tibu.edu.tr/sozlesmeli-personel-alimi-nihai-degelerndirme-sonuclari-2026-03/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://pdb.tibu.edu.tr/sozlesmeli-personel-alim-ilani-2026-03-on-degerlendirme-sonuclari/": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alım İlanı (2026-03) Ön Değerlendirme Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://pdb.tibu.edu.tr/sozlesmeli-personel-alim-ilani-2026-03-on-degerlendirme-sonuclari/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://pdb.tibu.edu.tr/sozlesmeli-personel-alimi-nihai-degerlendirme-sonuclari-2026-02/": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alımı Nihai Değerlendirme Sonuçları (2026-02)” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://pdb.tibu.edu.tr/sozlesmeli-personel-alimi-nihai-degerlendirme-sonuclari-2026-02/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.turkoglu.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.turkoglu.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-baskan-vekili-ve-divan-katipleri": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.tuzla.bel.tr/kurumsal/meclis-encumen/meclis-baskan-vekili-ve-divan-katipleri",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/kiyi-emniyeti-genel-mueduerluegue-tuerkiye-is-kurumu-uezerinden-suerekli-isci-alim-duyurusu/": {
+    "status": "closed",
+    "reason": "Kıyı Emniyeti işçi alımında ilan süresi 19–23 Ekim 2026.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/kiyi-emniyeti-genel-mueduerluegue-tuerkiye-is-kurumu-uezerinden-suerekli-isci-alim-duyurusu/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/karayollari-genel-mueduerlueguene-bagli-isyerlerine-50-isci-personel-alimi/": {
+    "status": "closed",
+    "reason": "KGM 50 işçi alımını 21 Eylül 2026’da beş gün süreyle duyurmuş.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/karayollari-genel-mueduerlueguene-bagli-isyerlerine-50-isci-personel-alimi/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/sivil-havacilik-genel-mueduerluegue-soezlesmeli-personel-alimi-1/": {
+    "status": "pending",
+    "reason": "“Sivil Havacılık Genel Müdürlüğü Sözleşmeli Personel Alımı Sivil Havacılık Genel Müdürlüğü Sözleşmeli Personel Alımı 04 Eylül 2026” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/sivil-havacilik-genel-mueduerluegue-soezlesmeli-personel-alimi-1/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/kiyi-emniyeti-genel-mueduerluegue-tuerkiye-is-kurumu-iskur-uezerinden-suerekli-isci-alim-duyurusu-7/": {
+    "status": "pending",
+    "reason": "“Kıyı Emniyeti Genel Müdürlüğü Türkiye İş Kurumu (İŞKUR) Üzerinden Sürekli İşçi Alım Duyurusu Kıyı Emniyeti Genel Müdürlüğü Türkiye İş Kurumu (İŞKUR) Üzerinden Sürekli İşçi Alım Duy” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/kiyi-emniyeti-genel-mueduerluegue-tuerkiye-is-kurumu-iskur-uezerinden-suerekli-isci-alim-duyurusu-7/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/karayollari-genel-mueduerluegue-personel-dairesi-baskanligi-aciktan-personel-alim-ilani/": {
+    "status": "pending",
+    "reason": "“Karayolları Genel Müdürlüğü Personel Dairesi Başkanlığı Açıktan Personel Alım İlanı Karayolları Genel Müdürlüğü Personel Dairesi Başkanlığı Açıktan Personel Alım İlanı 27 Temmuz 20” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/karayollari-genel-mueduerluegue-personel-dairesi-baskanligi-aciktan-personel-alim-ilani/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/kiyi-emniyeti-genel-mueduerluegue-tuerkiye-is-kurumu-iskur-uezerinden-suerekli-isci-alim-duyurusu-6/": {
+    "status": "pending",
+    "reason": "“Kıyı Emniyeti Genel Müdürlüğü Türkiye İş Kurumu (İŞKUR) Üzerinden Sürekli İşçi Alım Duyurusu Kıyı Emniyeti Genel Müdürlüğü Türkiye İş Kurumu (İŞKUR) Üzerinden Sürekli İşçi Alım Duy” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/kiyi-emniyeti-genel-mueduerluegue-tuerkiye-is-kurumu-iskur-uezerinden-suerekli-isci-alim-duyurusu-6/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/30-otuz-suerekli-isci-alimi-soezlue-ve-soezlueuygulamali-sinav-sonucu-hakkinda-duyuru/": {
+    "status": "pending",
+    "reason": "“30 (Otuz) Sürekli İşçi Alımı Sözlü ve Sözlü/Uygulamalı Sınav Sonucu Hakkında Duyuru 30 (Otuz) Sürekli İşçi Alımı Sözlü ve Sözlü/Uygulamalı Sınav Sonucu Hakkında Duyuru 20 Mayıs 202” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/30-otuz-suerekli-isci-alimi-soezlue-ve-soezlueuygulamali-sinav-sonucu-hakkinda-duyuru/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/suerekli-isci-alimina-iliskin-noter-cekilisi-sonuclari-ve-soezlue-ve-soezlueuygulamali-sinava-katilacak-adaylar-hakkinda-duyuru/": {
+    "status": "pending",
+    "reason": "“Sürekli İşçi Alımına İlişkin Noter Çekilişi Sonuçları ve Sözlü ve Sözlü/Uygulamalı Sınava Katılacak Adaylar Hakkında Duyuru Sürekli İşçi Alımına İlişkin Noter Çekilişi Sonuçları ve” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/suerekli-isci-alimina-iliskin-noter-cekilisi-sonuclari-ve-soezlue-ve-soezlueuygulamali-sinava-katilacak-adaylar-hakkinda-duyuru/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/suerekli-isci-alimina-iliskin-noter-cekilisi-hakkinda-duyuru-1/": {
+    "status": "pending",
+    "reason": "“Sürekli İşçi Alımına İlişkin Noter Çekilişi Hakkında Duyuru Sürekli İşçi Alımına İlişkin Noter Çekilişi Hakkında Duyuru 10 Nisan 2026” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/suerekli-isci-alimina-iliskin-noter-cekilisi-hakkinda-duyuru-1/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/suerekli-isci-alimina-iliskin-noter-cekilisi-hakkinda-duyuru/": {
+    "status": "pending",
+    "reason": "“Sürekli İşçi Alımına İlişkin Noter Çekilişi Hakkında Duyuru Sürekli İşçi Alımına İlişkin Noter Çekilişi Hakkında Duyuru 07 Nisan 2026” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/suerekli-isci-alimina-iliskin-noter-cekilisi-hakkinda-duyuru/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uab.gov.tr/duyurular/30-suerekli-isci-alimi-evrak-teslim-tarihi-ile-noter-kura-cekilis-tarihi-hakkinda-degisiklik-duyurusu/": {
+    "status": "pending",
+    "reason": "“30 Sürekli İşçi Alımı Evrak Teslim Tarihi ile Noter Kura Çekiliş Tarihi Hakkında Değişiklik Duyurusu 30 Sürekli İşçi Alımı Evrak Teslim Tarihi ile Noter Kura Çekiliş Tarihi Hakkınd” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uab.gov.tr/duyurular/30-suerekli-isci-alimi-evrak-teslim-tarihi-ile-noter-kura-cekilis-tarihi-hakkinda-degisiklik-duyurusu/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://umraniye.bel.tr/hizmet-rehberi/zabita-hizmetleri/": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://umraniye.bel.tr/hizmet-rehberi/zabita-hizmetleri/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alim-ilani-sonuclarina-iliskin-yedek-aday-duyurusu-drUJG": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alım İlanı Sonuçlarına İlişkin Yedek Aday Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alim-ilani-sonuclarina-iliskin-yedek-aday-duyurusu-drUJG",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alim-ilani-sonuclarina-iliskin-yedek-aday-duyurusu-STsng": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alım İlanı Sonuçlarına İlişkin Yedek Aday Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alim-ilani-sonuclarina-iliskin-yedek-aday-duyurusu-STsng",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alim-ilani-sonuclari-vPelW": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alım İlanı Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alim-ilani-sonuclari-vPelW",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alimina-iliskin-duyuru-4COX4": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel Alımına İlişkin Duyuru” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uak.gov.tr/announcements/sozlesmeli-personel-alimina-iliskin-duyuru-4COX4",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.unye.bel.tr/birim/zabita-mudurlugu/": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.unye.bel.tr/birim/zabita-mudurlugu/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "http://www.usak.bel.tr/haber/zafer-kalkinma-ajansi-personel-alim-ilani": {
+    "status": "pending",
+    "reason": "“Zafer Kalkınma Ajansı Personel Alım ilanı 12 Kasım 2026 17:34 Zafer Kalkınma Ajansı Personel Alım ilanı Haberi Oku” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "http://www.usak.bel.tr/haber/zafer-kalkinma-ajansi-personel-alim-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "http://www.usak.bel.tr/haber/izinsiz-afise-gecit-yok": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "http://www.usak.bel.tr/haber/izinsiz-afise-gecit-yok",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "http://www.usak.bel.tr/duyuru/zafer-kalkinma-ajansi-personel-alim-ilani": {
+    "status": "pending",
+    "reason": "“12 Kas Zafer Kalkınma Ajansı Personel Alım ilanı Duyuru 12 Kasım 2026, 16:59” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "http://www.usak.bel.tr/duyuru/zafer-kalkinma-ajansi-personel-alim-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "http://www.usak.bel.tr/hizmet/zabita-hizmetleri": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "http://www.usak.bel.tr/hizmet/zabita-hizmetleri",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "http://www.usak.bel.tr/duyuru/belediyemiz-sosyal-tesisler-part-time-personel-alimi-sozlu-mulakat-sonuclari-09-06-2026": {
+    "status": "pending",
+    "reason": "“10 Haz Belediyemiz Sosyal Tesisler Part-Time Personel Alımı – Sözlü Mülakat Sonuçları (09.06.2026) Duyuru 10 Haziran 2026, 18:58” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "http://www.usak.bel.tr/duyuru/belediyemiz-sosyal-tesisler-part-time-personel-alimi-sozlu-mulakat-sonuclari-09-06-2026",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.uskudar.bel.tr/tr/main/announcement/istanbul-ili-uskudar-belediye-baskanligina-il/1298": {
+    "status": "cancelled",
+    "reason": "Üsküdar Belediyesi 14 Ağustos tarihli memur ve zabıta memuru alımını 15 Eylül duyurusuyla iptal etmiş.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uskudar.bel.tr/tr/main/announcement/istanbul-ili-uskudar-belediye-baskanligina-il/1298",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uzundere.bel.tr/duyuru/2026-sozlesmeli-muhendis-alimi-mulakata-girmeyi-hak-kazananlar-listesi-aciklandi-70": {
+    "status": "pending",
+    "reason": "“2026 Sözleşmeli Mühendis Alımı Mülakata Girmeyi Hak Kazananlar Listesi Açıklandı.” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uzundere.bel.tr/duyuru/2026-sozlesmeli-muhendis-alimi-mulakata-girmeyi-hak-kazananlar-listesi-aciklandi-70",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.uzundere.bel.tr/duyuru/-ilk-defa-atanmak-uzere-sozlesmeli-personel-alimina-esas-basvuru-formu-ve-sinav-giris-belgei-68": {
+    "status": "pending",
+    "reason": "“İLK DEFA ATANMAK ÜZERE SÖZLEŞMELİ PERSONEL ALIMINA ESAS BAŞVURU FORMU VE SINAV GİRİŞ BELGEİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.uzundere.bel.tr/duyuru/-ilk-defa-atanmak-uzere-sozlesmeli-personel-alimina-esas-basvuru-formu-ve-sinav-giris-belgei-68",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.vakfikebir.bel.tr/Web/Icerik/vakfikebir-belediyesi-personel-ltd-sti-personel-alimi-12102026": {
+    "status": "pending",
+    "reason": "“VAKFIKEBİR BELEDİYESİ PERSONEL LTD. ŞTİ. PERSONEL ALIMI 12.10.2026” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.vakfikebir.bel.tr/Web/Icerik/vakfikebir-belediyesi-personel-ltd-sti-personel-alimi-12102026",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/m/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/m/zabita-mudurlugu",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/zabita-denetimlerimiz-araliksiz-devam-ediyor-2": {
+    "status": "pending",
+    "reason": "“ZABITA DENETİMLERİMİZ ARALIKSIZ DEVAM EDİYOR” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/zabita-denetimlerimiz-araliksiz-devam-ediyor-2",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/zabita-ekiplerimiz-okul-servislerindeki-denetimlerini-surduruyor": {
+    "status": "pending",
+    "reason": "“ZABITA EKİPLERİMİZ OKUL SERVİSLERİNDEKİ DENETİMLERİNİ SÜRDÜRÜYOR” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/zabita-ekiplerimiz-okul-servislerindeki-denetimlerini-surduruyor",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/zabita-denetimlerimiz-araliksiz-devam-ediyor-1": {
+    "status": "pending",
+    "reason": "“ZABITA DENETİMLERİMİZ ARALIKSIZ DEVAM EDİYOR” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/zabita-denetimlerimiz-araliksiz-devam-ediyor-1",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/trafik-zabita-ekiplerimiz-okul-servislerindeki-denetimleri-surduruyor": {
+    "status": "pending",
+    "reason": "“TRAFİK ZABITA EKİPLERİMİZ OKUL SERVİSLERİNDEKİ DENETİMLERİ SÜRDÜRÜYOR” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/trafik-zabita-ekiplerimiz-okul-servislerindeki-denetimleri-surduruyor",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/zabita-denetimlerimiz-araliksiz-devam-ediyor": {
+    "status": "pending",
+    "reason": "“ZABITA DENETİMLERİMİZ ARALIKSIZ DEVAM EDİYOR” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/zabita-denetimlerimiz-araliksiz-devam-ediyor",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/ramazan-ayi-oncesi-zabita-denetimlerimiz-sikilastirildi": {
+    "status": "pending",
+    "reason": "“RAMAZAN AYI ÖNCESİ ZABITA DENETİMLERİMİZ SIKILAŞTIRILDI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/ramazan-ayi-oncesi-zabita-denetimlerimiz-sikilastirildi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/zabita-haftasi-kutlu-olsun-1": {
+    "status": "pending",
+    "reason": "“ZABITA HAFTASI KUTLU OLSUN” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/zabita-haftasi-kutlu-olsun-1",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yahsihan.bel.tr/h/ramazan-ayi-onces-zabita-denet-mler-m-z-siklastirildi": {
+    "status": "pending",
+    "reason": "“RAMAZAN AYI ÖNCESİ ZABITA DENETİMLERİMİZ SIKLAŞTIRILDI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yahsihan.bel.tr/h/ramazan-ayi-onces-zabita-denet-mler-m-z-siklastirildi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yahyali.bel.tr/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yahyali.bel.tr/zabita-mudurlugu",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yakakent.bel.tr/haber/af103258f17600eb": {
+    "status": "pending",
+    "reason": "“Zabıta ekiplerimiz satışı yasaklanan limon suyu görünümündeki ürünler için denetimler yaptı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yakakent.bel.tr/haber/af103258f17600eb",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yakakent.bel.tr/haber/d6bce124ca8de70a": {
+    "status": "pending",
+    "reason": "“Zabıta ekiplerimiz fırınları denetledi” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yakakent.bel.tr/haber/d6bce124ca8de70a",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yakakent.bel.tr/haber/56ba306b91c6f623": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yakakent.bel.tr/haber/56ba306b91c6f623",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yalova.bel.tr/sayfa/zabita-hizmetleri": {
+    "status": "pending",
+    "reason": "“ZABITA HİZMETLERİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yalova.bel.tr/sayfa/zabita-hizmetleri",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/haber/personelimizin-bayrak-duyarliligi": {
+    "status": "pending",
+    "reason": "“Personelimizin Bayrak duyarlılığı Belediyemiz zabıta personellerinden Faruk Dağaşan’ ın karayolu üzerinde otomobiliyle seyir halindeyken, yol ortasında gördüğü Türk bayrağını yerde” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/haber/personelimizin-bayrak-duyarliligi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/kurum-ici-itfaiye-eri-alim-sinav-ilani": {
+    "status": "pending",
+    "reason": "“Kurum İçi İtfaiye Eri Alım Sınav İlanı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/kurum-ici-itfaiye-eri-alim-sinav-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alim-sinav-sonuclarina-iliskin-duyuru": {
+    "status": "pending",
+    "reason": "“İlk Defa Atanmak Üzere Memur Alım Sınav Sonuçlarına İlişkin Duyuru” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alim-sinav-sonuclarina-iliskin-duyuru",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/memur-alimi-sozlu-sinavina-katilmaya-hak-kazanan-aday-listesi": {
+    "status": "closed",
+    "reason": "Subaşı Belediyesi 28 Eylül–2 Ekim başvurularını P3 ile sıralayıp sözlü sınav listesini yayımlamış.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/memur-alimi-sozlu-sinavina-katilmaya-hak-kazanan-aday-listesi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alim-ilani": {
+    "status": "closed",
+    "reason": "Aynı memur kadrosunun başvuru dönemi 2 Ekim’de kapanmış.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/memur-alimi-sozlu-sinavina-katilmaya-hak-kazanan-aday-listesi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/subasi-belediyesi-kurum-ici-zabita-memurlugu-gecis-sinav-sonuclari-aciklandi": {
+    "status": "pending",
+    "reason": "“Subaşı Belediyesi Kurum İçi Zabıta Memurluğu Geçiş Sınav Sonuçları Açıklandı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/subasi-belediyesi-kurum-ici-zabita-memurlugu-gecis-sinav-sonuclari-aciklandi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/kurum-ici-zabita-memurlugu-sinavina-girmeye-hak-kazanan-aday-listesi": {
+    "status": "pending",
+    "reason": "“Kurum İçi Zabıta Memurluğu Sınavına Girmeye Hak Kazanan Aday Listesi” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/kurum-ici-zabita-memurlugu-sinavina-girmeye-hak-kazanan-aday-listesi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.subasi.bel.tr/duyuru/kurum-ici-zabita-memur-alim-sinavi": {
+    "status": "pending",
+    "reason": "“Kurum İçi Zabıta Memur Alım Sınavı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.subasi.bel.tr/duyuru/kurum-ici-zabita-memur-alim-sinavi",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yalovataskopru.bel.tr/duyurular/sozlu-sinav-kurum-disi-kamu-isci-alim-ilani": {
+    "status": "pending",
+    "reason": "“Sözlü Sınav - KURUM DIŞI KAMU İŞÇİ ALIM İLANI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yalovataskopru.bel.tr/duyurular/sozlu-sinav-kurum-disi-kamu-isci-alim-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yalovataskopru.bel.tr/haberler/itfaiye-eri-alimi-sinav-sonuclari": {
+    "status": "pending",
+    "reason": "“İTFAİYE ERİ ALIMI SINAV SONUÇLARI İTFAİYE ERİ ALIMI SINAV SONUÇLARI Aday No T.C. Kimlik No Adı Soyadı Puan Başarı Listesi 3 62XXXXXXX04 Mehmet BÜYÜKÖZKÖK 86,0912 Asil Kazana... 17 ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yalovataskopru.bel.tr/haberler/itfaiye-eri-alimi-sinav-sonuclari",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.yalova.edu.tr/tr/Icerik/Detay/sozlesmeli-personelden-kadroya-geciste-gerekli-belgeler": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personelden Kadroya Geçişte Gerekli Belgeler” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.yalova.edu.tr/tr/Icerik/Detay/sozlesmeli-personelden-kadroya-geciste-gerekli-belgeler",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.yalova.edu.tr/tr/Icerik/Detay/yalova-universitesi-emeklilik-yas-hadlerini-doldurmus-ogretim-uyelerinin-sozlesmeli-istihdaminda-uygulanacak-kriterler-ve-degerlendirmeye-alinacak-faaliyetlere-iliskin-usul-ve-esaslar": {
+    "status": "pending",
+    "reason": "“YALOVA ÜNİVERSİTESİ EMEKLİLİK YAŞ HADLERİNİ DOLDURMUŞ ÖĞRETİM ÜYELERİNİN SÖZLEŞMELİ İSTİHDAMINDA UYGULANACAK KRİTERLER VE DEĞERLENDİRMEYE ALINACAK FAALİYETLERE İLİŞKİN USUL VE ESAS” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.yalova.edu.tr/tr/Icerik/Detay/yalova-universitesi-emeklilik-yas-hadlerini-doldurmus-ogretim-uyelerinin-sozlesmeli-istihdaminda-uygulanacak-kriterler-ve-degerlendirmeye-alinacak-faaliyetlere-iliskin-usul-ve-esaslar",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yalvac.bel.tr/zabita": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yalvac.bel.tr/zabita",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yargitay.gov.tr/sayfa/yargitay-baskanligi-sozlesmeli-bilisim-personeli-alim-sonuclari/1885": {
+    "status": "closed",
+    "reason": "6 Kasım bilişim personeli alım sonuç duyurusu.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yargitay.gov.tr/sayfa/yargitay-baskanligi-sozlesmeli-bilisim-personeli-alim-sonuclari/1885",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yargitay.gov.tr/sayfa/bilisim-personeli-alim-ilani/1883": {
+    "status": "ineligible",
+    "reason": "Dört bilişim personeli için dört yıllık yükseköğretim mezuniyeti isteniyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yargitay.gov.tr/documents/bilisim-1791188771.pdf",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yargitay.gov.tr/sayfa/yargitay-baskanligi-sozlesmeli-personel-alimi-evrak-teslim-duyurusu/1857": {
+    "status": "pending",
+    "reason": "“Yargıtay Başkanlığı Sözleşmeli Personel Alımı Evrak Teslim Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yargitay.gov.tr/sayfa/yargitay-baskanligi-sozlesmeli-personel-alimi-evrak-teslim-duyurusu/1857",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yargitay.gov.tr/sayfa/yargitay-baskanligi-174-sozlesmeli-personeli-alim-sonuclari/1856": {
+    "status": "pending",
+    "reason": "“Yargıtay Başkanlığı 174 Sözleşmeli Personeli Alım Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yargitay.gov.tr/sayfa/yargitay-baskanligi-174-sozlesmeli-personeli-alim-sonuclari/1856",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yargitay.gov.tr/sayfa/sozlesmeli-bilisim-personeli/1855": {
+    "status": "pending",
+    "reason": "“SÖZLEŞMELİ BİLİŞİM PERSONELİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yargitay.gov.tr/sayfa/sozlesmeli-bilisim-personeli/1855",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yatagan.bel.tr/HOME/INDEX/GUNCEL/HABER/5407": {
+    "status": "closed",
+    "reason": "Yatağan Belediyesi işçi alımında evrak kontrolü 26 Haziran’da bitmiş.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yatagan.bel.tr/HOME/INDEX/GUNCEL/HABER/5407",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "http://www.yaylabagi.bel.tr/index.php?modul=10_3&id=17": {
+    "status": "pending",
+    "reason": "“Zabıta Hizmetleri” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "http://www.yaylabagi.bel.tr/index.php?modul=10_3&id=17",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yazihuyuk.bel.tr/duyuru/tam-zamanli-personel-insmuh-alimi-sozlu-sinav-sonuclari-v/84/": {
+    "status": "pending",
+    "reason": "“TAM ZAMANLI PERSONEL (İNŞ.MÜH) ALIMI SÖZLÜ SINAV SONUÇLARI VE ATAMAYA ESAS PUAN SIRALAMASI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yazihuyuk.bel.tr/duyuru/tam-zamanli-personel-insmuh-alimi-sozlu-sinav-sonuclari-v/84/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yazihuyuk.bel.tr/duyuru/tam-zamanli-personel-insmuh-alimi-icin-sozlu-sinava-girem/83/": {
+    "status": "pending",
+    "reason": "“TAM ZAMANLI PERSONEL (İNŞ.MÜH) ALIMI İÇİN SÖZLÜ SINAVA GİREMEYE HAK KAZANAN ADAY LİSTESİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yazihuyuk.bel.tr/duyuru/tam-zamanli-personel-insmuh-alimi-icin-sozlu-sinava-girem/83/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yazihuyuk.bel.tr/duyuru/sozlesmeli-personel-alim-ilani/78/": {
+    "status": "ineligible",
+    "reason": "Bir inşaat mühendisi için lisans, B ehliyet ve en az 65 P3 gerekiyor.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yazihuyuk.bel.tr/files/S%C3%96ZLE%C5%9EMEL%C4%B0%20PERSONEL%20ALIM%20%C4%B0LANI_8ea7ff.pdf",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yesilhisar.bel.tr/birimlerimiz/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yesilhisar.bel.tr/birimlerimiz/zabita-mudurlugu",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yesilyurt.bel.tr/sayfa/zabita-islemleri": {
+    "status": "pending",
+    "reason": "“Zabıta İşlemleri” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yesilyurt.bel.tr/sayfa/zabita-islemleri",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yigilca.bel.tr/detay/21/zabita-hizmetleri": {
+    "status": "pending",
+    "reason": "“Zabıta Hizmetleri Zabıta Hizmetleri” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yigilca.bel.tr/detay/21/zabita-hizmetleri",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yigilca.bel.tr/detay/416/isci-alim-ilani-2026-/-3": {
+    "status": "pending",
+    "reason": "“İşçi Alım İlanı 2026 / 3 İşçi Alım İlanı 2026 / 3” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yigilca.bel.tr/detay/416/isci-alim-ilani-2026-/-3",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yigilca.bel.tr/detay/415/isci-alim-ilani-2026-/-2": {
+    "status": "pending",
+    "reason": "“İşçi Alım İlanı 2026 / 2 İşçi Alım İlanı 2026 / 2” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yigilca.bel.tr/detay/415/isci-alim-ilani-2026-/-2",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yildiz.edu.tr/universite/ytu-duyurular/sozlesmeli-bilisim-personeli-ilani-7": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Bilişim Personeli İlanı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yildiz.edu.tr/universite/ytu-duyurular/sozlesmeli-bilisim-personeli-ilani-7",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yildizeli.bel.tr/insaat-muhendisi-ve-itfaiye-eri-alimi-sonuclari/": {
+    "status": "pending",
+    "reason": "“01.12.2025 Sözleşmeli İnşaat Mühendisi ve İtfaiye Eri Alımı Sonuç Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yildizeli.bel.tr/insaat-muhendisi-ve-itfaiye-eri-alimi-sonuclari/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yomra.bel.tr/Duyuru/456/kres-ve-gunduz-bakimevi-personel-alimi-ilani-hk": {
+    "status": "closed",
+    "reason": "Yomra Belediyesi kreş alımı 5–7 Ağustos’ta başvuru almış ve ön değerlendirmeyi tamamlamış.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yomra.bel.tr/Duyuru/456/kres-ve-gunduz-bakimevi-personel-alimi-ilani-hk",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yomra.bel.tr/Sayfa/75/sozlesmeli-isciler": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Memurlar” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yomra.bel.tr/Sayfa/75/sozlesmeli-isciler",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yomra.bel.tr/Duyuru/454/kurum-disi-isci-alim-ilani-cocuk-gelisim": {
+    "status": "closed",
+    "reason": "Kreş alımının değerlendirme duyurusuna göre başvuru 7 Ağustos’ta kapanmış.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yomra.bel.tr/Duyuru/456/kres-ve-gunduz-bakimevi-personel-alimi-ilani-hk",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://yozgat.bel.tr/haberler/yabani-hayvanlara-yiyecek": {
+    "status": "pending",
+    "reason": "“YABANİ HAYVANLARA YİYECEK YABANİ HAYVANLARA YİYECEK 31 Aralık 2025 Yozgat Belediyesi Zabıta Müdürlüğü olarak, ilimizde etkili olan yoğun kar yağışı nedeniyle doğal yaşam alanlarınd” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://yozgat.bel.tr/haberler/yabani-hayvanlara-yiyecek",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://bozok.edu.tr/tercihkilavuzu": {
+    "status": "pending",
+    "reason": "“Tercih Kılavuzu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://bozok.edu.tr/tercihkilavuzu",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yokak.gov.tr/2026/02/16/sozlesmeli-destek-personeli-alim-ilani-sonucunda-yedekten-yerlesmeye-hak-kazanan-adaya-iliskin-duyuru-5/": {
+    "status": "pending",
+    "reason": "“Read more about Sözleşmeli Destek Personeli Alım İlanı Sonucunda Yedekten Yerleşmeye Hak Kazanan Adaya İlişkin Duyuru – 5 Daha Fazlası” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yokak.gov.tr/2026/02/16/sozlesmeli-destek-personeli-alim-ilani-sonucunda-yedekten-yerlesmeye-hak-kazanan-adaya-iliskin-duyuru-5/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yokak.gov.tr/2026/02/04/sozlesmeli-destek-personeli-alim-ilani-sonucunda-yedekten-yerlesmeye-hak-kazanan-adaya-iliskin-duyuru-4/": {
+    "status": "pending",
+    "reason": "“Read more about Sözleşmeli Destek Personeli Alım İlanı Sonucunda Yedekten Yerleşmeye Hak Kazanan Adaya İlişkin Duyuru – 4 Daha Fazlası” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yokak.gov.tr/2026/02/04/sozlesmeli-destek-personeli-alim-ilani-sonucunda-yedekten-yerlesmeye-hak-kazanan-adaya-iliskin-duyuru-4/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.yokak.gov.tr/2026/01/23/sozlesmeli-destek-personeli-alim-ilani-sonucunda-yedekten-yerlesmeye-hak-kazanan-adaya-iliskin-duyuru-3/": {
+    "status": "pending",
+    "reason": "“Read more about Sözleşmeli Destek Personeli Alım İlanı Sonucunda Yedekten Yerleşmeye Hak Kazanan Adaya İlişkin Duyuru – 3 Daha Fazlası” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yokak.gov.tr/2026/01/23/sozlesmeli-destek-personeli-alim-ilani-sonucunda-yedekten-yerlesmeye-hak-kazanan-adaya-iliskin-duyuru-3/",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-cn1oR": {
+    "status": "pending",
+    "reason": "“20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek Aday Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-cn1oR",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yok.gov.tr/tr/announcements/2027-tipta-uzmanlik-egitimi-giris-sinavi-tus-1donem-kontenjan-talepleri-GquN6": {
+    "status": "pending",
+    "reason": "“2027 Tıpta Uzmanlık Eğitimi Giriş Sınavı (TUS) 1.Dönem Kontenjan Talepleri” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yok.gov.tr/tr/announcements/2027-tipta-uzmanlik-egitimi-giris-sinavi-tus-1donem-kontenjan-talepleri-GquN6",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yok.gov.tr/tr/announcements/yuksekogretim-kurulu-baskanligi-sozlesmeli-bilisim-personeli-alim-ilani-3XIfj": {
+    "status": "pending",
+    "reason": "“Yükseköğretim Kurulu Başkanlığı Sözleşmeli Bilişim Personeli Alım İlanı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yok.gov.tr/tr/announcements/yuksekogretim-kurulu-baskanligi-sozlesmeli-bilisim-personeli-alim-ilani-3XIfj",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-euG6w": {
+    "status": "pending",
+    "reason": "“20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek Aday Duyurusu” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-euG6w",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://personel.yok.gov.tr/tr/announcements-detail/487": {
+    "status": "pending",
+    "reason": "“2027 Tıpta Uzmanlık Eğitimi Giriş Sınavı (TUS) 1.Dönem Kontenjan ... > 4 Kas 2026 ,11:20” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.yok.gov.tr/tr/announcements-detail/487",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://personel.yok.gov.tr/tr/announcements-detail/486": {
+    "status": "pending",
+    "reason": "“Yükseköğretim Kurulu Başkanlığı Sözleşmeli Bilişim Personeli ... > 2 Kas 2026 ,16:38” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.yok.gov.tr/tr/announcements-detail/486",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.yok.gov.tr/tr/announcements/yuksekogretim-kurumlarinda-emeklilik-yas-haddini-doldurmus-ogretim-uyelerinin-sozlesmeli-olarak-calistirilmasina-iliskin-usul-ve-esaslar-r157J": {
+    "status": "pending",
+    "reason": "“Yükseköğretim Kurumlarında Emeklilik Yaş Haddini Doldurmuş Öğretim Üyelerinin Sözleşmeli Olarak Çalıştırılmasına İlişkin Usul ve Esaslar” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.yok.gov.tr/tr/announcements/yuksekogretim-kurumlarinda-emeklilik-yas-haddini-doldurmus-ogretim-uyelerinin-sozlesmeli-olarak-calistirilmasina-iliskin-usul-ve-esaslar-r157J",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.ytb.gov.tr/daireler/kardes-topluluklar/katip/": {
+    "status": "pending",
+    "reason": "“KATİP” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.ytb.gov.tr/daireler/kardes-topluluklar/katip/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://katip.ytb.gov.tr/": {
+    "status": "pending",
+    "reason": "“katip KATİP” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://katip.ytb.gov.tr/",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://katipata.ytb.gov.tr/": {
+    "status": "pending",
+    "reason": "“katipata KatipAta” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://katipata.ytb.gov.tr/",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://www.zonguldak.bel.tr/haberler/zabita-teski-latimizin-200-kurulus-yil-donumu-kutlandi": {
+    "status": "pending",
+    "reason": "“ZABITA TEŞKİLATIMIZIN 200. KURULUŞ YIL DÖNÜMÜ KUTLANDI ZABITA TEŞKİLATIMIZIN 200. KURULUŞ YIL DÖNÜMÜ KUTLANDI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.zonguldak.bel.tr/haberler/zabita-teski-latimizin-200-kurulus-yil-donumu-kutlandi",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-5.-grup-yedek-liste.html": {
+    "status": "pending",
+    "reason": "“06 Kas 2026/1 Sözleşmeli Personel Alımı 5. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-5.-grup-yedek-liste.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/formlar/sozlesmeli-personel-ilani-sonrasi-istenen-belgeler.html": {
+    "status": "pending",
+    "reason": "“Sözleşmeli Personel İlanına Başvuru İçin Gerekli Belgeler” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/formlar/sozlesmeli-personel-ilani-sonrasi-istenen-belgeler.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/657-sayili-kanunun-4B-maddesi-uyarinca-gorev-yapan-personelin-sozlesme-yenilememesi.html": {
+    "status": "pending",
+    "reason": "“657 sayılı Kanunun 4/B Maddesi Uyarınca Görev Yapan Personel Sözleşme Yenilememesi Durumunda 1 Yıl Geçmedikçe Kurumların Sözleşmeli Personel Pozisyonlarında İstihdam Edilemeyecekti” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/657-sayili-kanunun-4B-maddesi-uyarinca-gorev-yapan-personelin-sozlesme-yenilememesi.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.ilan.gov.tr/ilan/kategori/73/akademik-personel-alimlari": {
+    "status": "pending",
+    "reason": "“Akademik Personel Alım İlanları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.ilan.gov.tr/ilan/kategori/73/akademik-personel-alimlari",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-6.-grup-yedek-liste.html": {
+    "status": "pending",
+    "reason": "“20 Kas 2026/1 Sözleşmeli Personel Alımı 6. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-6.-grup-yedek-liste.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-4.-grup-yedek-liste.html": {
+    "status": "pending",
+    "reason": "“23 Eki 2026/1 Sözleşmeli Personel Alımı 4. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-4.-grup-yedek-liste.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-3.-grup-yedek-liste.html": {
+    "status": "pending",
+    "reason": "“09 Eki 2026/1 Sözleşmeli Personel Alımı 3. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-3.-grup-yedek-liste.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-2.-grup-yedek-liste.html": {
+    "status": "pending",
+    "reason": "“25 Eyl 2026/1 Sözleşmeli Personel Alımı 2. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-2.-grup-yedek-liste.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-1.-grup-yedek-liste.html": {
+    "status": "pending",
+    "reason": "“11 Eyl 2026/1 Sözleşmeli Personel Alımı 1. Grup Yedek Liste” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-1.-grup-yedek-liste.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/sozlesmeli-personel-ilani-20261-alim-sonuclari.html": {
+    "status": "pending",
+    "reason": "“27 Ağu Sözleşmeli Personel İlanı 2026/1 Alım Sonuçları” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/sozlesmeli-personel-ilani-20261-alim-sonuclari.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-ilani.html": {
+    "status": "pending",
+    "reason": "“06 Ağu 2026/1 Sözleşmeli Personel Alımı İlanı” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://personel.beun.edu.tr/duyurular/20261-sozlesmeli-personel-alimi-ilani.html",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/birim/zabıta-müdürlüğü": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/birim/zabıta-müdürlüğü",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/duyuru/2025-yili-ilk-defa-sözleşmeli-personel-alimi-atamaya-hak-kazananlar": {
+    "status": "pending",
+    "reason": "“2025 YILI İLK DEFA SÖZLEŞMELİ PERSONEL ALIMI ATAMAYA HAK KAZANANLAR 29 Mayıs 2025, 11:53” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/duyuru/2025-yili-ilk-defa-sözleşmeli-personel-alimi-atamaya-hak-kazananlar",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/duyuru/2025-yılı-sözleşmeli-personel-alımı-sözlü-sınava-girmeye-hak-kazanan-adaylar": {
+    "status": "pending",
+    "reason": "“2025 Yılı Sözleşmeli Personel Alımı Sözlü Sınava Girmeye Hak Kazanan Adaylar” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/duyuru/2025-yılı-sözleşmeli-personel-alımı-sözlü-sınava-girmeye-hak-kazanan-adaylar",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/duyuru/ceylanpınar-belediyesi-personel-a-ş-beden-işçisi-alımı-mülakat-sonuçları": {
+    "status": "pending",
+    "reason": "“Ceylanpınar Belediyesi Personel A.Ş. - Beden İşçisi Alımı Mülakat Sonuçları 10 Şubat 2025, 15:02” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/duyuru/ceylanpınar-belediyesi-personel-a-ş-beden-işçisi-alımı-mülakat-sonuçları",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/ilan/2025-yılı-sözleşmeli-personel-alımı-sözlü-sınava-girmeye-hak-kazanan-adaylar": {
+    "status": "pending",
+    "reason": "“2025 Yılı Sözleşmeli Personel Alımı Sözlü Sınava Girmeye Hak Kazanan Adaylar” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/ilan/2025-yılı-sözleşmeli-personel-alımı-sözlü-sınava-girmeye-hak-kazanan-adaylar",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/ilan/ceylanpinar-belediye-başkanliğina-ilk-defa-atanmak-üzere-sözleşmeli-personel-alim-ilani": {
+    "status": "pending",
+    "reason": "“CEYLANPINAR BELEDİYE BAŞKANLIĞINA İLK DEFA ATANMAK ÜZERE SÖZLEŞMELİ PERSONEL ALIM İLANI 26 Mart 2025, 09:25” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/ilan/ceylanpinar-belediye-başkanliğina-ilk-defa-atanmak-üzere-sözleşmeli-personel-alim-ilani",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://ceylanpinar.bel.tr/duyuru/birim/zabıta-müdürlüğü": {
+    "status": "pending",
+    "reason": "“Zabıta Müdürlüğü” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ceylanpinar.bel.tr/duyuru/birim/zabıta-müdürlüğü",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://malatyakale.bel.tr/birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "“Zabıta Amirliği” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://malatyakale.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://malatyakale.bel.tr/duyuru/birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "“Zabıta Amirliği” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://malatyakale.bel.tr/duyuru/birim/zabita-amirligi",
+    "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
+  },
+  "https://ortakoy.bel.tr/haber-ilk-defa-atanmak-uzere-memur-alim-ilani_178": {
+    "status": "pending",
+    "reason": "“İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://ortakoy.bel.tr/haber-ilk-defa-atanmak-uzere-memur-alim-ilani_178",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://pursaklar.bel.tr/belediye-hizmetleri/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://pursaklar.bel.tr/belediye-hizmetleri/zabita-mudurlugu",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://pursaklar.bel.tr/duyurular-ve-etkinlikler/pursaklar-belediye-baskanligi-zabita-mudurlugu-teskilat-gorev-ve-calisma-esaslar": {
+    "status": "pending",
+    "reason": "“PURSAKLAR BELEDİYE BAŞKANLIĞI ZABITA MÜDÜRLÜĞÜ TEŞKİLAT, GÖREV VE ÇALIŞMA ESASLARI YÖNETMELİĞİ” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://pursaklar.bel.tr/duyurular-ve-etkinlikler/pursaklar-belediye-baskanligi-zabita-mudurlugu-teskilat-gorev-ve-calisma-esaslar",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://pursaklar.bel.tr/kurumsal/hizmet-standartlari/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://pursaklar.bel.tr/kurumsal/hizmet-standartlari/zabita-mudurlugu",
+    "lastAttempt": "Resmî sayfa incelendi."
+  },
+  "https://www.19mayis.bel.tr/birim/zabita-mudurlugu": {
+    "status": "ineligible",
+    "reason": "Belediyenin birim, hizmet veya denetim sayfası.",
+    "checkedAt": "2026-11-21T17:10:15Z",
+    "evidence": "https://www.19mayis.bel.tr/birim/zabita-mudurlugu",
+    "lastAttempt": "Resmî sayfa incelendi."
   }
 }
