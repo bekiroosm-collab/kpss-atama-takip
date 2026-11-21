@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "İlan ayrıntıları boş döndü. Resmî alan adı aramasında şartname doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı ayrıntı alanları boş. Resmî şartname doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "İlan ayrıntıları boş döndü. Resmî alan adı aramasında şartname doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı ayrıntı alanları boş. Resmî şartname doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -2437,10 +2437,10 @@
   },
   "https://altinozu.bel.tr/sayfa/zabita-hizmetleri": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://altinozu.bel.tr/sayfa/zabita-hizmetleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum sayfası kontrol edildi. Açık P94 başvurusu doğrulanamadı."
   },
   "https://altinozu.bel.tr/duyurular/altinozu-belediye-baskanligi-sozlesmeli-personel-alimi-mulakat-sonuc-duyurusu": {
     "status": "closed",
@@ -2449,17 +2449,17 @@
   },
   "https://altinozu.bel.tr/duyurular/sozlesmeli-personel-alimi-mulakat-listeleri": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://altinozu.bel.tr/duyurular/sozlesmeli-personel-alimi-mulakat-listeleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum sayfası kontrol edildi. Açık P94 başvurusu doğrulanamadı."
   },
   "https://altinozu.bel.tr/duyurular/altinozu-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://altinozu.bel.tr/duyurular/altinozu-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum sayfası kontrol edildi. Açık P94 başvurusu doğrulanamadı."
   },
   "https://altintas.bel.tr/hizmetlerimiz/zabita-hizmetleri": {
     "status": "pending",
@@ -2934,18 +2934,18 @@
     "reason": "Resmî sayfa mevcut alımın sonuç, yedek veya sınava çağrı duyurusunu yayımlıyor."
   },
   "https://www.bafra.bel.tr/Sayfa/5ed9e52dfdcac112e82af3b0/Iskur-Personel-Alim": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "Başvurular 10 Haziran 2020’de sona erdi.",
     "evidence": "https://www.bafra.bel.tr/Sayfa/5ed9e52dfdcac112e82af3b0/Iskur-Personel-Alim",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Başvurular 10 Haziran 2020’de sona erdi."
   },
   "https://www.bafra.bel.tr/Sayfa/5d85fda5fdcac10ee02fe525/NOTER-HUZURUNDA-KURA-ile-Personel-Alim-Ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "Noter kurasıyla alımın başvuruları 30 Eylül 2019’da sona erdi.",
     "evidence": "https://www.bafra.bel.tr/Sayfa/5d85fda5fdcac10ee02fe525/NOTER-HUZURUNDA-KURA-ile-Personel-Alim-Ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Noter kurasıyla alımın başvuruları 30 Eylül 2019’da sona erdi."
   },
   "https://bahce.bel.tr/duyurular/memur-alim-ilan-duyurusu": {
     "status": "cancelled",
@@ -2959,17 +2959,17 @@
   },
   "https://bahce.bel.tr/duyurular/basvuru-formu": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://bahce.bel.tr/duyurular/basvuru-formu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum sayfası kontrol edildi. Açık P94 başvurusu doğrulanamadı."
   },
   "https://bahce.bel.tr/duyurular/bahce-belediye-baskanligina-ilk-defa-atanmak-memur-alim-ilani": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
     "evidence": "https://bahce.bel.tr/duyurular/bahce-belediye-baskanligina-ilk-defa-atanmak-memur-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum sayfası kontrol edildi. Açık P94 başvurusu doğrulanamadı."
   },
   "https://www.bakirkoy.bel.tr/duyuru/bakirkoy-belediye-baskanligina-zabita-memuru-ve-memur-alimi-sinav-sonuclari": {
     "status": "ineligible",
@@ -3022,11 +3022,11 @@
     "lastAttempt": "İçerik okunamadı."
   },
   "https://www.bafra.bel.tr/Sayfa/6a313ca9fdcac12a1c454245/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-5-ADET-MEMUR-ALIM-ILANI---Basvuru-Formu-ve-Ekleri": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://www.bafra.bel.tr/Sayfa/6a313ca9fdcac12a1c454245/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-5-ADET-MEMUR-ALIM-ILANI---Basvuru-Formu-ve-Ekleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "Beş memur kadrosu için başvuru süresi 26 Haziran 2026’da sona erdi.",
+    "evidence": "https://www.bafra.bel.tr/Sayfa/6a042668fdcac131e400fc34/BAFRA-BELEDIYE-BASKANLIGINA-ILK-DEFA-ATANMAK-UZERE-MEMUR-ALIM-ILANI",
+    "lastAttempt": "Beş memur kadrosu için başvuru süresi 26 Haziran 2026’da sona erdi."
   },
   "https://www.bafra.bel.tr/Sayfa/6a042668fdcac131e400fc34/BAFRA-BELEDIYE-BASKANLIGINA-ILK-DEFA-ATANMAK-UZERE-MEMUR-ALIM-ILANI": {
     "status": "closed",
@@ -3034,11 +3034,11 @@
     "reason": "Başvurusu kabul edilen adaylar için sözlü sınav 13 Temmuz 2026 olarak duyuruldu."
   },
   "https://www.bafra.bel.tr/Sayfa/639afad3fdcac110606b52de/Isci-Alim-Ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "Belediye şirketinin son başvuru tarihi 26 Aralık 2022.",
     "evidence": "https://www.bafra.bel.tr/Sayfa/639afad3fdcac110606b52de/Isci-Alim-Ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Belediye şirketinin son başvuru tarihi 26 Aralık 2022."
   },
   "https://www.bafra.bel.tr/Sayfa/62148851fdcac107143a16b0/Bafra-Belediyesi-Personel-Anonim-Sirketine-Is-Kur-Isbasi-Egitim-Programi-Kapsaminda-Isci-Alimi-Kura-Sonuclari": {
     "status": "closed",
@@ -3046,11 +3046,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.bafra.bel.tr/Sayfa/61f7cc24fdcac117501cc447/Bafra-Belediyesi-Personel-Anonim-Sirketine-Is-kur-Isbasi-egitim-Programi-Kapsaminda-Isci-Alimi-Kura-Tarihi": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "Bu sayfa 19 Şubat 2022 tarihli noter kurasının duyurusu.",
     "evidence": "https://www.bafra.bel.tr/Sayfa/61f7cc24fdcac117501cc447/Bafra-Belediyesi-Personel-Anonim-Sirketine-Is-kur-Isbasi-egitim-Programi-Kapsaminda-Isci-Alimi-Kura-Tarihi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Bu sayfa 19 Şubat 2022 tarihli noter kurasının duyurusu."
   },
   "https://www.bafra.bel.tr/Sayfa/61cc4fd8fdcac3109856ca4e/657-sayili-Devlet-Memurlari-Kanunu-na-Tabi-Olarak-istihdam-edilmek-uzere-MuhendisSehir-ve-Bolge-Plancisi-Mimar-Sosyal-Hizmet-Uzmani-Memur-Tahsildar-ve-Zabita-Memuru-Nihai-Basari-Listesi-ve-Istenen-Belgeler": {
     "status": "ineligible",
@@ -3129,25 +3129,25 @@
     "reason": "Resmî sayfa mevcut alımın sonuç, yedek veya sınava çağrı duyurusunu yayımlıyor."
   },
   "https://www.bafra.bel.tr/Sayfa/617fde9ffdcac10b480b8e62/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-27-ADET-MEMUR-ALIM-ILANI---Basvuru-Formu-ve-Ekleri": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://www.bafra.bel.tr/Sayfa/617fde9ffdcac10b480b8e62/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-27-ADET-MEMUR-ALIM-ILANI---Basvuru-Formu-ve-Ekleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "27 memur kadrosunun başvuruları 12 Kasım 2021’de sona erdi.",
+    "evidence": "https://www.bafra.bel.tr/Uploads/Resimler/Sayfalar/2021/11/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-27-ADET-MEMUR-ALIM-ILANI---Basvuru-Formu-ve-Ekleri/Orj-3043617fde9ffdcac10b480b8e62.pdf",
+    "lastAttempt": "27 memur kadrosunun başvuruları 12 Kasım 2021’de sona erdi."
   },
   "https://www.bafra.bel.tr/Sayfa/615310d6fdcac1017c8c0a89/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-27-ADET-MEMUR-ALIM-ILANI": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://www.bafra.bel.tr/Sayfa/615310d6fdcac1017c8c0a89/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-27-ADET-MEMUR-ALIM-ILANI",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "27 memur kadrosunun başvuruları 12 Kasım 2021’de sona erdi.",
+    "evidence": "https://www.bafra.bel.tr/Uploads/Resimler/Sayfalar/2021/11/BAFRA-BELEDIYESINE-ILK-DEFA-ATANMAK-UZERE-27-ADET-MEMUR-ALIM-ILANI---Basvuru-Formu-ve-Ekleri/Orj-3043617fde9ffdcac10b480b8e62.pdf",
+    "lastAttempt": "27 memur kadrosunun başvuruları 12 Kasım 2021’de sona erdi."
   },
   "https://www.bafra.bel.tr/Sayfa/61016728fdcac10ef4b3eb51/Bafra-Belediyesi-Personel-Anonim-Sirketine-Is-kur-Isbasi-egitim-Programi-Kapsaminda-Isci-Alimi": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "İşbaşı eğitim programına başvurular 10 Ağustos 2021’de sona erdi.",
     "evidence": "https://www.bafra.bel.tr/Sayfa/61016728fdcac10ef4b3eb51/Bafra-Belediyesi-Personel-Anonim-Sirketine-Is-kur-Isbasi-egitim-Programi-Kapsaminda-Isci-Alimi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "İşbaşı eğitim programına başvurular 10 Ağustos 2021’de sona erdi."
   },
   "https://www.bafra.bel.tr/Sayfa/5fb77cf8fdcac103c0b738d8/Muhendis-ve-Memur-Alimi-Sinav-Sonuclari-ve-Istenen-Belgeler": {
     "status": "ineligible",
@@ -3175,11 +3175,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.bafra.bel.tr/Sayfa/676bdc5dfdcac1126c4baf61/Isci-Alim-Ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "reason": "Operatör ve şoför alımında son başvuru 30 Aralık 2024.",
     "evidence": "https://www.bafra.bel.tr/Sayfa/676bdc5dfdcac1126c4baf61/Isci-Alim-Ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Operatör ve şoför alımında son başvuru 30 Aralık 2024."
   },
   "https://www.avcilar.bel.tr/ihaleler/birim/zabita-mudurlugu": {
     "status": "pending",
@@ -4463,11 +4463,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://www.cayiralan.bel.tr/duyurular/sozlesmeli-personel-alim-ilani": {
-    "status": "pending",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "https://www.cayiralan.bel.tr/duyurular/sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "reason": "Kurumun ilan ekinde başvuru tarihleri 2–4 Eylül 2026.",
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "evidence": "https://www.cayiralan.bel.tr/upload/raporlardosyalar/FKhN8zaiA3hV4vC.pdf",
+    "lastAttempt": "Kurumun ilan ekinde başvuru tarihleri 2–4 Eylül 2026."
   },
   "https://www.cayirova.bel.tr/hizmet-rehberi/zabita-mudurlugu-117": {
     "status": "ineligible",
@@ -11562,58 +11562,58 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11625,9 +11625,9 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T21:18:44Z",
+    "checkedAt": "2026-11-21T21:40:04Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "Ek dosyanın içeriği yeniden alınamadı."
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -14827,7 +14827,7 @@
     "status": "pending",
     "reason": "22 Kasım Çeşitli İlânlar dizini ve tam sayı okunamadı. Arama sonuçlarındaki son doğrulanabilir dizin 21 Kasım tarihli.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4.htm",
-    "checkedAt": "2026-11-21T21:18:44Z",
-    "lastAttempt": "22 Kasım Çeşitli İlânlar dizini ve tam sayı okunamadı. Arama sonuçlarındaki son doğrulanabilir dizin 21 Kasım tarihli."
+    "checkedAt": "2026-11-21T21:40:04Z",
+    "lastAttempt": "Resmî adresteki belge tekrar denendi. İçeriği okunamadı."
   }
 }
