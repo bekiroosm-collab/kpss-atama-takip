@@ -221,18 +221,18 @@
     "evidence": "https://pgm.adalet.gov.tr/Home/SayfaDetay/bakanligimiz-merkez-teskilati-ve-personel-egitim-merkezi-mudurlukleri-ile-adli-destek-ve-m17072026044513"
   },
   "https://iidb.adalet.gov.tr/Home/SayfaDetay/sozlesmeli-icra-k-tipligi-uygulamali-sinav-metinleri-ve-degerlendirme-kriterleri14072026104802": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "reason": "900 icra kâtibi alımının 1 Ağustos uygulama sınavı için yayımlanan metin ve ölçütler.",
     "evidence": "https://iidb.adalet.gov.tr/Home/SayfaDetay/sozlesmeli-icra-k-tipligi-uygulamali-sinav-metinleri-ve-degerlendirme-kriterleri14072026104802",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum metni yeniden okundu."
   },
   "https://pgm.adalet.gov.tr/Home/SayfaDetay/sozlesmeli-zabit-katibi-uygulamali-sinav-metinleri-ve-degerlendirme-kriterleri13072026120135": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "reason": "1 Ağustos zabıt kâtipliği uygulama sınavı için yayımlanan metin ve ölçütler.",
     "evidence": "https://pgm.adalet.gov.tr/Home/SayfaDetay/sozlesmeli-zabit-katibi-uygulamali-sinav-metinleri-ve-degerlendirme-kriterleri13072026120135",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum metni yeniden okundu."
   },
   "https://pgm.adalet.gov.tr/Home/SayfaDetay/bakanligimiz-merkez-teskilati-ve-personel-egitim-merkezi-mudurlukleri-ile-adli-destek-ve-m04112026010700": {
     "status": "ineligible",
@@ -241,11 +241,11 @@
     "evidence": "https://pgm.adalet.gov.tr/Home/SayfaDetay/bakanligimiz-merkez-teskilati-ve-personel-egitim-merkezi-mudurlukleri-ile-adli-destek-ve-m04112026010700"
   },
   "https://pgm.adalet.gov.tr/Home/SayfaDetay/hukuk-mesleklerine-giris-sinavi-ve-idari-yargi-on-sinavi-ilani-27-eylul-202631072026085643": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "reason": "27 Eylül HMGS ve İYÖS sınav duyurusu.",
     "evidence": "https://pgm.adalet.gov.tr/Home/SayfaDetay/hukuk-mesleklerine-giris-sinavi-ve-idari-yargi-on-sinavi-ilani-27-eylul-202631072026085643",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum metni yeniden okundu."
   },
   "https://www.karatekin.edu.tr/duyuru/69653": {
     "status": "closed",
@@ -260,11 +260,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://w2.agu.edu.tr/duyurular/8223/Abdullah Gül Üniversitesi 07.08.2026-21.08.2026 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "reason": "7–21 Ağustos alımında yedekten yerleşenlere yönelik 16 Ekim duyurusu.",
     "evidence": "https://w2.agu.edu.tr/duyurular/8223/Abdullah Gül Üniversitesi 07.08.2026-21.08.2026 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum metni yeniden okundu."
   },
   "https://w2.agu.edu.tr/duyurular/8218/Abdullah Gül Üniversitesi 07.08.2026-21.08.2026 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (2.Duyuru)": {
     "status": "pending",
@@ -274,11 +274,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://w2.agu.edu.tr/duyurular/8212/Abdullah Gül Üniversitesi 07.08.2026-21.08.2026 Tarihli Sözleşmeli Personel Alım İlanı-8 Sonuçları (02.10.2026)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "reason": "Başvurusu 21 Ağustos’ta biten alımın 2 Ekim değerlendirme sonuçları.",
     "evidence": "https://w2.agu.edu.tr/duyurular/8212/Abdullah Gül Üniversitesi 07.08.2026-21.08.2026 Tarihli Sözleşmeli Personel Alım İlanı-8 Sonuçları (02.10.2026)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Kurum metni yeniden okundu."
   },
   "https://w2.agu.edu.tr/duyurular/8205/Abdullah Gül Üniversitesi Sözleşmeli Personel Alımı Düzeltme İlanı (11.09.2026)": {
     "status": "pending",
@@ -288,11 +288,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://w2.agu.edu.tr/duyurular/8175/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı-8 (07.08.2026)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/8175/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı-8 (07.08.2026)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "reason": "Üniversitenin 8 numaralı alımında başvuru 21 Ağustos’ta bitti ve 2 Ekim’de sonuçlar açıklandı.",
+    "evidence": "https://w2.agu.edu.tr/duyurular/8212/Abdullah Gül Üniversitesi 07.08.2026-21.08.2026 Tarihli Sözleşmeli Personel Alım İlanı-8 Sonuçları (02.10.2026)",
+    "lastAttempt": "Kurum metni yeniden okundu."
   },
   "https://w2.agu.edu.tr/duyurular/7989/Abdullah Gül Üniversitesi 08.12.2025-22.12.2025 Tarihli Sözleşmeli Personel Alım İlanı-7 Sonuçları": {
     "status": "pending",
@@ -11561,64 +11561,65 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Günlük dizinde kurum adı görüldü. Ek PDF doğrudan açılmadı ve dosya adıyla aramada okunabilir metin bulunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "checkedAt": "2026-11-21T14:12:48Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4.htm",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
     "reason": "İstanbul Medeniyet Üniversitesi öğretim üyesi alımı.",
-    "checkedAt": "2026-11-21T07:18:01Z",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf"
+    "checkedAt": "2026-11-21T14:12:48Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf",
+    "lastAttempt": "Ek PDF ve günlük tam sayı adreslerinden içerik alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
