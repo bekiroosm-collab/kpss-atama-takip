@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "reason": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli.",
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "reason": "Kariyer Kapısı detayında tarihler ve koşullar görüntülenemedi. TÜİK kurum duyurularında eşleşen ilan metni doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli."
+    "lastAttempt": "Kariyer Kapısı detayında tarihler ve koşullar görüntülenemedi. TÜİK kurum duyurularında eşleşen ilan metni doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "reason": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli.",
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "reason": "Kariyer Kapısı detayındaki tarih ve koşullar boş. Belediyenin ilgili iki kadro için ilan metni doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli."
+    "lastAttempt": "Kariyer Kapısı detayındaki tarih ve koşullar boş. Belediyenin ilgili iki kadro için ilan metni doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -5832,11 +5832,11 @@
     "lastAttempt": "İçerik okunamadı."
   },
   "https://www.gsb.gov.tr/tr/duyuru/305326-2026-yili-sozlesmeli-bilisim-personeli-alimi-sozluuygulamali-sinav-duyurusu": {
-    "status": "pending",
-    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "status": "closed",
+    "reason": "9 Kasım duyurusu, mevcut adayların 16–17 Kasım 2026 sözlü ve uygulamalı sınavına ilişkin.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.gsb.gov.tr/tr/duyuru/305326-2026-yili-sozlesmeli-bilisim-personeli-alimi-sozluuygulamali-sinav-duyurusu",
-    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+    "lastAttempt": "9 Kasım duyurusu, mevcut adayların 16–17 Kasım 2026 sözlü ve uygulamalı sınavına ilişkin."
   },
   "https://www.gsb.gov.tr/tr/duyuru/304956-2026-yili-sozlesmeli-diyetisyen-psikolog-ve-sosyal-calismaci-alimi-sozlu-sinav-duyurusu": {
     "status": "pending",
@@ -5853,11 +5853,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://www.gsb.gov.tr/tr/duyuru/303073-2026-yili-sozlesmeli-bilisim-personeli-alimi-duyurusu": {
-    "status": "pending",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "status": "ineligible",
+    "reason": "18 Eylül tarihli ilan, değerlendirmede 2024 KPSS P3 puanını kullanıyor.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.gsb.gov.tr/tr/duyuru/303073-2026-yili-sozlesmeli-bilisim-personeli-alimi-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "18 Eylül tarihli ilan, değerlendirmede 2024 KPSS P3 puanını kullanıyor."
   },
   "https://www.gsb.gov.tr/tr/duyuru/302877-2026-yili-sozlesmeli-antrenor-alimi-sozlu-ve-uygulamali-sinav-duyurusu": {
     "status": "pending",
@@ -9635,10 +9635,10 @@
   },
   "https://www.alparslan.edu.tr/page/announcement/2026-ales3-gorevli-tercih-islemleri-baslamistir-9631": {
     "status": "pending",
-    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Üniversite sayfası açıldı ancak duyurunun ayrıntıları okunamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.alparslan.edu.tr/page/announcement/2026-ales3-gorevli-tercih-islemleri-baslamistir-9631",
-    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+    "lastAttempt": "Üniversite sayfası açıldı ancak duyurunun ayrıntıları okunamadı."
   },
   "https://mut.bel.tr/haberler/24-kasim-ogretmenler-gunu-programi": {
     "status": "pending",
@@ -11561,59 +11561,59 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11624,10 +11624,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
-    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -15525,24 +15525,24 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf": {
     "status": "pending",
-    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "reason": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "lastAttempt": "Resmî Gazete ekinin alternatif resmî adresinden PDF içeriği alınamadı."
   },
   "https://www.basciftlik.bel.tr/birim/zabita-amirligi": {
     "status": "ineligible",
@@ -15860,18 +15860,18 @@
     "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
   },
   "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Alim-Ilani-06102025.pdf": {
-    "status": "pending",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "reason": "Resmî PDF mimar, şehir plancısı ve mühendis kadrolarına ait. Kadro tablosunda lisans mezuniyeti aranıyor.",
     "evidence": "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Alim-Ilani-06102025.pdf",
-    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+    "lastAttempt": "Resmî PDF mimar, şehir plancısı ve mühendis kadrolarına ait. Kadro tablosunda lisans mezuniyeti aranıyor."
   },
   "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Zabita-Memuru-ve-Itfaiye-Eri-Alim-Ilani.pdf": {
     "status": "pending",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "reason": "Belediyenin PDF dosyası bu denemede alınamadı.",
     "evidence": "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Zabita-Memuru-ve-Itfaiye-Eri-Alim-Ilani.pdf",
-    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin PDF dosyası bu denemede alınamadı."
   },
   "https://www.bozkurt.bel.tr/birim/zabita-amirligi/": {
     "status": "pending",
@@ -15917,10 +15917,10 @@
   },
   "https://www.bulanik.bel.tr/kadin-politikalari-mudurlugune-personel-alimi-duyurusu": {
     "status": "pending",
-    "checkedAt": "2026-11-22T03:25:42Z",
-    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "reason": "Belediyenin duyurusu bu denemede alınamadı.",
     "evidence": "https://www.bulanik.bel.tr/kadin-politikalari-mudurlugune-personel-alimi-duyurusu",
-    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin duyurusu bu denemede alınamadı."
   },
   "https://cal.bel.tr/birim/zabita-amirligi/": {
     "status": "ineligible",
@@ -16271,5 +16271,12 @@
     "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
     "evidence": "https://www.civril.bel.tr/zabita-mudurlugu-231",
     "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://ktu.edu.tr/personel/duyuru/04092026-tarihli-4-b-sozlesmeli-personel-alim-ilani": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T04:30:52Z",
+    "reason": "P94 kabul eden KTÜ ilanında son başvuru 18 Eylül 2026 saat 13.00.",
+    "lastAttempt": "P94 kabul eden KTÜ ilanında son başvuru 18 Eylül 2026 saat 13.00.",
+    "evidence": "https://ktu.edu.tr/personel/duyuru/04092026-tarihli-4-b-sozlesmeli-personel-alim-ilani"
   }
 }
