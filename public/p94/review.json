@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-22T01:40:17Z",
-    "reason": "Kariyer Kapısı detay sayfasında koşullar ve tarihler boş. Kurum metniyle yeniden doğrulanmalı.",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı detay sayfasında koşullar ve tarihler boş. Kurum metniyle yeniden doğrulanmalı."
+    "lastAttempt": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-22T01:40:17Z",
-    "reason": "Kariyer Kapısı detay sayfasında koşullar ve tarihler boş. Kurum metniyle yeniden doğrulanmalı.",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı detay sayfasında koşullar ve tarihler boş. Kurum metniyle yeniden doğrulanmalı."
+    "lastAttempt": "Kariyer Kapısı detayında başvuru alanları boş. Kurumun asıl metni yeniden kontrol edilmeli."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -5833,10 +5833,10 @@
   },
   "https://www.gsb.gov.tr/tr/duyuru/305326-2026-yili-sozlesmeli-bilisim-personeli-alimi-sozluuygulamali-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.gsb.gov.tr/tr/duyuru/305326-2026-yili-sozlesmeli-bilisim-personeli-alimi-sozluuygulamali-sinav-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
   },
   "https://www.gsb.gov.tr/tr/duyuru/304956-2026-yili-sozlesmeli-diyetisyen-psikolog-ve-sosyal-calismaci-alimi-sozlu-sinav-duyurusu": {
     "status": "pending",
@@ -9635,10 +9635,10 @@
   },
   "https://www.alparslan.edu.tr/page/announcement/2026-ales3-gorevli-tercih-islemleri-baslamistir-9631": {
     "status": "pending",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.alparslan.edu.tr/page/announcement/2026-ales3-gorevli-tercih-islemleri-baslamistir-9631",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
   },
   "https://mut.bel.tr/haberler/24-kasim-ogretmenler-gunu-programi": {
     "status": "pending",
@@ -11561,59 +11561,59 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11624,10 +11624,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T01:40:17Z",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
+    "checkedAt": "2026-11-22T03:25:42Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -15525,23 +15525,751 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf",
-    "checkedAt": "2026-11-22T01:40:17Z",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf",
-    "checkedAt": "2026-11-22T01:40:17Z",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf": {
     "status": "pending",
-    "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
+    "reason": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf",
-    "checkedAt": "2026-11-22T01:40:17Z",
-    "lastAttempt": "Resmî Gazete PDF bağlantısı yeniden açıldığında belge içeriği alınamadı."
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "lastAttempt": "Resmî Gazete ek PDF dosyasının içeriğine bu kontrolde erişilemedi."
+  },
+  "https://www.basciftlik.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.basciftlik.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediyesine-ilk-defa-atanmak-uzere-memur-muhendis-alimi-mulakat-sonuc-listesi": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediyesine-ilk-defa-atanmak-uzere-memur-muhendis-alimi-mulakat-sonuc-listesi",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-kubra-ozturk": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-kubra-ozturk",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-merve-seven-ekinci": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-merve-seven-ekinci",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-emre-akin": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-emre-akin",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-eray-can-zorlu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-eray-can-zorlu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-ahmet-ugur-kavak": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-ahmet-ugur-kavak",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-yasin-cicek": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-yasin-cicek",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-cetin-akan": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-cetin-akan",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-huseyin-gunhan-gun": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-huseyin-gunhan-gun",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-kadir-kaygisiz": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-kadir-kaygisiz",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-fatma-nur-ulusoy": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-fatma-nur-ulusoy",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/birim/zabita": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/birim/zabita",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/birim/zabita-amirligi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/birim/zabita-amirligi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediyesine-ilk-defa-atanmak-uzere-memur-muhendis-alimi-mulakat-sonuc-listesi": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediyesine-ilk-defa-atanmak-uzere-memur-muhendis-alimi-mulakat-sonuc-listesi",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-kubra-ozturk": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-kubra-ozturk",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-merve-seven-ekinci": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-merve-seven-ekinci",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-emre-akin": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-emre-akin",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-eray-can-zorlu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-eray-can-zorlu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-ahmet-ugur-kavak": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/duyuru/basciftlik-belediye-baskanligina-ilk-defa-atanmak-uzere-muhendis-alimi-sinav-giris-belgesi-ahmet-ugur-kavak",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.basciftlik.bel.tr/duyuru/birim/zabita": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.basciftlik.bel.tr/duyuru/birim/zabita",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bekilli.bel.tr/hizmetlerimiz/7/zabita-hizmetleri/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.bekilli.bel.tr/hizmetlerimiz/7/zabita-hizmetleri/",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.bekilli.bel.tr/ihaleler/713/2010-model-mst-marka-kazici-yukleyeci-ihale-duyurusu/hizmetlerimiz/7/zabita-hizmetleri/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bekilli.bel.tr/ihaleler/713/2010-model-mst-marka-kazici-yukleyeci-ihale-duyurusu/hizmetlerimiz/7/zabita-hizmetleri/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://bergama.bel.tr/belge-arsivi/sozlesmeli-disiplin/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://bergama.bel.tr/belge-arsivi/sozlesmeli-disiplin/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://bergama.bel.tr/kurumsal/mudurlukler/zabita-mudurlugu/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://bergama.bel.tr/kurumsal/mudurlukler/zabita-mudurlugu/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.besni.bel.tr/birimler/zabita-mudurlugu/16/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.besni.bel.tr/birimler/zabita-mudurlugu/16/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.beyagac.bel.tr/hizmet/zabita-hizmetleri": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.beyagac.bel.tr/hizmet/zabita-hizmetleri",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.beyagac.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.beyagac.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.beykoz.bel.tr/duyurular/beykoz-belediye-baskanligi-zabita-memuru-alimi-sozlu-ve-uygulamali-sinavi-sonucu-kesin-basari-listesi": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.beykoz.bel.tr/duyurular/beykoz-belediye-baskanligi-zabita-memuru-alimi-sozlu-ve-uygulamali-sinavi-sonucu-kesin-basari-listesi",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.beylikova.bel.tr/duyurular/7/isci-alimi-11-kisilik-kuraya-katilacaklarin-isimlerinin-duyurusu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.beylikova.bel.tr/duyurular/7/isci-alimi-11-kisilik-kuraya-katilacaklarin-isimlerinin-duyurusu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://beyoglu.bel.tr/hizmetlerimiz/zabita/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://beyoglu.bel.tr/hizmetlerimiz/zabita/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://beyoglu.bel.tr/duyurular/beyoglu-belediye-baskanligi-memur-alimi-sinav-sonuclarina-iliskin-duyuru/": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://beyoglu.bel.tr/duyurular/beyoglu-belediye-baskanligi-memur-alimi-sinav-sonuclarina-iliskin-duyuru/",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://beyoglu.bel.tr/duyurular/beyoglu-belediye-baskanligi-zabita-memuru-alimi-sinav-sonuclarina-iliskin-duyuru/": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://beyoglu.bel.tr/duyurular/beyoglu-belediye-baskanligi-zabita-memuru-alimi-sinav-sonuclarina-iliskin-duyuru/",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://beyoglu.bel.tr/duyurular/memur-ve-zabita-memuru-alimi-sozlu-ve-veya-uygulamali-sinava-girmeye-hak-kazananlara-ait-kesin-aday-listesi/": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://beyoglu.bel.tr/duyurular/memur-ve-zabita-memuru-alimi-sozlu-ve-veya-uygulamali-sinava-girmeye-hak-kazananlara-ait-kesin-aday-listesi/",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://beyoglu.bel.tr/duyurular/ilk-defa-atanmak-uzere-memur-ve-zabita-memuru-alim-ilani/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://beyoglu.bel.tr/duyurular/ilk-defa-atanmak-uzere-memur-ve-zabita-memuru-alim-ilani/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.birecik.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.birecik.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.birecik.bel.tr/haber/zabita-ekipleri-denetimleri": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.birecik.bel.tr/haber/zabita-ekipleri-denetimleri",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bismil.bel.tr/duyuru/bismil-belediye-baskanligi-kurum-disi-personel-alimi-sozlu-mulakatta-hak-kazananlarin-katilim-listesi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bismil.bel.tr/duyuru/bismil-belediye-baskanligi-kurum-disi-personel-alimi-sozlu-mulakatta-hak-kazananlarin-katilim-listesi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bismil.bel.tr/duyuru/bismil-belediye-baskanligi-personel-alimi-sozlu-mulakat-takviminin-guncellenmesi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bismil.bel.tr/duyuru/bismil-belediye-baskanligi-personel-alimi-sozlu-mulakat-takviminin-guncellenmesi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bismil.bel.tr/duyuru/personel-alimi-ilaninda-05-02-2026-tarihinde-sozlu-mulakata-girecek-adaylarin-listesi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bismil.bel.tr/duyuru/personel-alimi-ilaninda-05-02-2026-tarihinde-sozlu-mulakata-girecek-adaylarin-listesi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bismil.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.bismil.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.bismil.bel.tr/haber/birim/zabita-amirligi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bismil.bel.tr/haber/birim/zabita-amirligi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bismil.bel.tr/duyuru/birim/zabita-amirligi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bismil.bel.tr/duyuru/birim/zabita-amirligi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.borcka.bel.tr/zabita-amirligi/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.borcka.bel.tr/zabita-amirligi/",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.bozcaada.bel.tr/belediyemiz/belediye-kadrosu/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bozcaada.bel.tr/belediyemiz/belediye-kadrosu/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Alim-Ilani-06102025.pdf": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Alim-Ilani-06102025.pdf",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Zabita-Memuru-ve-Itfaiye-Eri-Alim-Ilani.pdf": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bozcaada.bel.tr/wp-content/uploads/Bozcaada-Belediyesi-Ilk-Defa-Atanmak-Uzere-Memur-Zabita-Memuru-ve-Itfaiye-Eri-Alim-Ilani.pdf",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bozkurt.bel.tr/birim/zabita-amirligi/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bozkurt.bel.tr/birim/zabita-amirligi/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bozkurt.bel.tr/itfaiye-eri-alimi-sinav-sonucu-basari-listesi/476/": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.bozkurt.bel.tr/itfaiye-eri-alimi-sinav-sonucu-basari-listesi/476/",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.bozova.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.bozova.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.bozova.bel.tr/haber/zabita-ekiplerinden-bayram-oncesi-siki-denetim": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bozova.bel.tr/haber/zabita-ekiplerinden-bayram-oncesi-siki-denetim",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.buca.bel.tr/tr/meclis-baskan-vekili-ve-meclis-katip-uyeleri": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.buca.bel.tr/tr/meclis-baskan-vekili-ve-meclis-katip-uyeleri",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bulanik.bel.tr/zabita-mudurlugu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bulanik.bel.tr/zabita-mudurlugu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.bulanik.bel.tr/kadin-politikalari-mudurlugune-personel-alimi-duyurusu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.bulanik.bel.tr/kadin-politikalari-mudurlugune-personel-alimi-duyurusu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://cal.bel.tr/birim/zabita-amirligi/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://cal.bel.tr/birim/zabita-amirligi/",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.caldiran.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.caldiran.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.camardi.bel.tr/duyuru/isci-alimi": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "İşçi alımı için sözlü sınav tarihi 24 Mart 2025.",
+    "evidence": "https://www.camardi.bel.tr/duyuru/isci-alimi",
+    "lastAttempt": "İşçi alımı için sözlü sınav tarihi 24 Mart 2025."
+  },
+  "https://www.camliyayla.bel.tr/hizmetler/zabita-hizmetleri/4/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.camliyayla.bel.tr/hizmetler/zabita-hizmetleri/4/",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-27032017-tarihli-vasifsiz-personel-h/18/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-27032017-tarihli-vasifsiz-personel-h/18/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-25032016-tarihli-vasifsiz-personel-h/13/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-25032016-tarihli-vasifsiz-personel-h/13/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-06042015-tarihli-vasifsiz-personel-h/7/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-06042015-tarihli-vasifsiz-personel-h/7/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-24032014-tarihli-vasifsiz-personel-h/10/": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.camliyayla.bel.tr/duyuru/camliyayla-belediyesi-24032014-tarihli-vasifsiz-personel-h/10/",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://camoluk.bel.tr/zabita-amirligi/": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://camoluk.bel.tr/zabita-amirligi/",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8516": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8516",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8515": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8515",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8512": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8512",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8511": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8511",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8494": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8494",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8493": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/8493",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7492": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7492",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7490": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7490",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7487": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7487",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7483": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7483",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7482": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7482",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7467": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/7467",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/6471": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/6471",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/6470": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/6470",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/4462": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/4462",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/2464": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/2464",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/2446": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/2446",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/2434": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.canakkaleayvacik.bel.tr/Gundem/DuyuruDetay/2434",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.carsibasi.bel.tr/Duyuru/322/gecici-personel-alimi-aday-listesi-belli-oldu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.carsibasi.bel.tr/Duyuru/322/gecici-personel-alimi-aday-listesi-belli-oldu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.carsibasi.bel.tr/Duyuru/301/gecici-personel-alimi-aday-listesi-belli-oldu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.carsibasi.bel.tr/Duyuru/301/gecici-personel-alimi-aday-listesi-belli-oldu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.carsibasi.bel.tr/Duyuru/289/gecici-isci-alimi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.carsibasi.bel.tr/Duyuru/289/gecici-isci-alimi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.carsibasi.bel.tr/Duyuru/284/daimi-isci-alimi-sinav-sonuc-ilani": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.carsibasi.bel.tr/Duyuru/284/daimi-isci-alimi-sinav-sonuc-ilani",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.catalpinar.bel.tr/ilan/sozlesmeli-personel-alimi-sozlu-mulakat-sinavina-katilacaklar-listesi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.catalpinar.bel.tr/ilan/sozlesmeli-personel-alimi-sozlu-mulakat-sinavina-katilacaklar-listesi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.catalpinar.bel.tr/ilan/catalpinar-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Eylül alımının mülakatı sonuçlandı. İlanın tekniker kadrosu P93 istiyor.",
+    "evidence": "https://www.catalpinar.bel.tr/uploads/files/C%CC%A7ATALPINAR-BELED-YES-LAN-METN-1-20260730161802.pdf",
+    "lastAttempt": "Eylül alımının mülakatı sonuçlandı. İlanın tekniker kadrosu P93 istiyor."
+  },
+  "https://www.catalpinar.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.catalpinar.bel.tr/birim/zabita-amirligi",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.catalzeytin.bel.tr/birim/zabita-amirligi.html": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.catalzeytin.bel.tr/birim/zabita-amirligi.html",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.celtik.bel.tr/guncel/haber/69/celtik-belediye-baskanligindan-memur-alimi-duyurusu": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediye bu memur alımının başvurularını 2–6 Kasım 2026 tarihlerinde aldı ve sonuçları yayımladı.",
+    "evidence": "https://www.celtik.bel.tr/guncel/duyuru/33/ilk-defa-atanmak-uzere-memur-alimina-iliskin-basvuru-sonuclari",
+    "lastAttempt": "Belediye bu memur alımının başvurularını 2–6 Kasım 2026 tarihlerinde aldı ve sonuçları yayımladı."
+  },
+  "https://www.celtik.bel.tr/guncel/duyuru/32/celtik-belediye-baskanligindan-memur-alimi-duyurusu": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediye bu memur alımının başvurularını 2–6 Kasım 2026 tarihlerinde aldı ve sonuçları yayımladı.",
+    "evidence": "https://www.celtik.bel.tr/guncel/duyuru/33/ilk-defa-atanmak-uzere-memur-alimina-iliskin-basvuru-sonuclari",
+    "lastAttempt": "Belediye bu memur alımının başvurularını 2–6 Kasım 2026 tarihlerinde aldı ve sonuçları yayımladı."
+  },
+  "https://www.celtik.bel.tr/guncel/duyuru/28/isci-alimi-duyurusu": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.celtik.bel.tr/guncel/duyuru/28/isci-alimi-duyurusu",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.celtik.bel.tr/guncel/duyuru/21/celtik-belediye-baskanligi-ilk-defa-atanmak-uzere-memur-alimina-iliskin-basvuru-sonuc-ilani": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.celtik.bel.tr/guncel/duyuru/21/celtik-belediye-baskanligi-ilk-defa-atanmak-uzere-memur-alimina-iliskin-basvuru-sonuc-ilani",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.celtik.bel.tr/guncel/duyuru/20/celtik-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.celtik.bel.tr/guncel/duyuru/20/celtik-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.cerkes.bel.tr/zabita-amirligi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.cerkes.bel.tr/zabita-amirligi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.cerkes.bel.tr/ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-sinavi-sonuclari-aciklandi": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu.",
+    "evidence": "https://www.cerkes.bel.tr/ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-sinavi-sonuclari-aciklandi",
+    "lastAttempt": "Kurum sayfası önceki başvuruya ilişkin sınav belgesi, aday listesi veya sonuç duyurusu."
+  },
+  "https://www.cerkes.bel.tr/sozlesmeli-personel-alim-sinavina-hak-kazananlara-iliskin-duyuru": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.cerkes.bel.tr/sozlesmeli-personel-alim-sinavina-hak-kazananlara-iliskin-duyuru",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.cerkes.bel.tr/cerkes-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani": {
+    "status": "closed",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Çerkeş Belediyesinin ilanında başvurular 22–26 Haziran 2026 ile sınırlı.",
+    "evidence": "https://www.cerkes.bel.tr/cerkes-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani",
+    "lastAttempt": "Çerkeş Belediyesinin ilanında başvurular 22–26 Haziran 2026 ile sınırlı."
+  },
+  "https://www.cerkezkoy.bel.tr/haber-detay/naim": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.cerkezkoy.bel.tr/haber-detay/naim",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.cermik.bel.tr/birim/zabıta-müdürlüğü.html": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.cermik.bel.tr/birim/zabıta-müdürlüğü.html",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
+  },
+  "https://www.cermik.bel.tr/haber/ilçe-merkezinde-belediye-zabıta-müdürlüğümüzce-denetimler-yapıldı.html": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.cermik.bel.tr/haber/ilçe-merkezinde-belediye-zabıta-müdürlüğümüzce-denetimler-yapıldı.html",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.cermik.bel.tr/birim/zabıta-müdürlüğü.html.html": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://www.cermik.bel.tr/birim/zabıta-müdürlüğü.html.html",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://cildir.bel.tr/zabita-amirligi": {
+    "status": "pending",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı.",
+    "evidence": "https://cildir.bel.tr/zabita-amirligi",
+    "lastAttempt": "Bağlantı kontrol edildi. Başvuru tarihleri ve P94 kabulü resmî belgede birlikte doğrulanamadı."
+  },
+  "https://www.civril.bel.tr/zabita-mudurlugu-231": {
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T03:25:42Z",
+    "reason": "Belediyenin birim, hizmet veya iç yönerge sayfası.",
+    "evidence": "https://www.civril.bel.tr/zabita-mudurlugu-231",
+    "lastAttempt": "Belediyenin birim, hizmet veya iç yönerge sayfası."
   }
 }
