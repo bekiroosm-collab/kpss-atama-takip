@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-21T23:32:47Z",
-    "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı ilan ayrıntıları boş. Asıl şartname doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-21T23:32:47Z",
-    "reason": "Kariyer Kapısı ilan ayrıntılarında alanlar boş. Kuruma ait okunabilir kadro şartnamesi bu kontrolde bulunamadı.",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı ilan ayrıntıları boş. Asıl şartname doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -2806,11 +2806,11 @@
     "reason": "Boztepe Belediyesinin tek mühendis kadrosu için maden mühendisliği lisansı, B sınıfı ehliyet ve en az 60 P3 gerekiyor."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-189": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "13 Temmuz 2026 tarihinde açıklanan sınav sonuçlarından sonra atama işlemlerine ilişkin duyuru.",
     "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-189",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "13 Temmuz 2026 tarihinde açıklanan sınav sonuçlarından sonra atama işlemlerine ilişkin duyuru."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-188": {
     "status": "ineligible",
@@ -2818,11 +2818,11 @@
     "reason": "Resmî sayfa mevcut alımın sonuç, yedek veya sınava çağrı duyurusunu yayımlıyor."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-184": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-184",
-    "lastAttempt": "İçerik okunamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı.",
+    "evidence": "https://www.ardahan.bel.tr/upload/duyurular/88d2c848.pdf",
+    "lastAttempt": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-181": {
     "status": "closed",
@@ -2830,39 +2830,39 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-178": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-178",
-    "lastAttempt": "İçerik okunamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı.",
+    "evidence": "https://www.ardahan.bel.tr/upload/duyurular/88d2c848.pdf",
+    "lastAttempt": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-177": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-177",
-    "lastAttempt": "İçerik okunamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı.",
+    "evidence": "https://www.ardahan.bel.tr/upload/duyurular/88d2c848.pdf",
+    "lastAttempt": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-173": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-173",
-    "lastAttempt": "İçerik okunamadı."
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Haziran 2026 tarihli mevsimlik işçi duyurusu dizinde bulundu. Asıl başvuru belgesine erişilemedi.",
+    "evidence": "https://ardahan.bel.tr/duyurular",
+    "lastAttempt": "Haziran 2026 tarihli mevsimlik işçi duyurusu dizinde bulundu. Asıl başvuru belgesine erişilemedi."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-172": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-172",
-    "lastAttempt": "İçerik okunamadı."
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Haziran 2026 tarihli mevsimlik işçi duyurusu dizinde bulundu. Asıl başvuru belgesine erişilemedi.",
+    "evidence": "https://ardahan.bel.tr/duyurular",
+    "lastAttempt": "Haziran 2026 tarihli mevsimlik işçi duyurusu dizinde bulundu. Asıl başvuru belgesine erişilemedi."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-167": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-167",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı.",
+    "evidence": "https://www.ardahan.bel.tr/upload/duyurular/88d2c848.pdf",
+    "lastAttempt": "Ardahan Belediyesinin sözleşmeli personel ilanında P3 aranıyor. Başvurular 2 Temmuz 2026’da kapandı."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-151": {
     "status": "ineligible",
@@ -3242,11 +3242,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-150": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "13 Ekim 2025 tarihli atama işlemleri duyurusu.",
     "evidence": "https://www.ardahan.bel.tr/duyurular/duyuru-150",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "13 Ekim 2025 tarihli atama işlemleri duyurusu."
   },
   "https://www.ardahan.bel.tr/duyurular/duyuru-149": {
     "status": "closed",
@@ -3264,11 +3264,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.ardahan.edu.tr/Home/Duyuru/6869": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "3 Kasım duyurusu üniversitede görev yapan 4/B personelinin 4/A kadrosuna geçişi için.",
     "evidence": "https://www.ardahan.edu.tr/Home/Duyuru/6869",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "3 Kasım duyurusu üniversitede görev yapan 4/B personelinin 4/A kadrosuna geçişi için."
   },
   "https://pedb.ardahan.edu.tr/Home/Duyuru/7017": {
     "status": "closed",
@@ -3281,11 +3281,11 @@
     "reason": "4 Eylül 2026 ilanına daha önce başvuran yedek adayların evrak teslimine ilişkin duyuru."
   },
   "https://pedb.ardahan.edu.tr/Home/Duyuru/6872": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "reason": "3 Kasım duyurusu üniversitede görev yapan 4/B personelinin 4/A kadrosuna geçişi için.",
     "evidence": "https://pedb.ardahan.edu.tr/Home/Duyuru/6872",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "3 Kasım duyurusu üniversitede görev yapan 4/B personelinin 4/A kadrosuna geçişi için."
   },
   "https://pedb.ardahan.edu.tr/Home/Duyuru/6868": {
     "status": "closed",
@@ -4872,10 +4872,10 @@
   },
   "https://pgm.adalet.gov.tr/Home/SayfaDetay/2026sozlesmelitasra": {
     "status": "closed",
-    "reason": "P94 kabul eden adlî ve idarî yargı alımının son başvuru tarihi 22 Haziran 2026.",
-    "checkedAt": "2026-11-21T16:21:05Z",
+    "reason": "Zabıt kâtibi ve diğer adliye kadrolarına başvurular 7–22 Haziran 2026 arasında alındı.",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://pgm.adalet.gov.tr/Home/SayfaDetay/2026sozlesmelitasra",
-    "lastAttempt": "Kurumun yayımladığı metin kontrol edildi."
+    "lastAttempt": "Zabıt kâtibi ve diğer adliye kadrolarına başvurular 7–22 Haziran 2026 arasında alındı."
   },
   "https://d.pau.edu.tr/368564ee": {
     "status": "closed",
@@ -11562,58 +11562,58 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-9.pdf": {
     "status": "ineligible",
@@ -11625,9 +11625,9 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-21T23:32:47Z",
+    "checkedAt": "2026-11-22T00:32:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -15527,21 +15527,21 @@
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf",
-    "checkedAt": "2026-11-21T23:32:47Z",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf",
-    "checkedAt": "2026-11-21T23:32:47Z",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf",
-    "checkedAt": "2026-11-21T23:32:47Z",
-    "lastAttempt": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı."
+    "checkedAt": "2026-11-22T00:32:14Z",
+    "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   }
 }
