@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-22T06:26:06Z",
-    "reason": "Kariyer Kapısı ayrıntılarında koşullar ve tarihler boş. Kurumun unvan değişikliği ilanı ayrıca doğrulanmalı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "reason": "Kariyer Kapısı ayrıntısında koşullar ve tarihler boş.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı ayrıntılarında koşullar ve tarihler boş. Kurumun unvan değişikliği ilanı ayrıca doğrulanmalı."
+    "lastAttempt": "Kariyer Kapısı ayrıntısında koşullar ve tarihler boş."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-22T06:26:06Z",
-    "reason": "Kariyer Kapısı ayrıntılarında koşullar ve tarihler boş. Belediyenin asıl kadro tablosu doğrulanamadı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "reason": "Kariyer Kapısı ayrıntısında koşullar ve tarihler boş.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı ayrıntılarında koşullar ve tarihler boş. Belediyenin asıl kadro tablosu doğrulanamadı."
+    "lastAttempt": "Kariyer Kapısı ayrıntısında koşullar ve tarihler boş."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -6657,15 +6657,17 @@
   },
   "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf": {
     "status": "ineligible",
-    "reason": "22 Kasım kapanışlı OKA ilanında dört uzman ile bir büro görevlisinin tamamı için lisans mezuniyeti gerekiyor.",
-    "checkedAt": "2026-11-20T23:30:29Z",
-    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf"
+    "reason": "22 Kasım 2026 kapanışlı OKA ilanının asıl belgesinde dört uzman ile bir büro görevlisi için lisans mezuniyeti aranıyor.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf",
+    "lastAttempt": "22 Kasım 2026 kapanışlı OKA ilanının asıl belgesinde dört uzman ile bir büro görevlisi için lisans mezuniyeti aranıyor."
   },
   "https://www.ahika.gov.tr/duyurular/t-c-orta-karadeniz-kalkinma-ajansi-oka-personel-alim-ilani-2026": {
     "status": "ineligible",
-    "reason": "22 Kasım kapanışlı OKA ilanında dört uzman ile bir büro görevlisinin tamamı için lisans mezuniyeti gerekiyor.",
-    "checkedAt": "2026-11-20T23:30:29Z",
-    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf"
+    "reason": "22 Kasım 2026 kapanışlı OKA ilanının asıl belgesinde dört uzman ile bir büro görevlisi için lisans mezuniyeti aranıyor.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf",
+    "lastAttempt": "22 Kasım 2026 kapanışlı OKA ilanının asıl belgesinde dört uzman ile bir büro görevlisi için lisans mezuniyeti aranıyor."
   },
   "https://izmir.bel.tr/tr/Duyurular/12290/159": {
     "status": "ineligible",
@@ -11438,10 +11440,10 @@
   },
   "https://pdb.sinop.edu.tr/14-08-2026-tarihinde-resmi-gazetede-yayimlanan-sozlesmeli-personel-alim-ilani/": {
     "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "reason": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı.",
     "evidence": "https://pdb.sinop.edu.tr/14-08-2026-tarihinde-resmi-gazetede-yayimlanan-sozlesmeli-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı."
   },
   "https://pdb.sinop.edu.tr/13252-2/": {
     "status": "pending",
@@ -11562,56 +11564,56 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
@@ -11625,7 +11627,7 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
@@ -11679,11 +11681,11 @@
     "lastAttempt": "Resmî metin okundu."
   },
   "https://www.cumhuriyet.edu.tr/personel/duyuru/37347-sozlesmeli-personel-alim-ilani": {
-    "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "status": "closed",
+    "reason": "Sivas Cumhuriyet Üniversitesi başvuruların 11 Eylül 2026 tarihinde sona erdiğini bildiriyor.",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.cumhuriyet.edu.tr/personel/duyuru/37347-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Sivas Cumhuriyet Üniversitesi başvuruların 11 Eylül 2026 tarihinde sona erdiğini bildiriyor."
   },
   "https://www.cumhuriyet.edu.tr/duyuru/37081-turk-muzigi-bolumu-ozel-yetenek-giris-sinavi-kilavuzu-hakkinda-duyuru": {
     "status": "pending",
@@ -11889,11 +11891,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://www.cumhuriyet.edu.tr/personel/duyuru/34116-sozlesmeli-personel-alim-ilani": {
-    "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "status": "closed",
+    "reason": "Üniversitenin bu ilanında başvurular 20 Mayıs 2025 tarihinde kapandı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://www.cumhuriyet.edu.tr/personel/duyuru/34116-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "lastAttempt": "Üniversitenin bu ilanında başvurular 20 Mayıs 2025 tarihinde kapandı."
   },
   "https://www.cumhuriyet.edu.tr/personel/duyuru/33993-eski-hukumlu-terorle-mucadelede-malul-sayilmayacak-sekilde-yaralanan-surekli-isci-alimi-sozlu-sinav-duyurusu": {
     "status": "pending",
@@ -12037,10 +12039,10 @@
   },
   "https://web.shgm.gov.tr/tr/tr/genel-duyurular/7664-sivil-havacilik-genel-mudurlugu-sozlesmeli-personel-alim-ilani": {
     "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
+    "reason": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://web.shgm.gov.tr/tr/tr/genel-duyurular/7664-sivil-havacilik-genel-mudurlugu-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "İçerik okunamadı."
+    "lastAttempt": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı."
   },
   "https://www.soke.bel.tr/duyurular/belediye-emir-ve-yasaklari-uygulama-yonetmeligi-zabita-mudurlugu": {
     "status": "pending",
@@ -12310,24 +12312,24 @@
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/30434/1/4b-sozlesmeli-personel-alim-ilani": {
     "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "http://www.tarsus.edu.tr/Website/Duyurular/30434/1/4b-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "reason": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://www.tarsus.edu.tr/Website/Duyurular/30434/1/4b-sozlesmeli-personel-alim-ilani",
+    "lastAttempt": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/29549/1/4b-sozlesmeli-personel-alim-ilani-sonuc-duyurusu": {
-    "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "http://www.tarsus.edu.tr/Website/Duyurular/29549/1/4b-sozlesmeli-personel-alim-ilani-sonuc-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "reason": "Üniversitenin önceki 4/B ilanının sonuç duyurusu.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://www.tarsus.edu.tr/Website/Duyurular/29549/1/4b-sozlesmeli-personel-alim-ilani-sonuc-duyurusu",
+    "lastAttempt": "Üniversitenin önceki 4/B ilanının sonuç duyurusu."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/29511/1/4b-sozlesmeli-personel-alim-ilani": {
     "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "http://www.tarsus.edu.tr/Website/Duyurular/29511/1/4b-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "reason": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://www.tarsus.edu.tr/Website/Duyurular/29511/1/4b-sozlesmeli-personel-alim-ilani",
+    "lastAttempt": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/29381/1/4b-sozlesmeli-personel-ilani-sonuc-duyurusu": {
     "status": "pending",
@@ -12344,25 +12346,25 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/22656/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-3-duyurusu": {
-    "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "http://www.tarsus.edu.tr/Website/Duyurular/22656/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-3-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "reason": "Önceki 4/B ilanında sıradaki yedek adaya yapılan çağrı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://www.tarsus.edu.tr/Website/Duyurular/22656/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-3-duyurusu",
+    "lastAttempt": "Önceki 4/B ilanında sıradaki yedek adaya yapılan çağrı."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/22223/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-2-duyurusu": {
-    "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "http://www.tarsus.edu.tr/Website/Duyurular/22223/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-2-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "reason": "Önceki 4/B ilanında sıradaki yedek adaya yapılan çağrı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://www.tarsus.edu.tr/Website/Duyurular/22223/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-2-duyurusu",
+    "lastAttempt": "Önceki 4/B ilanında sıradaki yedek adaya yapılan çağrı."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/21870/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-duyurusu": {
-    "status": "pending",
-    "reason": "Açık başvuru tarihleri ve ortaöğretim puan şartı birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "evidence": "http://www.tarsus.edu.tr/Website/Duyurular/21870/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "reason": "Önceki 4/B ilanında sıradaki yedek adaya yapılan çağrı.",
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "evidence": "https://www.tarsus.edu.tr/Website/Duyurular/21870/1/4b-sozlesmeli-personel-alim-ilani-yedekten-hak-kazanan-aday-duyurusu",
+    "lastAttempt": "Önceki 4/B ilanında sıradaki yedek adaya yapılan çağrı."
   },
   "http://www.tarsus.edu.tr/Website/Duyurular/21585/1/4b-sozlesmeli-personel-ilani-sonuc-duyurusu": {
     "status": "pending",
@@ -14768,11 +14770,11 @@
     "lastAttempt": "Adres denendi, okunabilir resmî metin alınamadı."
   },
   "https://ortakoy.bel.tr/haber-ilk-defa-atanmak-uzere-memur-alim-ilani_178": {
-    "status": "pending",
-    "reason": "“İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI” kaydında halen başvurulabilir P94 kadrosu resmî metin ve ekleriyle doğrulanamadı.",
-    "checkedAt": "2026-11-21T17:10:15Z",
+    "status": "ineligible",
+    "reason": "9 Mart 2021 tarihli ilanda 2020 KPSS P3 aranıyor.",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "evidence": "https://ortakoy.bel.tr/haber-ilk-defa-atanmak-uzere-memur-alim-ilani_178",
-    "lastAttempt": "Resmî sayfa incelendi."
+    "lastAttempt": "9 Mart 2021 tarihli ilanda 2020 KPSS P3 aranıyor."
   },
   "https://pursaklar.bel.tr/belediye-hizmetleri/zabita-mudurlugu": {
     "status": "ineligible",
@@ -15119,10 +15121,10 @@
   },
   "https://alapli.bel.tr/detay/276-alapli-belediye-baskanligi-ilk-defa-atanmak-uzere-memur-alim-ilani": {
     "status": "pending",
-    "reason": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı.",
+    "reason": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı.",
     "evidence": "https://alapli.bel.tr/detay/276-alapli-belediye-baskanligi-ilk-defa-atanmak-uzere-memur-alim-ilani",
-    "checkedAt": "2026-11-21T23:32:47Z",
-    "lastAttempt": "Kurum sayfası açıldı. Başvuru süresi ile P94 şartı birlikte doğrulanamadı."
+    "checkedAt": "2026-11-22T07:18:14Z",
+    "lastAttempt": "İlanın başvuru süresi ve P94 kabulü birlikte doğrulanamadı."
   },
   "https://www.alpu.bel.tr/birim/zabita-amirligi": {
     "status": "ineligible",
@@ -15527,21 +15529,21 @@
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf": {
     "status": "pending",
     "reason": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "checkedAt": "2026-11-22T07:18:14Z",
     "lastAttempt": "Resmî Gazete ek PDF dosyası bu kontrolde okunamadı."
   },
   "https://www.basciftlik.bel.tr/birim/zabita-amirligi": {
