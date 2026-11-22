@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-22T00:32:14Z",
-    "reason": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı.",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Kariyer Kapısı alanları boş. Tarih ve şartlar kurumun metninden yeniden doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı."
+    "lastAttempt": "Kariyer Kapısı alanları boş. Tarih ve şartlar kurumun metninden yeniden doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "checkedAt": "2026-11-22T00:32:14Z",
-    "reason": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı.",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Kariyer Kapısı alanları boş. Tarih ve şartlar kurumun metninden yeniden doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "lastAttempt": "Kariyer Kapısı sayfasında şartlar ve tarihler boş. Kurumun asıl şartnamesi bulunamadı."
+    "lastAttempt": "Kariyer Kapısı alanları boş. Tarih ve şartlar kurumun metninden yeniden doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -309,39 +309,39 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
   },
   "https://w2.agu.edu.tr/duyurular/7715/AGÜ 19.02.2025-05.03.2025 Başvuru Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (3.Duyuru) (28.04.2025)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T11:54:13Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7715/AGÜ 19.02.2025-05.03.2025 Başvuru Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (3.Duyuru) (28.04.2025)",
-    "lastAttempt": "Bağlantı denendi. Başvuru dönemi ve P94 şartı birlikte doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2025%20Resmi%20Gazete%20%C4%B0lanlar/32818%20say%C4%B1l%C4%B1%20Resmi%20Gazete/20250219-4-9.pdf",
+    "lastAttempt": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı."
   },
   "https://w2.agu.edu.tr/duyurular/7709/AGÜ 19.02.2025-05.03.2025 Başvuru Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (2.Duyuru)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7709/AGÜ 19.02.2025-05.03.2025 Başvuru Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (2.Duyuru)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2025%20Resmi%20Gazete%20%C4%B0lanlar/32818%20say%C4%B1l%C4%B1%20Resmi%20Gazete/20250219-4-9.pdf",
+    "lastAttempt": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı."
   },
   "https://w2.agu.edu.tr/duyurular/7669/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı-6 (19.02.2025)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7669/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı-6 (19.02.2025)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2025%20Resmi%20Gazete%20%C4%B0lanlar/32818%20say%C4%B1l%C4%B1%20Resmi%20Gazete/20250219-4-9.pdf",
+    "lastAttempt": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı."
   },
   "https://w2.agu.edu.tr/duyurular/7378/AGÜ 18.01.2024-01.02.2024 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (2.Duyuru) (17.04.2024)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7378/AGÜ 18.01.2024-01.02.2024 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (2.Duyuru) (17.04.2024)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2024%20Resmi%20Gazete%20%C4%B0lanlar%C4%B1/32433%20say%C4%B1l%C4%B1%20Resmi%20Gazete/Resmi%20Gazete%20%C4%B0lan%C4%B1.pdf",
+    "lastAttempt": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/7338/Abdullah Gül Üniversitesi 18.01.2024-01.02.2024 Tarihli Sözleşmeli Personel Alım İlanı Sonuçları (15.02.2024)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Sayfa isteğinden doğrulanabilir ilan metni alınamadı. Asıl duyuru veya eki yeniden aranacak.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7338/Abdullah Gül Üniversitesi 18.01.2024-01.02.2024 Tarihli Sözleşmeli Personel Alım İlanı Sonuçları (15.02.2024)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2024%20Resmi%20Gazete%20%C4%B0lanlar%C4%B1/32433%20say%C4%B1l%C4%B1%20Resmi%20Gazete/Resmi%20Gazete%20%C4%B0lan%C4%B1.pdf",
+    "lastAttempt": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/7074/AGÜ 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (5. Duyuru) (07.07.2023)": {
     "status": "ineligible",
@@ -2714,25 +2714,25 @@
     "reason": "1416 burs başvurusu 30 Aralık 2025 saat 17.00’de kapandı."
   },
   "https://w2.agu.edu.tr/duyurular/7930/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı-7 (08.12.2025)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7930/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı-7 (08.12.2025)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Şoför kadrosunda P94 kabul edilmişti. Resmî ilana göre son başvuru 22 Aralık 2025.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2025%20Resmi%20Gazete%20%C4%B0lanlar/33101%20say%C4%B1l%C4%B1%20Resmi%20Gazete/20251208-4-3.pdf",
+    "lastAttempt": "Şoför kadrosunda P94 kabul edilmişti. Resmî ilana göre son başvuru 22 Aralık 2025."
   },
   "https://w2.agu.edu.tr/duyurular/7697/Abdullah Gül Üniversitesi 19.02.2025-05.03.2025 Tarihli Sözleşmeli Personel Alım İlanı-6 Sonuçları (07.04.2025)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7697/Abdullah Gül Üniversitesi 19.02.2025-05.03.2025 Tarihli Sözleşmeli Personel Alım İlanı-6 Sonuçları (07.04.2025)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2025%20Resmi%20Gazete%20%C4%B0lanlar/32818%20say%C4%B1l%C4%B1%20Resmi%20Gazete/20250219-4-9.pdf",
+    "lastAttempt": "Bu alıma başvuru 5 Mart 2025’te kapandı. Üniversite sonraki duyurularda sonuçları ve yedekleri yayımladı."
   },
   "https://w2.agu.edu.tr/duyurular/7299/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı (18.01.2024)": {
-    "status": "pending",
-    "checkedAt": "2026-11-21T12:52:53Z",
-    "reason": "Resmî sayfa yeniden açıldı. Bu kontrolde açık başvuru süresi ile P94 kabul eden kadro birlikte doğrulanamadı.",
-    "evidence": "https://w2.agu.edu.tr/duyurular/7299/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı (18.01.2024)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Güncel P94 başvurusu doğrulanamadı."
+    "status": "closed",
+    "checkedAt": "2026-11-22T00:52:29Z",
+    "reason": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait.",
+    "evidence": "https://personel-tr.agu.edu.tr/uploads/Resmi%20Gazete%20ilanlar%C4%B1/2024%20Resmi%20Gazete%20%C4%B0lanlar%C4%B1/32433%20say%C4%B1l%C4%B1%20Resmi%20Gazete/Resmi%20Gazete%20%C4%B0lan%C4%B1.pdf",
+    "lastAttempt": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/7089/28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (6. Duyuru) (28.07.2023)": {
     "status": "pending",
@@ -11562,56 +11562,56 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-1.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-2.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-3.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-4.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-5.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-6.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-7.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-8.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
@@ -11625,7 +11625,7 @@
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261121-4-10.pdf",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
@@ -15527,21 +15527,21 @@
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-1.pdf",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-2.pdf",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf": {
     "status": "pending",
     "reason": "Resmî ek PDF yeniden açılmaya çalışıldı. İlanın konusu ve şartları doğrulanamadı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4-3.pdf",
-    "checkedAt": "2026-11-22T00:32:14Z",
+    "checkedAt": "2026-11-22T00:52:29Z",
     "lastAttempt": "Resmî ek PDF tekrar denendi. Metin okunamadı."
   }
 }
