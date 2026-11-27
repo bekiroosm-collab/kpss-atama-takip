@@ -3851,9 +3851,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-12.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-20T11:40:10Z",
-    "reason": "Bayburt Üniversitesinin düzeltmesi öğretim elemanı ilanının 10 ve 11 numaralı satırlarını kapsıyor.",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-12.pdf"
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "reason": "Bayburt Üniversitesi 10 ve 11 numaralı araştırma görevlisi kadrolarının şartlarını düzeltti.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-12.pdf",
+    "lastAttempt": "Bayburt Üniversitesi 10 ve 11 numaralı araştırma görevlisi kadrolarının şartlarını düzeltti."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-13.pdf": {
     "status": "ineligible",
@@ -8865,10 +8866,10 @@
   },
   "https://cdn.bartin.edu.tr/onceinsan/fa8dc0ccaa1fa07ccf0ef519114d8f0a/ilan-metni.pdf": {
     "status": "ineligible",
-    "reason": "2026-04 ilanında tek büro personeli için ön lisans ve 2026 P93 şartı var.",
+    "reason": "Büro personeli için ön lisans ve 2026 KPSS P93 aranıyor.",
     "evidence": "https://cdn.bartin.edu.tr/onceinsan/fa8dc0ccaa1fa07ccf0ef519114d8f0a/ilan-metni.pdf",
-    "checkedAt": "2026-11-26T20:25:03Z",
-    "lastAttempt": "2026-04 ilanında tek büro personeli için ön lisans ve 2026 P93 şartı var."
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Büro personeli için ön lisans ve 2026 KPSS P93 aranıyor."
   },
   "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=ukekI6xzn7Wt%2FPqjfwGic5MgBAU0MsktsvuWR07tuica%2BDYLUrcWhueynxqG5xBeROaDbvAAAxYt40vzkPN2kdkiaqx3fHjtriCWuyQp03lLrrlV%2BwYnDYlfut3z7F1I": {
     "status": "pending",
@@ -18709,5 +18710,96 @@
     "evidence": "https://istanbulanadolu.adalet.gov.tr/sozlesmeli-personel-zabit-katibi-mubasir-koruma-ve-guvenlik-gorevlisi-teknisyen-destek-personel",
     "checkedAt": "2026-11-26T20:49:54Z",
     "lastAttempt": "26 Kasım duyurusu önceki zabıt kâtibi ve diğer personel alımının nihai sonuçlarını ve asıl adayların evrak teslimini bildiriyor."
+  },
+  "https://www.ktb.gov.tr/TR-480341/502-sozlesmeli-personel-alimi-yedek-adaylar-hakkinda-duyuru-26112026.html": {
+    "status": "closed",
+    "reason": "Bakanlığın duyuru dizininde 502 kişilik önceki alımın yedek aday duyurusu olarak listeleniyor.",
+    "evidence": "https://www.ktb.gov.tr/TR-480230/162-sozlesmeli-kutuphaneci-alimi-basvuru-degerlendirme-sureci-hakkinda-duyuru-23112026.html",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Bakanlığın duyuru dizininde 502 kişilik önceki alımın yedek aday duyurusu olarak listeleniyor."
+  },
+  "https://www.ktb.gov.tr/TR-480230/162-sozlesmeli-kutuphaneci-alimi-basvuru-degerlendirme-sureci-hakkinda-duyuru-23112026.html": {
+    "status": "closed",
+    "reason": "Kütüphaneci başvuruları 16 Kasım’da kapandı. 30 Kasım mevcut başvurular için itiraz son günü.",
+    "evidence": "https://www.ktb.gov.tr/TR-480230/162-sozlesmeli-kutuphaneci-alimi-basvuru-degerlendirme-sureci-hakkinda-duyuru-23112026.html",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Kütüphaneci başvuruları 16 Kasım’da kapandı. 30 Kasım mevcut başvurular için itiraz son günü."
+  },
+  "https://www.mcbu.edu.tr:443/Duyuru/03-09-2026-tarihli-4-b-sozlesmeli-personel-alim-ilanina-ait-2-yedek-aday-duyurusu": {
+    "status": "closed",
+    "reason": "3 Eylül alımının ikinci yedek adaylarına belge teslim çağrısı.",
+    "evidence": "https://www.mcbu.edu.tr:443/Duyuru/03-09-2026-tarihli-4-b-sozlesmeli-personel-alim-ilanina-ait-2-yedek-aday-duyurusu",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "3 Eylül alımının ikinci yedek adaylarına belge teslim çağrısı."
+  },
+  "http://www.milas.bel.tr/Duyurular/DuyuruDetay/107": {
+    "status": "closed",
+    "reason": "Başvurular 18 Kasım 2026 tarihinde kapandı.",
+    "evidence": "https://www.milas.bel.tr/Duyurular/DuyuruDetay/107",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Başvurular 18 Kasım 2026 tarihinde kapandı."
+  },
+  "http://www.milas.bel.tr/Duyurular/DuyuruDetay/106": {
+    "status": "closed",
+    "reason": "Önceki işçi alımının görüşme tarihi 16 Kasım olarak değiştirildi.",
+    "evidence": "https://www.milas.bel.tr/Duyurular/DuyuruDetay/106",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Önceki işçi alımının görüşme tarihi 16 Kasım olarak değiştirildi."
+  },
+  "https://www.meb.gov.tr/cumhurbaskani-erdogan039dan-atama-mujdesi/haber/42646/tr": {
+    "status": "ineligible",
+    "reason": "MEB haberi Akademi Giriş Sınavıyla öğretmen adayı alımına ilişkin.",
+    "evidence": "https://www.meb.gov.tr/cumhurbaskani-erdogan039dan-atama-mujdesi/haber/42646/tr",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "MEB haberi Akademi Giriş Sınavıyla öğretmen adayı alımına ilişkin."
+  },
+  "https://www.alparslan.edu.tr/tr/page/news/izmir-katip-celebi-universitesi-ogretim-uyesi-doc-dr-gokhan-kagincidan-rektorumuze-ziyaret-9744": {
+    "status": "ineligible",
+    "reason": "Öğretim üyesinin rektörlük ziyaretine ilişkin haber.",
+    "evidence": "https://www.alparslan.edu.tr/tr/page/news/izmir-katip-celebi-universitesi-ogretim-uyesi-doc-dr-gokhan-kagincidan-rektorumuze-ziyaret-9744",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Öğretim üyesinin rektörlük ziyaretine ilişkin haber."
+  },
+  "https://www.ohu.edu.tr/personel/duyuru/97448": {
+    "status": "closed",
+    "reason": "24 Eylül alımının yedek adaylarına çağrı.",
+    "evidence": "https://www.ohu.edu.tr/personel/duyuru/97448",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "24 Eylül alımının yedek adaylarına çağrı."
+  },
+  "https://www.omu.edu.tr/tr/icerik/duyuru/14082026-tarihli-sozlesmeli-personel-4b-alim-ilani-yedeklerden-yerlestirme-sonuclari-0": {
+    "status": "closed",
+    "reason": "14 Ağustos alımının yedek yerleştirme sonuçları.",
+    "evidence": "https://www.omu.edu.tr/tr/icerik/duyuru/14082026-tarihli-sozlesmeli-personel-4b-alim-ilani-yedeklerden-yerlestirme-sonuclari-0",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "14 Ağustos alımının yedek yerleştirme sonuçları."
+  },
+  "https://www.omu.edu.tr/tr/icerik/duyuru/akademik-personel-ve-lisansustu-egitimi-giris-sinavinda-ales-3-gorevli-bina-sinav": {
+    "status": "ineligible",
+    "reason": "ALES bina sınav sorumlularının toplantı duyurusu.",
+    "evidence": "https://www.omu.edu.tr/tr/icerik/duyuru/akademik-personel-ve-lisansustu-egitimi-giris-sinavinda-ales-3-gorevli-bina-sinav",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "ALES bina sınav sorumlularının toplantı duyurusu."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-13.pdf": {
+    "status": "ineligible",
+    "reason": "Mersin Üniversitesi bilişim personeli ilanında lisans mezuniyeti ve P3 değerlendirmesi var.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-13.pdf",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Mersin Üniversitesi bilişim personeli ilanında lisans mezuniyeti ve P3 değerlendirmesi var."
+  },
+  "https://cdn.duzce.edu.tr/File/GetFile/950e837a-f904-432d-b565-808b436a768d": {
+    "status": "ineligible",
+    "reason": "Düzeltme, 23 Kasım ilanındaki dördüncü öğretim görevlisi kadrosunu kapsıyor.",
+    "evidence": "https://cdn.duzce.edu.tr/File/GetFile/950e837a-f904-432d-b565-808b436a768d",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "Düzeltme, 23 Kasım ilanındaki dördüncü öğretim görevlisi kadrosunu kapsıyor."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4.htm": {
+    "status": "pending",
+    "reason": "27 Kasım çeşitli ilanlar dizini açılamadı. 33443 sayılı gazetenin tekil belgeleri dizinin tamamını doğrulamıyor.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4.htm",
+    "checkedAt": "2026-11-27T01:59:08Z",
+    "lastAttempt": "27 Kasım çeşitli ilanlar dizini açılamadı. 33443 sayılı gazetenin tekil belgeleri dizinin tamamını doğrulamıyor."
   }
 }
