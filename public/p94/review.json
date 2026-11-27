@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kadro tablosu, ortaöğretim koşulu ve başvuru süresi birlikte doğrulanamadı.",
+    "reason": "Resmî kadro ve başvuru şartları birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T23:30:39Z",
-    "lastAttempt": "Kadro tablosu, ortaöğretim koşulu ve başvuru süresi birlikte doğrulanamadı."
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "lastAttempt": "Resmî kadro ve başvuru şartları birlikte doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -1624,24 +1624,24 @@
   },
   "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru9/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek.",
     "evidence": "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru9/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek."
   },
   "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru10/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek.",
     "evidence": "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru10/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek."
   },
   "https://www.ailevecalisma.gov.tr/pdb/duyurular/duyuru6/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek.",
     "evidence": "https://www.ailevecalisma.gov.tr/pdb/duyurular/duyuru6/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek."
   },
   "https://www.aile.gov.tr/duyurular/sozlesmeli-avukat-alimi-sozlu-sinav-sonuc-ve-tercih-duyurusu/": {
     "status": "closed",
@@ -1656,18 +1656,18 @@
     "lastAttempt": "9 Eylül 2019 tarihli bilişim sınavında P3 ve yabancı dil puanları kullanılıyor."
   },
   "https://www.aile.gov.tr/duyurular/08032019-01-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Bakanlığın 2019 avukat alımına ilişkin arşiv duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/08032019-01-duyuru/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bakanlığın 2019 avukat alımına ilişkin arşiv duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/29012019-01-nolu-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Bakanlığın 2019 avukat alımına ilişkin arşiv duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/29012019-01-nolu-duyuru/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bakanlığın 2019 avukat alımına ilişkin arşiv duyurusu."
   },
   "https://www.aile.gov.tr/pgm/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-bilisim-personeli-sinav-sonuc-ilani/": {
     "status": "closed",
@@ -1689,10 +1689,10 @@
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=179": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=179",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=177": {
     "status": "closed",
@@ -1700,25 +1700,25 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=168": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 22 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=168",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 22 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=166": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 11 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=166",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 11 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=167": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 11 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=167",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 11 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=165": {
     "status": "closed",
@@ -1726,11 +1726,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=164": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 03 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=164",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 03 Aralık 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=162": {
     "status": "closed",
@@ -1744,17 +1744,17 @@
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=160": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=160",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=159": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 12 Kasım 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=159",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 12 Kasım 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=156": {
     "status": "closed",
@@ -1762,11 +1762,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=155": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 9 Temmuz 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=155",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 9 Temmuz 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=153": {
     "status": "closed",
@@ -1774,18 +1774,18 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=149": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 16 Haziran 2025 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=149",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 16 Haziran 2025 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=142": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 13 Ağustos 2024 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=142",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 13 Ağustos 2024 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=141": {
     "status": "closed",
@@ -1798,11 +1798,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=139": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 13 Haziran 2024 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=139",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 13 Haziran 2024 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=138": {
     "status": "closed",
@@ -1815,11 +1815,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=134": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 24 Nisan 2024 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=134",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 24 Nisan 2024 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=128": {
     "status": "closed",
@@ -1827,11 +1827,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=127": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Belediyenin 15 Ağustos 2023 tarihli geçmiş personel alım sürecine ait duyuru.",
     "evidence": "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=127",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin 15 Ağustos 2023 tarihli geçmiş personel alım sürecine ait duyuru."
   },
   "https://www.akcaabat.bel.tr/duyuru-detay.aspx?id=126": {
     "status": "closed",
@@ -1900,88 +1900,88 @@
     "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-18801": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-18801",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-18787": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-18787",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek5-17688": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek5-17688",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4-17594": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4-17594",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-17233": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-17233",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25112024_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek16-17232": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/25112024_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek16-17232",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-16064": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-16064",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek1-15912": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek1-15912",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-15758": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-15758",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani__29122025-15333": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "29 Aralık 2025 alımının sonuçları aynı üniversitenin sonraki duyurularında yayımlandı.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani__29122025-15333",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "29 Aralık 2025 alımının sonuçları aynı üniversitenin sonraki duyurularında yayımlandı."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/01072025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek7-15308": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/01072025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek7-15308",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/01072025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-15152": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/01072025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-15152",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki sözleşmeli personel alımına ilişkin yerleştirme sonucu ve aday işlemleri."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/01072025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek5-14935": {
     "status": "pending",
@@ -2355,10 +2355,10 @@
   },
   "https://pdb.alanya.edu.tr/disiplin/disiplin/formlar/yeminli-katip-yemin-tutanagi/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "reason": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek.",
     "evidence": "https://pdb.alanya.edu.tr/disiplin/disiplin/formlar/yeminli-katip-yemin-tutanagi/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Asıl metin bu kontrolde okunamadı. Yeniden incelenecek."
   },
   "https://pdb.alanya.edu.tr/idari-personel/atama-islemleri/sozlesmeli-personel/": {
     "status": "pending",
@@ -6873,18 +6873,18 @@
     "checkedAt": "2026-11-20T10:00:29Z"
   },
   "https://ikcu.edu.tr/S/15429": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Kâtip Çelebi’nin biyografisi.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://ikcu.edu.tr/S/15429",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kâtip Çelebi’nin biyografisi."
   },
   "https://celebi.ikcu.edu.tr/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin araştırma merkezi sayfası.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://celebi.ikcu.edu.tr/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin araştırma merkezi sayfası."
   },
   "https://ikcu.edu.tr/Haber/21247": {
     "status": "ineligible",
@@ -6985,25 +6985,25 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://ubs.ikc.edu.tr/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversite bilgi sistemi giriş sayfası.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://ubs.ikc.edu.tr/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversite bilgi sistemi giriş sayfası."
   },
   "http://stratejikplan.ikcu.edu.tr/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin stratejik plan sayfası.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "http://stratejikplan.ikcu.edu.tr/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin stratejik plan sayfası."
   },
   "https://adayogrenci.ikcu.edu.tr/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin aday öğrenci sayfası.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://adayogrenci.ikcu.edu.tr/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin aday öğrenci sayfası."
   },
   "https://personel.ikcu.edu.tr/Duyuru/40650/izmir-katip-celebi-universitesi-rektorlugu-ogretim-uyesi-duzeltme-ve-iptal-ilani": {
     "status": "pending",
@@ -7013,18 +7013,18 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://ikcu.edu.tr/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin ana sayfası.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://ikcu.edu.tr/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin ana sayfası."
   },
   "https://ikcu.edu.tr/Duyuru/40629/universitemiz-ogrenci-otoparkinda-plaka-tanima-sistemi-faaliyete-gecirilmistir": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Öğrenci otoparkına ilişkin kurum duyurusu.",
+    "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://ikcu.edu.tr/Duyuru/40629/universitemiz-ogrenci-otoparkinda-plaka-tanima-sistemi-faaliyete-gecirilmistir",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Öğrenci otoparkına ilişkin kurum duyurusu."
   },
   "https://ikcu.edu.tr/Duyuru/40610/2027-ozdemir-bayraktar-mill-teknoloji-burs-programi-basvurulari": {
     "status": "pending",
@@ -19489,5 +19489,11 @@
     "checkedAt": "2026-11-27T23:30:39Z",
     "lastAttempt": "Belediyenin okul kantinleri ve yemekhanelerindeki denetim haberi.",
     "evidence": "https://ceylanpinar.bel.tr/haber/okul-kantin-ve-yemekhanelerine-zabıta-denetimi"
+  },
+  "https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-17.pdf": {
+    "status": "ineligible",
+    "reason": "Dolu ve boş kadrolarda değişiklik kararı. P94 başvuru ilanı içermiyor.",
+    "checkedAt": "2026-11-27T23:46:06Z",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-17.pdf"
   }
 }
