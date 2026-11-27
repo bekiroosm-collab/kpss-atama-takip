@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı detay sayfasında alan adları görünüyor ancak başvuru tarihleri ve kadro şartları yüklenmiyor. Belediye ilanı yeniden aranacak.",
+    "reason": "Detay ekranında alan başlıkları var. Karabağlar Belediyesi kadro tablosu ve puan türü bu turda doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T09:08:12Z",
-    "lastAttempt": "Kariyer Kapısı detay sayfasında alan adları görünüyor ancak başvuru tarihleri ve kadro şartları yüklenmiyor. Belediye ilanı yeniden aranacak."
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Detay ekranında alan başlıkları var. Karabağlar Belediyesi kadro tablosu ve puan türü bu turda doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -4886,10 +4886,10 @@
   },
   "https://pgm.adalet.gov.tr/Home/SayfaDetay/2026sozlesmelitasra": {
     "status": "closed",
-    "reason": "Zabıt kâtibi dâhil 7.615 pozisyon için başvurular 7–22 Haziran 2026 tarihlerinde alındı.",
-    "checkedAt": "2026-11-22T06:26:06Z",
+    "reason": "Zabıt kâtibi dâhil 7.615 pozisyon için yayımlanan ilanda başvurular 7–22 Haziran 2026 arasında alındı.",
+    "checkedAt": "2026-11-27T09:47:01Z",
     "evidence": "https://pgm.adalet.gov.tr/Home/SayfaDetay/2026sozlesmelitasra",
-    "lastAttempt": "Zabıt kâtibi dâhil 7.615 pozisyon için başvurular 7–22 Haziran 2026 tarihlerinde alındı."
+    "lastAttempt": "Zabıt kâtibi dâhil 7.615 pozisyon için yayımlanan ilanda başvurular 7–22 Haziran 2026 arasında alındı."
   },
   "https://d.pau.edu.tr/368564ee": {
     "status": "closed",
@@ -18395,16 +18395,18 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://atauni.edu.tr/ataturk-universitesi-4-b-sozlesmeli-personel-alimi-yedekten-yerlesen-listesi-2026-1/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Atatürk Üniversitesi 2026-1 alımında yedekten yerleşenlerin listesini yayımladı.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Atatürk Üniversitesi 2026-1 alımında yedekten yerleşenlerin listesini yayımladı.",
+    "evidence": "https://atauni.edu.tr/ataturk-universitesi-4-b-sozlesmeli-personel-alimi-yedekten-yerlesen-listesi-2026-1/"
   },
   "https://www.edremit.bel.tr/Guncel/DuyuruDetay/23347": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Edremit Belediyesinin 17 Temmuz 2023 tarihli duyurusu, İŞKUR’a önceden başvuran adaylara yönelik.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Edremit Belediyesinin 17 Temmuz 2023 tarihli duyurusu, İŞKUR’a önceden başvuran adaylara yönelik.",
+    "evidence": "https://www.edremit.bel.tr/Guncel/DuyuruDetay/23347"
   },
   "https://www.bartin.edu.tr/duyurular/sozlesmelipersonelalimilani202604.html": {
     "status": "ineligible",
@@ -18435,16 +18437,18 @@
     "lastAttempt": "Duyuru önceki başvuruların sonucunu veya yedek adayların işlemlerini açıklıyor."
   },
   "https://onceinsan.bartin.edu.tr/duyurular/sozlesmelipersonelalimilani202603.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Bartın Üniversitesi 2026-03 ilanında son başvuru 19 Eylül 2026 saat 13.00 olarak belirtiliyor.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Bartın Üniversitesi 2026-03 ilanında son başvuru 19 Eylül 2026 saat 13.00 olarak belirtiliyor.",
+    "evidence": "https://onceinsan.bartin.edu.tr/duyurular/sozlesmelipersonelalimilani202603.html"
   },
   "https://onceinsan.bartin.edu.tr/duyurular/sozlesmeli-programci-degerlendirme-sonucu.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Bartın Üniversitesi programcı sınav sonucunu yayımladı. Asıl aday için belge teslimi 17 Eylül 2026’da sona erdi.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Bartın Üniversitesi programcı sınav sonucunu yayımladı. Asıl aday için belge teslimi 17 Eylül 2026’da sona erdi.",
+    "evidence": "https://onceinsan.bartin.edu.tr/duyurular/sozlesmeli-programci-degerlendirme-sonucu.html"
   },
   "https://www.bartin.edu.tr/duyurular/sozlesmelipersonelalimilaninihaidegerlendirmesonuclari202603.html": {
     "status": "closed",
@@ -18462,23 +18466,24 @@
   },
   "http://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "reason": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
+    "evidence": "https://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak"
   },
   "http://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "Şirket ilanında ön eleme ve noter kurası var. Bazı mesleklerin ek belgeleri açılamadı.",
-    "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "reason": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
+    "evidence": "https://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı."
   },
   "http://www.batman.bel.tr/duyuru/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "Şirket ilanında ön eleme ve noter kurası var. Bazı mesleklerin ek belgeleri açılamadı.",
-    "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "reason": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
+    "evidence": "https://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı."
   },
   "https://bogazici.edu.tr/tr/announcements/muhendislik-fakultesi-arastirma-gorevlisi-ali/9726": {
     "status": "closed",
@@ -18502,10 +18507,11 @@
     "lastAttempt": "Duyuru önceki başvuruların sonucunu veya yedek adayların işlemlerini açıklıyor."
   },
   "http://burdur.bel.tr/zabita-memur-alimi-sozlu-ve-uygulamali-sinav-sonucu/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Burdur Belediyesinin 29 Temmuz 2026 tarihli duyurusu, memurluktan zabıta memurluğuna geçiş sınavının sonucunu bildiriyor.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Burdur Belediyesinin 29 Temmuz 2026 tarihli duyurusu, memurluktan zabıta memurluğuna geçiş sınavının sonucunu bildiriyor.",
+    "evidence": "http://burdur.bel.tr/zabita-memur-alimi-sozlu-ve-uygulamali-sinav-sonucu/"
   },
   "https://www.mehmetakif.edu.tr/content/13693/1/09092026-tarih-ve-33365-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-ilanina-ait-kazanan-yedek-adaylara-iliskin-duyuru": {
     "status": "closed",
@@ -18527,10 +18533,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.devletarsivleri.gov.tr/Sayfalar/Haberler/Duyuru.aspx?ID=6353": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Devlet Arşivleri duyurusu, ekim ayındaki sözlü sınavla atanmaya hak kazanan ve evrak teslim eden adaylara yönelik.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Devlet Arşivleri duyurusu, ekim ayındaki sözlü sınavla atanmaya hak kazanan ve evrak teslim eden adaylara yönelik.",
+    "evidence": "https://www.devletarsivleri.gov.tr/Sayfalar/Haberler/Duyuru.aspx?ID=6353"
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
@@ -18539,16 +18546,18 @@
     "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Erzincan Binali Yıldırım Üniversitesi 6 Temmuz 2026 alımının 15. yedek duyurusunu yayımladı.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Erzincan Binali Yıldırım Üniversitesi 6 Temmuz 2026 alımının 15. yedek duyurusunu yayımladı.",
+    "evidence": "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/"
   },
   "https://www.ogu.edu.tr/Web/DuyuruDetay/13637": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Eskişehir Osmangazi Üniversitesi, ağustostaki ilana yerleşen adayları 27 Kasım saat 17.00’ye kadar sözleşme imzalamaya çağırıyor.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Eskişehir Osmangazi Üniversitesi, ağustostaki ilana yerleşen adayları 27 Kasım saat 17.00’ye kadar sözleşme imzalamaya çağırıyor.",
+    "evidence": "https://www.ogu.edu.tr/Web/DuyuruDetay/13637"
   },
   "https://www.ogu.edu.tr/Web/DuyuruDetay/13636": {
     "status": "closed",
@@ -18591,10 +18600,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://personeldb.firat.edu.tr/tr/announcements-detail/43572": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Fırat Üniversitesi duyurusu, sekizinci gruptaki yedek adaylara yönelik.",
+    "checkedAt": "2026-11-27T09:47:01Z",
+    "lastAttempt": "Fırat Üniversitesi duyurusu, sekizinci gruptaki yedek adaylara yönelik.",
+    "evidence": "https://personeldb.firat.edu.tr/tr/announcements-detail/43572"
   },
   "https://gurcayir.bel.tr/birim/zabita-amirligi": {
     "status": "ineligible",
