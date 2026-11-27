@@ -5479,23 +5479,23 @@
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-yedek-aday-sozluuygulamali-sinav-sonucu": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-yedek-aday-sozluuygulamali-sinav-sonucu",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-sinav-sonucu": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-sinav-sonucu",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-mulakat-yeri-ve-tarihi-sonucu": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-mulakat-yeri-ve-tarihi-sonucu",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://enez.bel.tr/enez-belediyesi-personel-ltd-sti-isci-alimi-sozlu-sonucu-basari-listesi_19208.html": {
     "status": "pending",
@@ -6117,9 +6117,9 @@
   "https://www.gumushane.edu.tr/hdetay/5769/sozlesmeli-personel-hk": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://www.gumushane.edu.tr/hdetay/5769/sozlesmeli-personel-hk",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Duyuru sayfası açıldı. Başvuru şartları ek metinden doğrulanamadı."
   },
   "https://www.gundogmus.bel.tr/index.php?modul=8_4&lang=tr&ID=25&pID=1": {
     "status": "cancelled",
@@ -6874,88 +6874,88 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://ikcu.edu.tr/Haber/21247": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Kentlerin Unutulmayan Hikâyeleri İzmir'de Buluştu.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21247",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Kentlerin Unutulmayan Hikâyeleri İzmir'de Buluştu."
   },
   "https://ikcu.edu.tr/Haber/21169": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. 2026-2027 Akademik Yılı, Dr. Mehmet Muharrem Kasapoğlu’nun İlk Dersiyle Başladı.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21169",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. 2026-2027 Akademik Yılı, Dr. Mehmet Muharrem Kasapoğlu’nun İlk Dersiyle Başladı."
   },
   "https://ikcu.edu.tr/Haber/21171": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Psikolojik Danışma ve Rehberlik Uygulama ve Araştırma Merkezinin Resmî Açılışı Yapıldı.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21171",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Psikolojik Danışma ve Rehberlik Uygulama ve Araştırma Merkezinin Resmî Açılışı Yapıldı."
   },
   "https://ikcu.edu.tr/Haber/21175": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. İzmir Milletvekili Dr. Kasapoğlu ile Rektör Prof. Dr. Balcı, Kadir Kaan Özçelik Anısına Fidan Dikti.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21175",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. İzmir Milletvekili Dr. Kasapoğlu ile Rektör Prof. Dr. Balcı, Kadir Kaan Özçelik Anısına Fidan Dikti."
   },
   "https://ikcu.edu.tr/Haber/21147": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Gazi Mustafa Kemal Atatürk, Ebediyete İrtihalinin 88. Yıl Dönümünde Anıldı.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21147",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Gazi Mustafa Kemal Atatürk, Ebediyete İrtihalinin 88. Yıl Dönümünde Anıldı."
   },
   "https://ikcu.edu.tr/Haber/21060": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. AK Parti Genel Sekreteri Eyyüp Kadir İnan'dan Rektörümüz Prof. Dr. Mustafa Balcı'ya Ziyaret.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21060",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. AK Parti Genel Sekreteri Eyyüp Kadir İnan'dan Rektörümüz Prof. Dr. Mustafa Balcı'ya Ziyaret."
   },
   "https://ikcu.edu.tr/Haber/21021": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Dil ve Anlam İlişkisi İzmir Kâtip Çelebi Üniversitesinde Tartışılıyor.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21021",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Dil ve Anlam İlişkisi İzmir Kâtip Çelebi Üniversitesinde Tartışılıyor."
   },
   "https://ikcu.edu.tr/Haber/21020": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Arkeoloji ve Sanat Tarihi Araştırmacıları İzmir Kâtip Çelebi Üniversitesinde Buluştu.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21020",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Arkeoloji ve Sanat Tarihi Araştırmacıları İzmir Kâtip Çelebi Üniversitesinde Buluştu."
   },
   "https://ikcu.edu.tr/Haber/20944": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. YÖK Başkanı Prof. Dr. Erol Özvar’dan Üniversitemize Ziyaret.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/20944",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. YÖK Başkanı Prof. Dr. Erol Özvar’dan Üniversitemize Ziyaret."
   },
   "https://ikcu.edu.tr/Haber/21205": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Genç Beyinler Yeni Fikirler’in 16’ncısı Üniversitemiz Ev Sahipliğinde Düzenlenecek.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21205",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Genç Beyinler Yeni Fikirler’in 16’ncısı Üniversitemiz Ev Sahipliğinde Düzenlenecek."
   },
   "https://ikcu.edu.tr/Haber/21204": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Üniversitemiz, İklim İçin Geliştirdiği Bilimsel Çözümleri COP31’e Taşıyor.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21204",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Üniversitemiz, İklim İçin Geliştirdiği Bilimsel Çözümleri COP31’e Taşıyor."
   },
   "https://ikcu.edu.tr/Haber/21194": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Personel Futsal Takımımız Ege Bölgesi Şampiyonu Oldu.",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "https://ikcu.edu.tr/Haber/21194",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Personel Futsal Takımımız Ege Bölgesi Şampiyonu Oldu."
   },
   "https://ikcu.edu.tr/Duyuru/40653/izmir-katip-celebi-universitesi-rektorlugu-ogretim-uyesi-duzeltme-ve-iptal-ilani": {
     "status": "pending",
@@ -12546,16 +12546,16 @@
   "http://www.tekkekoy.bel.tr/birim/9/zabita-mudurlugu": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "http://www.tekkekoy.bel.tr/birim/9/zabita-mudurlugu",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "http://www.tekkekoy.bel.tr/haber/289/ilk-defa-atanmak-uzere-memur-alimi-ilaninin-iptali": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T03:48:06Z",
     "evidence": "http://www.tekkekoy.bel.tr/haber/289/ilk-defa-atanmak-uzere-memur-alimi-ilaninin-iptali",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://terme.bel.tr/unit/zabita-mudurlugu": {
     "status": "pending",
@@ -14822,10 +14822,10 @@
   },
   "https://depo.btu.edu.tr/img/duyurular/1794553413_6464fbe90e7ae3487e87.pdf": {
     "status": "ineligible",
-    "reason": "Tek psikolog kadrosu için psikoloji lisans mezuniyeti ve 2026 KPSS P3 puanından en az 70 isteniyor.",
+    "reason": "27 Kasım’da kapanan tek psikolog kadrosu psikoloji lisansı ve 2026 KPSS P3 en az 70 gerektiriyor.",
     "evidence": "https://depo.btu.edu.tr/img/duyurular/1794553413_6464fbe90e7ae3487e87.pdf",
-    "checkedAt": "2026-11-21T21:18:44Z",
-    "lastAttempt": "Tek psikolog kadrosu için psikoloji lisans mezuniyeti ve 2026 KPSS P3 puanından en az 70 isteniyor."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "27 Kasım’da kapanan tek psikolog kadrosu psikoloji lisansı ve 2026 KPSS P3 en az 70 gerektiriyor."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4.htm": {
     "status": "pending",
@@ -18001,16 +18001,18 @@
     "lastAttempt": "Duyuru, önceki başvuruların sonuç veya sınava çağrı aşamasına ilişkin."
   },
   "https://surmene.bel.tr/ilk-defa-atanmak-uzere-kpss-puani-ile-memur-alimi-sonuclari": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "28 Mayıs 2025 tarihli belediye memur alım sonuçları.",
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "28 Mayıs 2025 tarihli belediye memur alım sonuçları.",
+    "evidence": "https://surmene.bel.tr/ilk-defa-atanmak-uzere-kpss-puani-ile-memur-alimi-sonuclari"
   },
   "https://surmene.bel.tr/ilk-defa-atanmak-uzere-memur-alimi-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "21 Mart 2025 tarihli alımın sonuçları 28 Mayıs 2025’te açıklandı.",
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "21 Mart 2025 tarihli alımın sonuçları 28 Mayıs 2025’te açıklandı.",
+    "evidence": "https://surmene.bel.tr/ilk-defa-atanmak-uzere-kpss-puani-ile-memur-alimi-sonuclari"
   },
   "https://www.suruc.bel.tr/birim/zabita-amirligi": {
     "status": "ineligible",
@@ -18040,8 +18042,8 @@
   "https://taskent.bel.tr/haberler.php?seo=memur-alim-ilan-iptali": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Belediyenin iptal duyurusu açıldı. İptalin hangi tarihli kadroya ait olduğu metinden belirlenemedi."
   },
   "https://www.tavas.bel.tr/birim/zabita-mudurlugu": {
     "status": "ineligible",
@@ -18065,14 +18067,14 @@
   "https://www.tekkekoy.bel.tr/birim/9/zabita-mudurlugu": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://www.tekkekoy.bel.tr/haber/289/ilk-defa-atanmak-uzere-memur-alimi-ilaninin-iptali": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://www.tercan.bel.tr/haberler/denetleme": {
     "status": "pending",
@@ -18514,8 +18516,8 @@
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
     "status": "pending",
@@ -18581,10 +18583,11 @@
     "lastAttempt": "Sayfa belediye hizmetini veya mevcut personelin kurum içi işlemini açıklıyor."
   },
   "https://gurcayir.bel.tr/duyuru/gecici-personel-alim-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Mayıs 2026 tarihli, 5 ay 27 günlük geçici beden işçisi alımı.",
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Mayıs 2026 tarihli, 5 ay 27 günlük geçici beden işçisi alımı.",
+    "evidence": "https://gurcayir.bel.tr/duyuru/gecici-personel-alim-ilani"
   },
   "https://halic.edu.tr/tr/duyurular/30-10-2026-tarihli-akademik-personel-alim-ilanina-ait-ogretim-elemani-giris-sinav-sonuclari": {
     "status": "closed",
@@ -18606,22 +18609,25 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://ikcu.edu.tr/Haber/21253": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Ege'de 19 Üniversite Güçlerini Birleştirdi.",
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Ege'de 19 Üniversite Güçlerini Birleştirdi.",
+    "evidence": "https://ikcu.edu.tr/Haber/21253"
   },
   "https://ikcu.edu.tr/Haber/21270": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. Çelebi Anaokulunun Miniklerinden Anlamlı Öğretmenler Günü Kutlaması.",
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Çelebi Anaokulunun Miniklerinden Anlamlı Öğretmenler Günü Kutlaması.",
+    "evidence": "https://ikcu.edu.tr/Haber/21270"
   },
   "https://ikcu.edu.tr/Haber/21254": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "ineligible",
+    "reason": "Üniversitenin etkinlik veya ziyaret haberi. İzmir Kâtip Çelebi Üniversitesi,COP31’de İklim ve Sürdürülebilirlik Çalışmalarını Paylaştı.",
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. İzmir Kâtip Çelebi Üniversitesi,COP31’de İklim ve Sürdürülebilirlik Çalışmalarını Paylaştı.",
+    "evidence": "https://ikcu.edu.tr/Haber/21254"
   },
   "https://www.ktu.edu.tr/personel/duyuru/04092026-tarihli-alim-ilani-neticesinde-goreve-baslatilacak-4-b-sozlesmeli-personel-duyurusu": {
     "status": "pending",
@@ -18639,8 +18645,8 @@
   "https://www.kop.gov.tr/haber/guney-marmara-kalkinma-ajansi-personel-alimi-ilani": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://www.ktun.edu.tr/tr/Universite/DuyuruDetay/4_b_sOzleSmelI_personel_Ilani_yedek_aday_duyurusu_9113": {
     "status": "pending",
@@ -18799,8 +18805,8 @@
     "status": "pending",
     "reason": "27 Kasım çeşitli ilanlar dizini açılamadı. 33443 sayılı gazetenin tekil belgeleri dizinin tamamını doğrulamıyor.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4.htm",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "lastAttempt": "Çeşitli ilanlar dizini ve tam sayı PDF’si tekrar denendi. Tam içerik alınamadı."
+    "checkedAt": "2026-11-27T03:48:06Z",
+    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-4.pdf": {
     "status": "ineligible",
