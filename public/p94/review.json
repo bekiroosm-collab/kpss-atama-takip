@@ -13268,9 +13268,10 @@
   },
   "https://www.batman.bel.tr/uploads/dosyalar/personelalim/otobussoforu.pdf": {
     "status": "ineligible",
-    "reason": "İki sayfalık işçi alım formunda P94 şartı bulunmuyor. Seçim noter kurası ve mülakatla yapılıyor.",
+    "reason": "10 otobüs şoförü için iki sayfalık branş ekinin tamamı okundu. P94 şartı bulunmuyor. Ekte noter kurası, mesleki belgeler ve en az bir yıl deneyim şartı yer alıyor.",
     "evidence": "https://www.batman.bel.tr/uploads/dosyalar/personelalim/otobussoforu.pdf",
-    "checkedAt": "2026-11-21T11:26:19Z"
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "10 otobüs şoförü için iki sayfalık branş ekinin tamamı okundu. P94 şartı bulunmuyor. Ekte noter kurası, mesleki belgeler ve en az bir yıl deneyim şartı yer alıyor."
   },
   "https://www.batman.bel.tr/uploads/dosyalar/personelalim/kamyonsoforu.pdf": {
     "status": "ineligible",
@@ -18466,24 +18467,24 @@
   },
   "http://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak": {
     "status": "pending",
-    "reason": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
-    "checkedAt": "2026-11-27T10:53:43Z",
-    "lastAttempt": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "reason": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi"
   },
   "http://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "reason": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-27T10:53:43Z",
-    "lastAttempt": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı."
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor."
   },
   "http://www.batman.bel.tr/duyuru/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "reason": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-27T10:53:43Z",
-    "lastAttempt": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı."
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor."
   },
   "https://bogazici.edu.tr/tr/announcements/muhendislik-fakultesi-arastirma-gorevlisi-ali/9726": {
     "status": "closed",
@@ -18523,8 +18524,8 @@
   "https://www.cag.edu.tr/tr/duyurular/akademik-personel-alimi-26": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı."
   },
   "https://www.comu.edu.tr/duyuru-25060.html": {
     "status": "ineligible",
@@ -18543,8 +18544,8 @@
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T03:48:06Z",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı."
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
     "status": "closed",
@@ -18577,22 +18578,22 @@
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
     "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
     "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı."
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
     "status": "ineligible",
@@ -19022,11 +19023,11 @@
     "lastAttempt": "27 Temmuz 2026 ilanına başvuran yedek aday çağrılıyor."
   },
   "https://www.rekabet.gov.tr/tr/Duyurular/rekabet-kurumu-rekabet-uzman-yardimcilig-d23d95b908e8f111a671005056854155": {
-    "status": "pending",
-    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "evidence": "https://www.rekabet.gov.tr/tr/Duyurular/rekabet-kurumu-rekabet-uzman-yardimcilig-d23d95b908e8f111a671005056854155",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek."
+    "status": "ineligible",
+    "reason": "55 uzman yardımcısı için genel, iktisat, hukuk ve bilişim kadrolarının tamamında ilgili lisans programı veya denkliği aranıyor. Başvurular 7–21 Aralık 2026.",
+    "evidence": "https://www.rekabet.gov.tr/tr/Sayfa/Duyurular/sinav-duyurulari",
+    "checkedAt": "2026-11-27T11:51:34Z",
+    "lastAttempt": "55 uzman yardımcısı için genel, iktisat, hukuk ve bilişim kadrolarının tamamında ilgili lisans programı veya denkliği aranıyor. Başvurular 7–21 Aralık 2026."
   },
   "https://www.sivas.edu.tr/hdetay/18092026-tarihli-sozlesmeli-personel-alim-yedek-sonuclari-1732": {
     "status": "closed",
