@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı detay sayfası görüldü ancak kadro şartları yüklenmedi.",
+    "reason": "Kariyer Kapısı ilan detayında kadro tablosu ve puan şartı görünmedi.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T10:53:43Z",
-    "lastAttempt": "Kariyer Kapısı detay sayfası görüldü ancak kadro şartları yüklenmedi."
+    "checkedAt": "2026-11-27T12:36:56Z",
+    "lastAttempt": "Kariyer Kapısı ilan detayında kadro tablosu ve puan şartı görünmedi."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -13256,15 +13256,17 @@
   },
   "https://www.batman.bel.tr/uploads/dosyalar/personelalim/bahcebakim.pdf": {
     "status": "ineligible",
-    "reason": "İki sayfalık işçi alım formunda P94 şartı bulunmuyor. Seçim noter kurası ve mülakatla yapılıyor.",
+    "reason": "15 bahçe bakım işçisi için iki sayfalık resmî ekte lise mezuniyeti, bahçıvanlık sertifikası ve noter kurası belirtiliyor. KPSS şartı yok.",
     "evidence": "https://www.batman.bel.tr/uploads/dosyalar/personelalim/bahcebakim.pdf",
-    "checkedAt": "2026-11-21T11:26:19Z"
+    "checkedAt": "2026-11-27T12:36:56Z",
+    "lastAttempt": "15 bahçe bakım işçisi için iki sayfalık resmî ekte lise mezuniyeti, bahçıvanlık sertifikası ve noter kurası belirtiliyor. KPSS şartı yok."
   },
   "https://www.batman.bel.tr/uploads/dosyalar/personelalim/guvenlik.pdf": {
     "status": "ineligible",
-    "reason": "İki sayfalık işçi alım formunda P94 şartı bulunmuyor. Seçim noter kurası ve mülakatla yapılıyor.",
+    "reason": "25 güvenlik görevlisi için iki sayfalık resmî ekte en az lise mezuniyeti, geçerli güvenlik kimliği ve noter kurası belirtiliyor. KPSS şartı yok.",
     "evidence": "https://www.batman.bel.tr/uploads/dosyalar/personelalim/guvenlik.pdf",
-    "checkedAt": "2026-11-21T11:26:19Z"
+    "checkedAt": "2026-11-27T12:36:56Z",
+    "lastAttempt": "25 güvenlik görevlisi için iki sayfalık resmî ekte en az lise mezuniyeti, geçerli güvenlik kimliği ve noter kurası belirtiliyor. KPSS şartı yok."
   },
   "https://www.batman.bel.tr/uploads/dosyalar/personelalim/otobussoforu.pdf": {
     "status": "ineligible",
@@ -18467,24 +18469,24 @@
   },
   "http://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak": {
     "status": "pending",
-    "reason": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
+    "reason": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
+    "checkedAt": "2026-11-27T12:36:56Z",
+    "lastAttempt": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi"
   },
   "http://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
+    "reason": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor."
+    "checkedAt": "2026-11-27T12:36:56Z",
+    "lastAttempt": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00."
   },
   "http://www.batman.bel.tr/duyuru/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor.",
+    "reason": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Otobüs şoförlüğünde P94 aranmadığı iki sayfalık ekten doğrulandı. Diğer açık branşların ekleri tam doğrulanamadı. Başvuru 27 Kasım saat 16.00’da kapanıyor."
+    "checkedAt": "2026-11-27T12:36:56Z",
+    "lastAttempt": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00."
   },
   "https://bogazici.edu.tr/tr/announcements/muhendislik-fakultesi-arastirma-gorevlisi-ali/9726": {
     "status": "closed",
