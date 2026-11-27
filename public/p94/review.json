@@ -125,8 +125,8 @@
     "status": "pending",
     "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı."
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -1228,11 +1228,11 @@
     "lastAttempt": "Yerleşen adayların evrak teslimi 6 Şubat 2026’da sona erdi."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-3-000-sozlesmeli-personel-alimi-tavan-ve-taban-puanlari-hakkinda-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "15 Ocak 2026 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-3-000-sozlesmeli-personel-alimi-tavan-ve-taban-puanlari-hakkinda-duyuru/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "15 Ocak 2026 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-3000-sozlesmeli-personel-alim-sonuc-duyurusu/": {
     "status": "ineligible",
@@ -1247,11 +1247,11 @@
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-3-000-sozlesmeli-personel-alim-ilani/"
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-engelli-eski-hukumlu-tmy-kapsaminda-surekli-isci-alimi/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "10 Haziran 2025 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-engelli-eski-hukumlu-tmy-kapsaminda-surekli-isci-alimi/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "10 Haziran 2025 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-uzman-yardimciligi-giris-sinavi-sonuclarina-gore-atanmaya-hak-kazanan-adaylara-iliskin-duyuru/": {
     "status": "closed",
@@ -1259,18 +1259,18 @@
     "reason": "Başvurular 17 Ocak 2025’te tamamlandı. Bu duyuru sınav sonucuyla atanmaya hak kazanan adaylara yönelik."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-2024-yili-2-390-sozlesmeli-personel-alimi-kapsaminda-yerlesen-adaylardan-istenilen-belgelere-iliskin-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "19 Kasım 2024 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-2024-yili-2-390-sozlesmeli-personel-alimi-kapsaminda-yerlesen-adaylardan-istenilen-belgelere-iliskin-duyuru/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "19 Kasım 2024 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-2390-sozlesmeli-personel-alim-sonuc-duyurusu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "18 Kasım 2024 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-2390-sozlesmeli-personel-alim-sonuc-duyurusu/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "18 Kasım 2024 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-nihai-sonuclari-ile-ilgili-duyuru/": {
     "status": "closed",
@@ -1337,24 +1337,24 @@
   },
   "https://www.aile.gov.tr/duyurular/facility-for-refugees-in-turkey-frit-ii-projesi-danisman-personel-alim-ilani/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T18:59:52Z",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
     "evidence": "https://www.aile.gov.tr/duyurular/facility-for-refugees-in-turkey-frit-ii-projesi-danisman-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Arşiv duyurusu Aralık 2023 tarihli. İlan ekindeki şartlar ayrıca incelenecek."
   },
   "https://www.aile.gov.tr/duyurular/2431-sozlesmeli-personel-alimi-yedek-yerlestirme/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "05 Aralık 2023 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/2431-sozlesmeli-personel-alimi-yedek-yerlestirme/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "05 Aralık 2023 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/ozellestirme-kapsaminda-bakanligimiz-sozlesmeli-personel-pozisyonlarina-yerlesen-adaylardan-istenilen-belgeler/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "17 Kasım 2023 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/ozellestirme-kapsaminda-bakanligimiz-sozlesmeli-personel-pozisyonlarina-yerlesen-adaylardan-istenilen-belgeler/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "17 Kasım 2023 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/2431-sozlesmeli-personel-yedek-yerlestirme/": {
     "status": "closed",
@@ -1387,11 +1387,11 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://www.aile.gov.tr/duyurular/2431_sp_alimi/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "26 Nisan 2023 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/2431_sp_alimi/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "26 Nisan 2023 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-sonuc-listeleri-1/": {
     "status": "closed",
@@ -1478,11 +1478,11 @@
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-bilisim-personeli-sozlu-sinavi-sonuc-duyurusu/"
   },
   "https://www.aile.gov.tr/duyurular/sozlesmeli_isaret_dili_alimi2/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "21 Eylül 2022 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/sozlesmeli_isaret_dili_alimi2/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "21 Eylül 2022 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-kesin-sonuclari-ile-ilgili-duyuru/": {
     "status": "pending",
@@ -1492,11 +1492,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-4175-sozlesmeli-personel-alimi-yerlestirme-duyurusu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "03 Haziran 2022 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-4175-sozlesmeli-personel-alimi-yerlestirme-duyurusu/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "03 Haziran 2022 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-sonuc-listeleri/": {
     "status": "closed",
@@ -1505,17 +1505,17 @@
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-bilisim-personeli-yazili-sinav-duyurusu/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T18:59:52Z",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-bilisim-personeli-yazili-sinav-duyurusu/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-alimi-tercih-duyurusu/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-27T18:59:52Z",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-alimi-tercih-duyurusu/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://www.aile.gov.tr/duyurular/sozlesmeli-personel-alimi-sozlu-sinavi-sonuc-duyurusu/": {
     "status": "closed",
@@ -3784,9 +3784,10 @@
   },
   "https://www.aksaray.bel.tr/DuyuruDetay.aspx?icerikId=5658": {
     "status": "closed",
-    "checkedAt": "2026-11-21T03:15:09Z",
-    "reason": "Asıl ilanda başvuru dönemi 8–10 Eylül 2025.",
-    "evidence": "https://www.aksaray.bel.tr/DuyuruDetay.aspx?icerikId=5658"
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "reason": "Zabıta memuru ve itfaiye eri başvuruları 10 Eylül 2025’te kapandı.",
+    "evidence": "https://www.aksaray.bel.tr/DuyuruDetay.aspx?icerikId=5658",
+    "lastAttempt": "Zabıta memuru ve itfaiye eri başvuruları 10 Eylül 2025’te kapandı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-1.pdf": {
     "status": "ineligible",
@@ -18547,8 +18548,8 @@
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı.",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
@@ -18582,22 +18583,22 @@
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı.",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı.",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı.",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
@@ -18638,15 +18639,15 @@
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı.",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı.",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
@@ -19311,15 +19312,15 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı."
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
     "status": "pending",
     "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı."
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
     "status": "ineligible",
@@ -19367,8 +19368,8 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı."
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136": {
     "status": "closed",
@@ -19409,8 +19410,8 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/",
-    "checkedAt": "2026-11-27T17:39:28Z",
-    "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı."
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
   },
   "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Hizmetli.pdf": {
     "status": "verified",
@@ -19425,5 +19426,19 @@
     "evidence": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Sofor.pdf",
     "checkedAt": "2026-11-27T17:24:45Z",
     "lastAttempt": "GİB şoför alımında ön lisans, P93 ve D sınıfı ehliyet aranıyor."
+  },
+  "https://www.bozkoy.bel.tr/ilan/itfaiye-eri-alimi-iptal-ilani": {
+    "status": "cancelled",
+    "reason": "Bozköy Belediyesi itfaiye eri alımını iptal etti. Resmî Gazete iptal ilanı 27 Kasım 2026 tarihli.",
+    "evidence": "https://www.bozkoy.bel.tr/ilan/itfaiye-eri-alimi-iptal-ilani",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "Bozköy Belediyesi itfaiye eri alımını iptal etti. Resmî Gazete iptal ilanı 27 Kasım 2026 tarihli."
+  },
+  "https://www.canakkale.bel.tr/tr/sayfa/1430-genel-ilanlar/6012-canakkale-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-ve-itfaiye-eri-alim-ilani": {
+    "status": "closed",
+    "reason": "İlanın sözlü ve uygulamalı sınavları 9–10 Ocak 2023 tarihli.",
+    "evidence": "https://www.canakkale.bel.tr/tr/sayfa/1430-genel-ilanlar/6012-canakkale-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-ve-itfaiye-eri-alim-ilani",
+    "checkedAt": "2026-11-27T18:59:52Z",
+    "lastAttempt": "İlanın sözlü ve uygulamalı sınavları 9–10 Ocak 2023 tarihli."
   }
 }
