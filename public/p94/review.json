@@ -31,10 +31,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=89781649-6080-4021-9739-f8ba3d875cd0": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Kariyer Kapısı sayfasında bu başvuru için öğrenim ve puan türü doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=89781649-6080-4021-9739-f8ba3d875cd0",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=f657a20b-5132-4e3a-8b1e-131e031f065b": {
     "status": "ineligible",
@@ -68,10 +68,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Kariyer Kapısı sayfasında bu başvuru için öğrenim ve puan türü doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=98cd96c1-83b3-425a-869c-dae40ba7aee1",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2": {
     "status": "ineligible",
@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -174,10 +174,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://pdb.samsun.edu.tr/sozlesmeli-personel-alimi-9-yedek-aday-duyurusu-27072026-tarihli-ve-33322-sayili-resmi-gazete/": {
     "status": "closed",
@@ -414,39 +414,39 @@
     "lastAttempt": "2022-07-06 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6582/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6582/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/6519/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (05.05.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6519/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (05.05.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/6509/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (26.04.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6509/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (26.04.2022)",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/6446/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (18.03.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6446/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (18.03.2022)",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/6427/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanıyedekten Yerleştirilmeye Hak Kazananlar Listesi (02.03.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6427/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanıyedekten Yerleştirilmeye Hak Kazananlar Listesi (02.03.2022)",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/4989/Sürekli İşçi Alımı Sözlü Sınav Sonuçları...": {
     "status": "closed",
@@ -454,11 +454,11 @@
     "reason": "Kurum, Şubat 2020’de İŞKUR üzerinden aldığı 7 temizlik ve 3 güvenlik görevlisi için sonuçları yayımladı."
   },
   "https://w2.agu.edu.tr/duyurular/4969/Sürekli İşçi Alımı Sözlü Sınav Duyurusu...": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "reason": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait.",
     "evidence": "https://w2.agu.edu.tr/duyurular/4969/Sürekli İşçi Alımı Sözlü Sınav Duyurusu...",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin arşiv duyurusu geçmiş yıllardaki alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/4956/Sürekli İşçi Alımı Noter Kura Sonuçları...": {
     "status": "closed",
@@ -4574,10 +4574,10 @@
   },
   "https://www.cide.bel.tr/duyuru/duyuru/zabita-mudurlugu-emir-ve-yasaklari-uygulama-yonetmeligi.html": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:25:03Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.cide.bel.tr/duyuru/duyuru/zabita-mudurlugu-emir-ve-yasaklari-uygulama-yonetmeligi.html",
-    "lastAttempt": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.cifteler.bel.tr/HOME/INDEX/HABER/DUYURULAR/5634": {
     "status": "pending",
@@ -5189,10 +5189,10 @@
   },
   "https://www.dap.gov.tr/duyuru/firat-kalkinma-ajansi-personel-alim-ilani-basvuru-suresi-uzatildi-2014/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.dap.gov.tr/duyuru/firat-kalkinma-ajansi-personel-alim-ilani-basvuru-suresi-uzatildi-2014/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.dap.gov.tr/duyuru/bati-karadeniz-kalkinma-ajansi-bakka-personel-alim-ilani-2017/": {
     "status": "pending",
@@ -5470,45 +5470,45 @@
   },
   "https://www.egm.gov.tr/2026-1-donem-sozlesmeli-destek-personeli-hizmetli-alimi": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.egm.gov.tr/2026-1-donem-sozlesmeli-destek-personeli-hizmetli-alimi",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.egm.gov.tr/egm-sozlesmeli-destek-personeli-hizmetli-alim-ilani-2026---1-donem": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.egm.gov.tr/egm-sozlesmeli-destek-personeli-hizmetli-alim-ilani-2026---1-donem",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.egm.gov.tr/egm-sozlesmeli-destek-personeli-hizmetli-alimi-sozluuygulamali-sinav-sonucu-2025---5-donem": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.egm.gov.tr/egm-sozlesmeli-destek-personeli-hizmetli-alimi-sozluuygulamali-sinav-sonucu-2025---5-donem",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-yedek-aday-sozluuygulamali-sinav-sonucu": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T03:48:06Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-yedek-aday-sozluuygulamali-sinav-sonucu",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-sinav-sonucu": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T03:48:06Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-sinav-sonucu",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-mulakat-yeri-ve-tarihi-sonucu": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T03:48:06Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-38-surekli-isci-alimi-sozluuygulamali-mulakat-yeri-ve-tarihi-sonucu",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://enez.bel.tr/enez-belediyesi-personel-ltd-sti-isci-alimi-sozlu-sonucu-basari-listesi_19208.html": {
     "status": "pending",
@@ -6050,31 +6050,31 @@
   },
   "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/1_03092025123653.jpg": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:25:03Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/1_03092025123653.jpg",
-    "lastAttempt": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/7_27082024103854.jpg": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:25:03Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/7_27082024103854.jpg",
-    "lastAttempt": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/218a9515_16112023171302.jpg": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:25:03Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/218a9515_16112023171302.jpg",
-    "lastAttempt": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/2_04092023145916.jpg": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:25:03Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.golcuk.bel.tr/upload/tr/resim/haberyonetimi/2_04092023145916.jpg",
-    "lastAttempt": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://golhisar.bel.tr/zabita.html": {
     "status": "ineligible",
@@ -6325,17 +6325,17 @@
   },
   "https://www.icisleri.gov.tr/sozlesmeli-bilisim-personeli-sozlu-sinav-sonuc-listesi-26-2i": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.icisleri.gov.tr/sozlesmeli-bilisim-personeli-sozlu-sinav-sonuc-listesi-26-2i",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.icisleri.gov.tr/sozlesmeli-bilisim-personeli-sozlu-sinavina-girmeye-hak-kazananlar-26-1": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.icisleri.gov.tr/sozlesmeli-bilisim-personeli-sozlu-sinavina-girmeye-hak-kazananlar-26-1",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "http://www.ikizce.bel.tr/zabita-amirligi-586.aspx": {
     "status": "ineligible",
@@ -7364,10 +7364,10 @@
   },
   "https://www.karacadag.gov.tr/duyuru/27461/t-c-firat-kalkinma-ajansi-personel-alim-ilani/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.karacadag.gov.tr/duyuru/27461/t-c-firat-kalkinma-ajansi-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://www.karacadag.gov.tr/duyuru/27460/tc-bati-akdeniz-kalkinma-ajansi-baka-personel-alim-ilani/": {
     "status": "pending",
@@ -12158,11 +12158,11 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://www.sur.bel.tr/duyuru/zabita-mudahale-basin-duyurusu": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Zabıta müdahalesi hakkında basın duyurusu.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.sur.bel.tr/duyuru/zabita-mudahale-basin-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Zabıta müdahalesi hakkında basın duyurusu."
   },
   "https://www.talas.bel.tr/tr/zabita-mudurlugu": {
     "status": "ineligible",
@@ -12495,17 +12495,17 @@
   },
   "https://tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "TBMM kâtip üyeleri hakkında kurumsal sayfa.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "TBMM kâtip üyeleri hakkında kurumsal sayfa."
   },
   "https://www.tekirdag.bel.tr/duyuru/18494": {
     "status": "pending",
@@ -12606,11 +12606,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://personel.gop.edu.tr:443/Icerik.aspx?d=tr-TR&mk=38694&m=tanitim&bidr=10308&bid=12109": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Personel dairesinin görev tanımı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/Icerik.aspx?d=tr-TR&mk=38694&m=tanitim&bidr=10308&bid=12109",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Personel dairesinin görev tanımı."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=54978": {
     "status": "closed",
@@ -12648,25 +12648,25 @@
     "lastAttempt": "2026/2 alımında yedek listeden yerleşenlere evrak teslim çağrısı."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=54021": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=54021",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=53877": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=53877",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=53536": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=53536",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/depo/menuler/birim_10308/duyurular_198/570399aa-a05a-4a88-97cd-ba812c9c95cc/url_icerik/2026-1 sözleşmeli personel ilan metni.pdf": {
     "status": "closed",
@@ -12676,18 +12676,18 @@
     "lastAttempt": "Üniversitenin 2026/1 ilan PDF’sinde başvuru dönemi 18 Eylül–2 Ekim 2026 ve kapanış saati 13.00."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=44877": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=44877",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=44803": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=44803",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/depo/menuler/birim_10308/duyurular_198/57a8604e-9028-4539-9ec8-d01ab4f62b1e/url_icerik/2025-2 SÖZLEŞMELİ İLAN (SON HALİ)(KAMU E UYGULAMA).pdf": {
     "status": "closed",
@@ -12697,95 +12697,95 @@
     "lastAttempt": "Üniversitenin 2025/2 ilan PDF’sinde başvuru dönemi 15–29 Ekim 2025."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42472": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42472",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42369": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=42369",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41782": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41782",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41728": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41728",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41675": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41675",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41674": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41674",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41673": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41673",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41523": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41523",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41406": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41406",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41339": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41339",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41249": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41249",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41164": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41164",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41094": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41094",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=41060": {
     "status": "closed",
@@ -12795,18 +12795,18 @@
     "lastAttempt": "Duyuru, önceki başvuruların sonuç veya sınava çağrı aşamasına ilişkin."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=30993": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=30993",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Önceki alıma yerleşen asıl veya yedek adayların evrak teslimi ve sonuçları yayımlanmış."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=50292": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Personel işlemlerinde kullanılan form ve belge dizini.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=50292",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Personel işlemlerinde kullanılan form ve belge dizini."
   },
   "https://www.torbali.bel.tr/personel-alimi-ilanlarina-itibar-etmeyiniz": {
     "status": "ineligible",
@@ -13229,18 +13229,18 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Mevcut adayların bilişim personeli sınavına çağrılması hakkında duyuru.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Mevcut adayların bilişim personeli sınavına çağrılması hakkında duyuru."
   },
   "https://www.iskur.gov.tr/duyurular/turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T21:14:12Z",
     "evidence": "https://www.iskur.gov.tr/duyurular/turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://www.tuik.gov.tr/Kurumsal/Tuik_Personel_Istihdami": {
     "status": "pending",
@@ -18547,9 +18547,9 @@
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
@@ -18582,23 +18582,23 @@
   },
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
@@ -18638,16 +18638,16 @@
   },
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
@@ -19310,17 +19310,17 @@
   },
   "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
     "status": "pending",
-    "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
+    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
     "evidence": "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
     "status": "ineligible",
@@ -19366,10 +19366,10 @@
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136": {
     "status": "closed",
@@ -19408,10 +19408,10 @@
   },
   "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/": {
     "status": "pending",
-    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "reason": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/",
-    "checkedAt": "2026-11-27T20:31:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
+    "checkedAt": "2026-11-27T21:14:12Z",
+    "lastAttempt": "Resmî bağlantıdan metin alınamadı. Kadro şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Hizmetli.pdf": {
     "status": "verified",
