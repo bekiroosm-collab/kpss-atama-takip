@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı ilan detayında kadro tablosu ve puan şartı görünmedi.",
+    "reason": "Kariyer Kapısı detay sayfası kadro ve mezuniyet tablosunu göstermedi.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T12:36:56Z",
-    "lastAttempt": "Kariyer Kapısı ilan detayında kadro tablosu ve puan şartı görünmedi."
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Kariyer Kapısı detay sayfası kadro ve mezuniyet tablosunu göstermedi."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -18468,25 +18468,25 @@
     "lastAttempt": "Duyuru önceki başvuruların sonucunu veya yedek adayların işlemlerini açıklıyor."
   },
   "http://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak": {
-    "status": "pending",
-    "reason": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
-    "checkedAt": "2026-11-27T12:36:56Z",
-    "lastAttempt": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
+    "status": "closed",
+    "reason": "Batman Belediyesi başvuruları 27 Kasım saat 16.00’da kapattı. Belediyenin duyurularında süre uzatımı saptanmadı.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Batman Belediyesi başvuruları 27 Kasım saat 16.00’da kapattı. Belediyenin duyurularında süre uzatımı saptanmadı.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi"
   },
   "http://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
-    "status": "pending",
-    "reason": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
+    "status": "closed",
+    "reason": "Batman Belediyesi başvuruları 27 Kasım saat 16.00’da kapattı. Belediyenin duyurularında süre uzatımı saptanmadı.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-27T12:36:56Z",
-    "lastAttempt": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00."
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Batman Belediyesi başvuruları 27 Kasım saat 16.00’da kapattı. Belediyenin duyurularında süre uzatımı saptanmadı."
   },
   "http://www.batman.bel.tr/duyuru/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
-    "status": "pending",
-    "reason": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00.",
+    "status": "closed",
+    "reason": "Batman Belediyesi başvuruları 27 Kasım saat 16.00’da kapattı. Belediyenin duyurularında süre uzatımı saptanmadı.",
     "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
-    "checkedAt": "2026-11-27T12:36:56Z",
-    "lastAttempt": "Güvenlik görevlisi, bahçe bakım işçisi ve otobüs şoförü eklerinde P94 aranmıyor. Kalan branşların şartları tam doğrulanamadı. Son başvuru 27 Kasım saat 16.00."
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Batman Belediyesi başvuruları 27 Kasım saat 16.00’da kapattı. Belediyenin duyurularında süre uzatımı saptanmadı."
   },
   "https://bogazici.edu.tr/tr/announcements/muhendislik-fakultesi-arastirma-gorevlisi-ali/9726": {
     "status": "closed",
@@ -18524,10 +18524,11 @@
     "lastAttempt": "Duyuru önceki başvuruların sonucunu veya yedek adayların işlemlerini açıklıyor."
   },
   "https://www.cag.edu.tr/tr/duyurular/akademik-personel-alimi-26": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı."
+    "status": "ineligible",
+    "reason": "25 Kasım tarihli üniversite PDF’sinde öğretim elemanı kadroları ve ALES koşulları yer alıyor.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "25 Kasım tarihli üniversite PDF’sinde öğretim elemanı kadroları ve ALES koşulları yer alıyor.",
+    "evidence": "https://www.cag.edu.tr/uploads/site/users-special/e96ed478dab8595a7dbda4cbcbee168f/files/25_11_2026.pdf"
   },
   "https://www.comu.edu.tr/duyuru-25060.html": {
     "status": "ineligible",
@@ -18545,9 +18546,10 @@
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı."
+    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
     "status": "closed",
@@ -18579,23 +18581,24 @@
   },
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
-    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı.",
+    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
-    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı.",
+    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T11:51:34Z",
-    "lastAttempt": "Bu turda asıl duyuru adresine erişilemedi. Bağımsız aramalarda başvuru şartları aynı ilana ait resmî ekten doğrulanamadı."
+    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
     "status": "ineligible",
@@ -18634,16 +18637,16 @@
   },
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "reason": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "reason": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
+    "checkedAt": "2026-11-27T13:39:06Z",
+    "lastAttempt": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
