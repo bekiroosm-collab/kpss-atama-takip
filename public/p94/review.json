@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı.",
+    "reason": "Kariyer Kapısı ilan ayrıntısında şartlar görüntülenemedi. Belediyenin resmî alan adı aramasında kadro tablosuna ulaşılamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T21:14:12Z",
-    "lastAttempt": "Bu bağlantıdan güncel P94 kadrosu ve başvuru tarihleri birlikte doğrulanamadı."
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "lastAttempt": "Kariyer Kapısı ilan ayrıntısında şartlar görüntülenemedi. Belediyenin resmî alan adı aramasında kadro tablosuna ulaşılamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -466,25 +466,25 @@
     "reason": "Kurum, Şubat 2020’de İŞKUR üzerinden aldığı 7 temizlik ve 3 güvenlik görevlisi için sonuçları yayımladı."
   },
   "https://w2.agu.edu.tr/duyurular/4936/Sürekli İşçi Alım İlanı": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://w2.agu.edu.tr/duyurular/4936/Sürekli İşçi Alım İlanı",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı."
   },
   "https://w2.agu.edu.tr/duyurular/4538/İdari Personel Naklen Alım İlanı": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://w2.agu.edu.tr/duyurular/4538/İdari Personel Naklen Alım İlanı",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı."
   },
   "https://w2.agu.edu.tr/duyurular/4174/AGÜ Emeklilik Yaş Haddini Doldurmuş Öğretim Üyelerinin Sözleşmeli Olarak Çalıştırılmasına İlişkin Usul ve Esaslar": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Emeklilik yaş haddini dolduran öğretim üyeleri için usul ve esasları açıklıyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/4174/AGÜ Emeklilik Yaş Haddini Doldurmuş Öğretim Üyelerinin Sözleşmeli Olarak Çalıştırılmasına İlişkin Usul ve Esaslar",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Emeklilik yaş haddini dolduran öğretim üyeleri için usul ve esasları açıklıyor."
   },
   "https://www.acibadem.edu.tr/duyurular/acibadem-universitesi-ortak-dersler-bolumu-ogretim-gorevlisi-giris-sinavi-sonuc-ilani": {
     "status": "closed",
@@ -536,11 +536,11 @@
     "evidence": "https://www.atk.gov.tr/haber12.01.26.html"
   },
   "https://www.atk.gov.tr/haber25.12.25.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 25/12/2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber25.12.25.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 25/12/2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber22.12.25.html": {
     "status": "closed",
@@ -560,11 +560,11 @@
     "evidence": "https://www.atk.gov.tr/haber18.11.25.html"
   },
   "https://www.atk.gov.tr/haber20.10.25.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 20/10/2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber20.10.25.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 20/10/2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber16.09.25.html": {
     "status": "ineligible",
@@ -579,11 +579,11 @@
     "evidence": "https://www.atk.gov.tr/haber01.09.25.html"
   },
   "https://www.atk.gov.tr/haber11.08.25.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 11/08/2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber11.08.25.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 11/08/2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber08.05.25.html": {
     "status": "ineligible",
@@ -598,11 +598,11 @@
     "evidence": "https://www.atk.gov.tr/haber11.04.25.html"
   },
   "https://www.atk.gov.tr/haber14.03.25.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 14.03.2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber14.03.25.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 14.03.2025 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber26.12.24.html": {
     "status": "ineligible",
@@ -629,18 +629,18 @@
     "evidence": "https://www.atk.gov.tr/haber03.12.24.html"
   },
   "https://www.atk.gov.tr/haber29.11.24.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 29.11.2024 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber29.11.24.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 29.11.2024 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber15.11.24.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 15.11.2024 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber15.11.24.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 15.11.2024 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber04.09.24.html": {
     "status": "ineligible",
@@ -661,11 +661,11 @@
     "evidence": "https://www.atk.gov.tr/haber13.08.24.html"
   },
   "https://www.atk.gov.tr/haber26.07.24.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 26.07.2024 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber26.07.24.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 26.07.2024 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber05.04.24.html": {
     "status": "ineligible",
@@ -710,11 +710,11 @@
     "evidence": "https://www.atk.gov.tr/haber25.12.23.html"
   },
   "https://www.atk.gov.tr/haber08.12.23.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 08.12.2023 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber08.12.23.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 08.12.2023 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber26.04.23.html": {
     "status": "ineligible",
@@ -729,18 +729,18 @@
     "evidence": "https://www.atk.gov.tr/haber25.04.23.html"
   },
   "https://www.atk.gov.tr/haber10.04.23.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 10.04.2023 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber10.04.23.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 10.04.2023 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber07.04.23.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 07.04.2023 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber07.04.23.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 07.04.2023 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber03.03.23.html": {
     "status": "ineligible",
@@ -767,11 +767,11 @@
     "evidence": "https://www.atk.gov.tr/haber18.01.23.html"
   },
   "https://www.atk.gov.tr/haber28.12.22.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 28.12.2022 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber28.12.22.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 28.12.2022 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber03.01.23.html": {
     "status": "closed",
@@ -903,11 +903,11 @@
     "evidence": "https://www.atk.gov.tr/haber03.02.21.html"
   },
   "https://www.atk.gov.tr/haber30.12.20.html": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Adli Tıp Kurumunun 30.12.2020 tarihli önceki alım duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://www.atk.gov.tr/haber30.12.20.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Adli Tıp Kurumunun 30.12.2020 tarihli önceki alım duyurusu. Başvuru dönemi kapandı."
   },
   "https://www.atk.gov.tr/haber08.12.20.html": {
     "status": "ineligible",
@@ -1081,39 +1081,39 @@
     "lastAttempt": "Tam ilan veya güncel başvuru şartları bu denemede doğrulanamadı."
   },
   "https://www.adapazari.bel.tr/sayfa/zabita-hizmetleri": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor.",
     "evidence": "https://www.adapazari.bel.tr/sayfa/zabita-hizmetleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor."
   },
   "https://www.adapazari.bel.tr/hizmet/zabita-hizmetleri": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor.",
     "evidence": "https://www.adapazari.bel.tr/hizmet/zabita-hizmetleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor."
   },
   "https://adiyaman.bel.tr/ZABITA": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor.",
     "evidence": "https://adiyaman.bel.tr/ZABITA",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor."
   },
   "https://adiyaman.bel.tr/adiyaman-belediyemiz-kaldirim-ve-yol": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor.",
     "evidence": "https://adiyaman.bel.tr/adiyaman-belediyemiz-kaldirim-ve-yol",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor."
   },
   "https://adiyaman.bel.tr/IF0LV8-ZABITA-EKIPLERIMIZ-SAGLIKSIZ-ETE-": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor.",
     "evidence": "https://adiyaman.bel.tr/IF0LV8-ZABITA-EKIPLERIMIZ-SAGLIKSIZ-ETE-",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin zabıta hizmeti veya denetim duyurusu. Personel başvurusu bulunmuyor."
   },
   "https://personel.aku.edu.tr/2026/10/30/2026-2-sozlesmeli-personel-alimi-1-yedek-liste/": {
     "status": "closed",
@@ -1129,10 +1129,10 @@
   },
   "https://kms.kaysis.gov.tr/Home/Goster/163252": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Resmî sayfa yeniden açılmaya çalışıldı, içerik alınamadı.",
     "evidence": "https://kms.kaysis.gov.tr/Home/Goster/163252",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Resmî sayfa yeniden açılmaya çalışıldı, içerik alınamadı."
   },
   "https://www.aglasun.bel.tr/zabita-mudurlugu/": {
     "status": "ineligible",
@@ -2758,25 +2758,25 @@
     "lastAttempt": "2022-11-21 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6611/Sözleşmeli Personel Alım İlanı Sonuçları (24.06.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6611/Sözleşmeli Personel Alım İlanı Sonuçları (24.06.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı."
   },
   "https://w2.agu.edu.tr/duyurular/6399/Sözleşmeli Personel Alım İlanı Sonuçları(14.02.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6399/Sözleşmeli Personel Alım İlanı Sonuçları(14.02.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı."
   },
   "https://w2.agu.edu.tr/duyurular/6337/Sözleşmeli Personel Alım İlanı (17.01.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T21:47:57Z",
+    "reason": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6337/Sözleşmeli Personel Alım İlanı (17.01.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversitenin geçmiş yıllardaki alım veya sonuç duyurusu. Başvuru dönemi kapandı."
   },
   "http://www.afsin.bel.tr/sayfa/personel-alimi": {
     "status": "pending",
