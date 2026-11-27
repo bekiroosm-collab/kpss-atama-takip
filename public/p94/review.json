@@ -166,10 +166,11 @@
     "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119.pdf"
   },
   "https://www.bozkoy.bel.tr/ilan/bozkoy-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alim-ilani-ve-basvuru-formu": {
-    "status": "ineligible",
-    "checkedAt": "2026-11-19T01:59:25+03:00",
-    "reason": "İtfaiye eri için spor alanında lisans mezuniyeti ve P3 türünde en az 65 puan gerekiyor.",
-    "evidence": "https://bozkoy.bel.tr/uploads/files/BOZK%C3%96Y%20BELED%C4%B0YE%20BA%C5%9EKANLI%C4%9EINA%20%C4%B0LK%20DEFA%20ATANMAK%20%C3%9CZERE%20%C4%B0TFA%C4%B0YE%20ER%C4%B0%20ALIM%20%C4%B0LANI.pdf"
+    "status": "cancelled",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "reason": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-2.pdf",
+    "lastAttempt": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm": {
     "status": "pending",
@@ -6761,11 +6762,11 @@
     "checkedAt": "2026-11-20T08:49:36Z"
   },
   "https://yerelyonetimler.csb.gov.tr/nigde-ili-bozkoy-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-ilani-duyuru-478758": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://yerelyonetimler.csb.gov.tr/nigde-ili-bozkoy-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-ilani-duyuru-478758",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "cancelled",
+    "reason": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-2.pdf",
+    "lastAttempt": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı."
   },
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744": {
     "status": "pending",
@@ -17213,40 +17214,46 @@
     "lastAttempt": "Sayfa belediye hizmetini veya mevcut personelin kurum içi işlemini açıklıyor."
   },
   "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-657-memur-mimar-alimi-nihai-sonuc-listesi.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "evidence": "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani-mimar.html"
   },
   "https://www.kalkandere.bel.tr/duyuru/memur-mimar-alimi-yazili-sinava-hak-kazanan-adaylar-listesi.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "evidence": "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani-mimar.html"
   },
   "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-mimar-alimi-basvuru-listesi.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "evidence": "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani-mimar.html"
   },
   "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-mimar-alimi-ilani-basvuru-formu.html": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "closed",
+    "reason": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "evidence": "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani-mimar.html"
   },
   "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani-mimar.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Kalkandere Belediyesi mimar alımı 14 Ağustos 2026 tarihinde kapandı. Belediye 31 Ağustos’ta nihai sonucu yayımladı.",
+    "evidence": "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani-mimar.html"
   },
   "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Kalkandere Belediyesinin 2025 ilanında son başvuru 29 Ağustos 2025.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Kalkandere Belediyesinin 2025 ilanında son başvuru 29 Ağustos 2025.",
+    "evidence": "https://www.kalkandere.bel.tr/duyuru/ilk-defa-atanmak-uzere-memur-alimi-ilani.html"
   },
   "https://www.karacabey.bel.tr/sayfalar/zabita-hizmetleri": {
     "status": "ineligible",
@@ -18558,15 +18565,17 @@
   },
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
@@ -18609,15 +18618,17 @@
   },
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
+    "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
     "status": "ineligible",
@@ -18641,10 +18652,11 @@
     "evidence": "https://ikcu.edu.tr/Haber/21254"
   },
   "https://www.ktu.edu.tr/personel/duyuru/04092026-tarihli-alim-ilani-neticesinde-goreve-baslatilacak-4-b-sozlesmeli-personel-duyurusu": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "closed",
+    "reason": "Eylül alımında yerleşen adaylara 7 Aralık göreve başlama tarihi bildiriliyor.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Eylül alımında yerleşen adaylara 7 Aralık göreve başlama tarihi bildiriliyor.",
+    "evidence": "https://www.ktu.edu.tr/personel/duyuru/04092026-tarihli-alim-ilani-neticesinde-goreve-baslatilacak-4-b-sozlesmeli-personel-duyurusu"
   },
   "https://www.ktu.edu.tr/personel/duyuru/04092026-tarihli-4-b-sozlesmeli-personel-alim-ilanina-iliskin-yedek-adaylara-duyuru-H8": {
     "status": "closed",
@@ -18654,10 +18666,11 @@
     "lastAttempt": "Duyuru önceki başvuruların sonucunu veya yedek adayların işlemlerini açıklıyor."
   },
   "https://www.kop.gov.tr/haber/guney-marmara-kalkinma-ajansi-personel-alimi-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-27T03:48:06Z",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "status": "closed",
+    "reason": "Ajansın imzalı ilan takvimine göre son başvuru 2 Ocak 2026.",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Ajansın imzalı ilan takvimine göre son başvuru 2 Ocak 2026.",
+    "evidence": "https://www.kop.gov.tr/storage/attachments/FVYKtLBtS1vNapY8Un0RMqREMQVcOc1RW7FJ8Eq9.pdf"
   },
   "https://www.ktun.edu.tr/tr/Universite/DuyuruDetay/4_b_sOzleSmelI_personel_Ilani_yedek_aday_duyurusu_9113": {
     "status": "pending",
@@ -18996,10 +19009,10 @@
   },
   "https://www.rekabet.gov.tr/tr/Duyurular/rekabet-kurumu-rekabet-uzman-yardimcilig-d23d95b908e8f111a671005056854155": {
     "status": "pending",
-    "reason": "Aday bağlantısı açılamadı. Aynı sınav dönemine ait asıl ilan ve şartları eşleştirilemedi.",
+    "reason": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek.",
     "evidence": "https://www.rekabet.gov.tr/tr/Duyurular/rekabet-kurumu-rekabet-uzman-yardimcilig-d23d95b908e8f111a671005056854155",
-    "checkedAt": "2026-11-27T05:23:38Z",
-    "lastAttempt": "Aday bağlantısı açılamadı. Aynı sınav dönemine ait asıl ilan ve şartları eşleştirilemedi."
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Bu turda kurum bağlantısı açılmadı. İlanın tam metni veya kurumun aynı ilana ait eki yeniden kontrol edilecek."
   },
   "https://www.sivas.edu.tr/hdetay/18092026-tarihli-sozlesmeli-personel-alim-yedek-sonuclari-1732": {
     "status": "closed",
@@ -19168,5 +19181,33 @@
     "evidence": "https://cdn.bartin.edu.tr/onceinsan/fa8dc0ccaa1fa07ccf0ef519114d8f0a/ilan-metni.pdf",
     "checkedAt": "2026-11-27T07:18:22Z",
     "lastAttempt": "2026-04 ilanının resmî PDF’sinde ön lisans ve 2026 KPSS P93 şartı yer alıyor."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-2.pdf": {
+    "status": "cancelled",
+    "reason": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-2.pdf",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-9.pdf": {
+    "status": "pending",
+    "reason": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-9.pdf",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-11.pdf": {
+    "status": "pending",
+    "reason": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-11.pdf",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-13.pdf": {
+    "status": "pending",
+    "reason": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-13.pdf",
+    "checkedAt": "2026-11-27T07:47:51Z",
+    "lastAttempt": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak."
   }
 }
