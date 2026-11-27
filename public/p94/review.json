@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Yayımlanan metnin kopyasında iki çevre mühendisi için lisans ve P3 yazıyor. Bakanlığın belge bağlantısı zaman aşımına uğradı.",
-    "evidence": "https://webdosya.csb.gov.tr/v2/yerelyonetimler/2026/10/16-10-2026-Karabaglar-Belediyesi-Ilan-Metni-1-20261016095209.docx",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Yayımlanan metnin kopyasında iki çevre mühendisi için lisans ve P3 yazıyor. Bakanlığın belge bağlantısı zaman aşımına uğradı."
+    "reason": "Kariyer Kapısı detay sayfasında alan adları görünüyor ancak başvuru tarihleri ve kadro şartları yüklenmiyor. Belediye ilanı yeniden aranacak.",
+    "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
+    "checkedAt": "2026-11-27T09:08:12Z",
+    "lastAttempt": "Kariyer Kapısı detay sayfasında alan adları görünüyor ancak başvuru tarihleri ve kadro şartları yüklenmiyor. Belediye ilanı yeniden aranacak."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -5417,11 +5417,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.emirdag.bel.tr/ilan/mimar-muhendis-memur-alim-ilani-mulakata-gecmeye-hak-kazananlar": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Emirdağ Belediyesinin 23 Temmuz 2025 tarihli duyurusu mülakata hak kazanan adayları bildiriyor.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://www.emirdag.bel.tr/ilan/mimar-muhendis-memur-alim-ilani-mulakata-gecmeye-hak-kazananlar",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Emirdağ Belediyesinin 23 Temmuz 2025 tarihli duyurusu mülakata hak kazanan adayları bildiriyor."
   },
   "https://www.emirdag.bel.tr/ilan/memur-alim-basvuru-dilekcesi-ve-basvuru-formu": {
     "status": "pending",
@@ -6970,11 +6970,11 @@
     "lastAttempt": "Üniversitenin etkinlik veya ziyaret haberi. Personel Futsal Takımımız Ege Bölgesi Şampiyonu Oldu."
   },
   "https://ikcu.edu.tr/Duyuru/40653/izmir-katip-celebi-universitesi-rektorlugu-ogretim-uyesi-duzeltme-ve-iptal-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "İzmir Kâtip Çelebi Üniversitesi duyurusu öğretim üyesi alımına ait.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://ikcu.edu.tr/Duyuru/40653/izmir-katip-celebi-universitesi-rektorlugu-ogretim-uyesi-duzeltme-ve-iptal-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "İzmir Kâtip Çelebi Üniversitesi duyurusu öğretim üyesi alımına ait."
   },
   "https://ikcu.edu.tr/Etkinlik/9147": {
     "status": "pending",
@@ -8730,11 +8730,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://kocasinan.bel.tr/duyuru/greyder-operatoru-alimi-ilani-6439": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kocasinan Belediyesi greyder operatörü alımında başvurmuş adaylara verilen belge teslim süresi 29 Ağustos 2024’te sona erdi.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://kocasinan.bel.tr/duyuru/greyder-operatoru-alimi-ilani-6439",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kocasinan Belediyesi greyder operatörü alımında başvurmuş adaylara verilen belge teslim süresi 29 Ağustos 2024’te sona erdi."
   },
   "https://kocasinan.bel.tr/duyuru/greyder-operatoru-alimi-uygulamali-sinav-sonucu-5732": {
     "status": "pending",
@@ -9556,24 +9556,24 @@
   },
   "https://www.mucur.bel.tr/Detay/3-itfaiye-eri-1-memur-alimi-kapsaminda-yapilan-lise-mezunu-sozlu-sinav-ve-kpss-sinavi-aritmatik-ortalama-duyurusu.html": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Mucur Belediyesinin ilan adresi bu turda açılmadı. İlanın aslı ve ekleri yeniden incelenecek.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://www.mucur.bel.tr/Detay/3-itfaiye-eri-1-memur-alimi-kapsaminda-yapilan-lise-mezunu-sozlu-sinav-ve-kpss-sinavi-aritmatik-ortalama-duyurusu.html",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Mucur Belediyesinin ilan adresi bu turda açılmadı. İlanın aslı ve ekleri yeniden incelenecek."
   },
   "https://www.mucur.bel.tr/Detay/3-itfaiye-eri-1-memur-ilani-kapsaminda-yapilan-b-ve-c-sinifi-itfaiye-eri-sinav-sonuclari.html": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Mucur Belediyesinin ilan adresi bu turda açılmadı. İlanın aslı ve ekleri yeniden incelenecek.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://www.mucur.bel.tr/Detay/3-itfaiye-eri-1-memur-ilani-kapsaminda-yapilan-b-ve-c-sinifi-itfaiye-eri-sinav-sonuclari.html",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Mucur Belediyesinin ilan adresi bu turda açılmadı. İlanın aslı ve ekleri yeniden incelenecek."
   },
   "https://www.mucur.bel.tr/Detay/Detay/3-itfaiye-eri-1-memur-alimi-kapsaminda-yapilan-lise-mezunu-sozlu-sinav-ve-kpss-sinavi-aritmatik-ortalama-duyurusu.html": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Mucur Belediyesinin ilan adresi bu turda açılmadı. İlanın aslı ve ekleri yeniden incelenecek.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://www.mucur.bel.tr/Detay/Detay/3-itfaiye-eri-1-memur-alimi-kapsaminda-yapilan-lise-mezunu-sozlu-sinav-ve-kpss-sinavi-aritmatik-ortalama-duyurusu.html",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Mucur Belediyesinin ilan adresi bu turda açılmadı. İlanın aslı ve ekleri yeniden incelenecek."
   },
   "https://www.mucur.bel.tr/Detay/Detay/1-adet-lisans-mezunu-memur-alimina-iliskin-sozlu-sinava-katilacaklar-basvuru-yogunlugu-ve-teknik-aksaklar-sebebiyle-4-12-2026-tarihine-ertelenmis-olup-sozlu-sinavi-ise-14-12-2026-tarih-saat-9-30-gerceklestirilecektir.html": {
     "status": "pending",
@@ -12808,11 +12808,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.torbali.bel.tr/personel-alimi-ilanlarina-itibar-etmeyiniz": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Torbalı Belediyesi bu sayfada personel alımı iddialarına karşı uyarı yayımladı.",
+    "checkedAt": "2026-11-27T09:08:12Z",
     "evidence": "https://www.torbali.bel.tr/personel-alimi-ilanlarina-itibar-etmeyiniz",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Torbalı Belediyesi bu sayfada personel alımı iddialarına karşı uyarı yayımladı."
   },
   "https://toros.edu.tr/duyurular/serhat-kalkinma-ajansinin-serka-personel-alim-ilani": {
     "status": "pending",
@@ -16863,10 +16863,11 @@
     "lastAttempt": "Duyuru, önceki başvuruların sonuç veya sınava çağrı aşamasına ilişkin."
   },
   "https://han.bel.tr/guncel/169-han-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-2": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Han Belediyesi mühendis alımında lisans şartı vardı. Başvuru 8 Eylül 2025’te kapandı.",
+    "checkedAt": "2026-11-27T09:08:12Z",
+    "lastAttempt": "Han Belediyesi mühendis alımında lisans şartı vardı. Başvuru 8 Eylül 2025’te kapandı.",
+    "evidence": "https://han.bel.tr/images/Duyurular/personel_alimi/ilan_han_belediyesi_mu%CC%88hendis_al%C4%B1m_ilan%C4%B1_16.07.2025.pdf"
   },
   "https://www.hani.bel.tr/birim/zabita-amirligi": {
     "status": "ineligible",
@@ -19190,24 +19191,24 @@
     "lastAttempt": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-9.pdf": {
-    "status": "pending",
-    "reason": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak.",
+    "status": "ineligible",
+    "reason": "Gaziantep İslam Bilim ve Teknoloji Üniversitesinin 27 Kasım tarihli eki öğretim elemanı alımıdır.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-9.pdf",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak."
+    "checkedAt": "2026-11-27T09:08:12Z",
+    "lastAttempt": "Gaziantep İslam Bilim ve Teknoloji Üniversitesinin 27 Kasım tarihli eki öğretim elemanı alımıdır."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-11.pdf": {
-    "status": "pending",
-    "reason": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak.",
+    "status": "ineligible",
+    "reason": "Selçuk Üniversitesinin iki bilişim pozisyonunda lisans mezuniyeti sonrasında en az beş yıl ilgili mesleki tecrübe aranıyor.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-11.pdf",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak."
+    "checkedAt": "2026-11-27T09:08:12Z",
+    "lastAttempt": "Selçuk Üniversitesinin iki bilişim pozisyonunda lisans mezuniyeti sonrasında en az beş yıl ilgili mesleki tecrübe aranıyor."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-13.pdf": {
-    "status": "pending",
-    "reason": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak.",
+    "status": "ineligible",
+    "reason": "Uşak Üniversitesinin 27 Kasım tarihli eki öğretim üyesi alımıdır.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-13.pdf",
-    "checkedAt": "2026-11-27T07:47:51Z",
-    "lastAttempt": "27 Kasım çeşitli ilanlar dizininde yer alıyor. Kadro tablosu ve öğrenim şartları yeniden okunacak."
+    "checkedAt": "2026-11-27T09:08:12Z",
+    "lastAttempt": "Uşak Üniversitesinin 27 Kasım tarihli eki öğretim üyesi alımıdır."
   }
 }
