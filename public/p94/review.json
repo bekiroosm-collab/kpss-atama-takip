@@ -125,8 +125,8 @@
     "status": "pending",
     "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -1523,18 +1523,18 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.aile.gov.tr/duyurular/kpss-2022-4-yerlestirme-islemleri-sonucunda-bakanligimiz-sozlesmeli-personel-pozisyonlarina-yerlestirilen-adaylara-iliskin-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "2022/4 yerleştirmesinde atananlardan belge isteniyor. Teslim süresi 15 Nisan 2022’de sona erdi.",
     "evidence": "https://www.aile.gov.tr/duyurular/kpss-2022-4-yerlestirme-islemleri-sonucunda-bakanligimiz-sozlesmeli-personel-pozisyonlarina-yerlestirilen-adaylara-iliskin-duyuru/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "2022/4 yerleştirmesinde atananlardan belge isteniyor. Teslim süresi 15 Nisan 2022’de sona erdi."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-alim-ilani/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "KPSS 2022/4 tercihleri 10 Mart 2022’de sona erdi.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "KPSS 2022/4 tercihleri 10 Mart 2022’de sona erdi."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-sozlu-sinav-duyurusu/": {
     "status": "closed",
@@ -1556,11 +1556,11 @@
     "lastAttempt": "Duyuru, önceki başvuruların sonuç veya sınava çağrı aşamasına ilişkin."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-alim-ilani-askerlik-sarti-kontrolune-iliskin-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "12 Ocak 2022 tarihli askerlik şartı kontrol duyurusu geçmiş alıma ait.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-personel-alim-ilani-askerlik-sarti-kontrolune-iliskin-duyuru/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "12 Ocak 2022 tarihli askerlik şartı kontrol duyurusu geçmiş alıma ait."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi/": {
     "status": "pending",
@@ -1609,11 +1609,11 @@
     "reason": "2020 yılına ait sınav ve yerleştirme takvimi."
   },
   "https://www.aile.gov.tr/duyurular/is-sagligi-ve-guvenligi-genel-mudurlugu-sozlesmeli-personel-secme-sinavi-ilani/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "10 Şubat 2020 tarihli seçme sınavı duyurusu geçmiş alıma ait.",
     "evidence": "https://www.aile.gov.tr/duyurular/is-sagligi-ve-guvenligi-genel-mudurlugu-sozlesmeli-personel-secme-sinavi-ilani/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "10 Şubat 2020 tarihli seçme sınavı duyurusu geçmiş alıma ait."
   },
   "https://www.ailevecalisma.gov.tr/pdb/duyurular/duyuru11/": {
     "status": "pending",
@@ -1649,11 +1649,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.aile.gov.tr/duyurular/09092019_01_nolu-sozlesmelibilisimpersoneli_sinav_duyurusu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "9 Eylül 2019 tarihli bilişim sınavında P3 ve yabancı dil puanları kullanılıyor.",
     "evidence": "https://www.aile.gov.tr/duyurular/09092019_01_nolu-sozlesmelibilisimpersoneli_sinav_duyurusu/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "9 Eylül 2019 tarihli bilişim sınavında P3 ve yabancı dil puanları kullanılıyor."
   },
   "https://www.aile.gov.tr/duyurular/08032019-01-duyuru/": {
     "status": "pending",
@@ -1846,25 +1846,25 @@
     "lastAttempt": "31 Ağustos alımının yedek yerleştirme listesi ve göreve başlama duyurusu."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek8-19777": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek8-19777",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/31082026_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-19706": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/31082026_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-19706",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek7-19313": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29122025_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek7-19313",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_rektorlugunden;_sozlesmeli_personel_alim_ilani_31082026-19097": {
     "status": "closed",
@@ -1872,32 +1872,32 @@
     "reason": "Akdeniz Üniversitesi başvuruları 15 Eylül 2026 saat 13.00’te kapattı."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/06062024_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek5-19029": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/06062024_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek5-19029",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/24082023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-19028": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/24082023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-19028",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/06062024_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4-18803": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/06062024_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4-18803",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/24082023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-18802": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "reason": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/24082023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-18802",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurum, önceki alımda sözleşme yapmaya hak kazanan adaylara ilişkin sonuç ve belge teslim duyurusu yayımlamış."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-18801": {
     "status": "pending",
@@ -6740,9 +6740,9 @@
   },
   "https://ula.bel.tr/duyurular/zabita-memuru-alim-ilani": {
     "status": "ineligible",
-    "reason": "Dört zabıta memuru kadrosu için ön lisans ve 2026 P93 şartı var.",
+    "reason": "Dört zabıta memuru kadrosunun tamamı ön lisans mezuniyeti ve 2026 KPSS P93 türünde en az 70 puan gerektiriyor.",
     "evidence": "https://ula.bel.tr/duyurular/zabita-memuru-alim-ilani",
-    "checkedAt": "2026-11-21T08:31:03Z"
+    "checkedAt": "2026-11-27T20:31:25Z"
   },
   "https://yerelyonetimler.csb.gov.tr/mudurnu-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani-duyuru-479031": {
     "status": "ineligible",
@@ -18548,8 +18548,8 @@
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
@@ -18583,22 +18583,22 @@
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
@@ -18639,15 +18639,15 @@
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı.",
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
@@ -19312,15 +19312,15 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
   },
   "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
     "status": "pending",
     "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
     "status": "ineligible",
@@ -19368,8 +19368,8 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136": {
     "status": "closed",
@@ -19410,8 +19410,8 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/",
-    "checkedAt": "2026-11-27T18:59:52Z",
-    "lastAttempt": "Güncel başvuru ve kadro şartları bu kontrolde doğrulanamadı."
+    "checkedAt": "2026-11-27T20:31:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
   },
   "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Hizmetli.pdf": {
     "status": "verified",
