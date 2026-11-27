@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Detay ekranında alan başlıkları var. Karabağlar Belediyesi kadro tablosu ve puan türü bu turda doğrulanamadı.",
+    "reason": "Kariyer Kapısı detay sayfası görüldü ancak kadro şartları yüklenmedi.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T09:47:01Z",
-    "lastAttempt": "Detay ekranında alan başlıkları var. Karabağlar Belediyesi kadro tablosu ve puan türü bu turda doğrulanamadı."
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "Kariyer Kapısı detay sayfası görüldü ancak kadro şartları yüklenmedi."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -18466,24 +18466,24 @@
   },
   "http://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak": {
     "status": "pending",
-    "reason": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
-    "checkedAt": "2026-11-27T09:47:01Z",
-    "lastAttempt": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
-    "evidence": "https://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak"
+    "reason": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi"
   },
   "http://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
-    "evidence": "https://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak",
-    "checkedAt": "2026-11-27T09:47:01Z",
-    "lastAttempt": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı."
+    "reason": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı."
   },
   "http://www.batman.bel.tr/duyuru/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "pending",
-    "reason": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı.",
-    "evidence": "https://www.batman.bel.tr/haber/batman-belediyesi-120-personel-alacak",
-    "checkedAt": "2026-11-27T09:47:01Z",
-    "lastAttempt": "120 kişilik alımın genel duyurusunda noter kurası ve mülakat belirtiliyor. Bugün kapanan branşlara ait eklerde P94 şartı ayrıca doğrulanamadı."
+    "reason": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı.",
+    "evidence": "https://www.batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "Batman Personel A.Ş. için belediyenin 12 branşlık tablosu ve kura usulü okundu. Beden işçisi başvurusu 25 Kasım’da kapandı. Diğer branşlar 27 Kasım saat 16.00’da kapanıyor. Branş eklerinin tamamında P94 şartı doğrulanamadı."
   },
   "https://bogazici.edu.tr/tr/announcements/muhendislik-fakultesi-arastirma-gorevlisi-ali/9726": {
     "status": "closed",
@@ -18527,10 +18527,11 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://www.comu.edu.tr/duyuru-25060.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "ineligible",
+    "reason": "ÇOMÜ’nün 24 Kasım duyurusu öğretim elemanı kadrolarına ilişkin.",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "ÇOMÜ’nün 24 Kasım duyurusu öğretim elemanı kadrolarına ilişkin.",
+    "evidence": "https://www.comu.edu.tr/duyuru-25060.html"
   },
   "https://www.devletarsivleri.gov.tr/Sayfalar/Haberler/Duyuru.aspx?ID=6353": {
     "status": "closed",
@@ -18594,10 +18595,11 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "ineligible",
+    "reason": "e-Devlet üzerinden SGK tescil ve hizmet dökümü alınan belge hizmeti.",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "e-Devlet üzerinden SGK tescil ve hizmet dökümü alınan belge hizmeti.",
+    "evidence": "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur"
   },
   "https://personeldb.firat.edu.tr/tr/announcements-detail/43572": {
     "status": "closed",
@@ -18684,10 +18686,11 @@
     "evidence": "https://www.kop.gov.tr/storage/attachments/FVYKtLBtS1vNapY8Un0RMqREMQVcOc1RW7FJ8Eq9.pdf"
   },
   "https://www.ktun.edu.tr/tr/Universite/DuyuruDetay/4_b_sOzleSmelI_personel_Ilani_yedek_aday_duyurusu_9113": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Konya Teknik Üniversitesi, 2 Eylül alımının yedek adaylarını 4 Aralık’a kadar evrak teslimine çağırıyor.",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "Konya Teknik Üniversitesi, 2 Eylül alımının yedek adaylarını 4 Aralık’a kadar evrak teslimine çağırıyor.",
+    "evidence": "https://www.ktun.edu.tr/tr/Universite/DuyuruDetay/4_b_sOzleSmelI_personel_Ilani_yedek_aday_duyurusu_9113"
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-2.pdf": {
     "status": "verified",
@@ -19220,5 +19223,12 @@
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-13.pdf",
     "checkedAt": "2026-11-27T09:08:12Z",
     "lastAttempt": "Uşak Üniversitesinin 27 Kasım tarihli eki öğretim üyesi alımıdır."
+  },
+  "https://www.turkak.org.tr/duyurular/turkak-tan-sozlesmeli-koruma-ve-guvenlik-gorevlisi-personel-alimi": {
+    "status": "ineligible",
+    "reason": "TÜRKAK, 3 güvenlik görevlisi için ilgili ön lisans programından mezuniyet ve 2026 P93 puanından en az 70 istiyor.",
+    "evidence": "https://www.turkak.org.tr/duyurular/turkak-tan-sozlesmeli-koruma-ve-guvenlik-gorevlisi-personel-alimi",
+    "checkedAt": "2026-11-27T10:53:43Z",
+    "lastAttempt": "TÜRKAK, 3 güvenlik görevlisi için ilgili ön lisans programından mezuniyet ve 2026 P93 puanından en az 70 istiyor."
   }
 }
