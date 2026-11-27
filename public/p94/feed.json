@@ -1,7 +1,20 @@
 {
   "checkedAt": "2026-11-19T00:01:55+03:00",
-  "coverage": "27 Kasım 2026 saat 08:23 (TSİ). 19–27 Kasım dönemi ve önceki açık başvurular için kısmi tarama yapıldı. Kuyruğa eklenen 13 bağlantı kontrol edildi. Rekabet Kurumu bağlantısı yeniden incelenecek. İncelenen belgelerde yeni bir P94 kadrosu, önemli düzeltme veya iptal doğrulanmadı. OGM’nin Maçka duyurusu sınava girecek adayları, Pamukkale ve Sivas Cumhuriyet üniversitelerinin duyuruları yedek yerleştirmeleri bildiriyor. 26 Kasım’daki Sakarya ve Karamanoğlu Mehmetbey üniversitelerinin iptalleri akademik kadrolara ait. ÖSYM ve Adalet duyuruları, Adli Tıp kadro eki, Jandarma ilanı ve Resmî Gazete’nin 19, 22, 23, 24, 25 ve 26 Kasım çeşitli ilan dizinleri okundu. 20, 21 ve 27 Kasım dizinleri ile dönemin bütün ekleri bu kontrolde doğrulanamadı. Kariyer Kapısı, SBB, İŞKUR, OGM, Nüfus, İçişleri, Yerel Yönetimler ve ilan.gov.tr ana listelerinde eksikler var. Çankırı ve Samsun dâhil belde belediyeleri, il özel idareleri, adliyeler, KİT’ler ve üniversite personel dairelerinin taraması kısmi.",
+  "coverage": "27 Kasım 2026 saat 10.17 (TSİ). 19–27 Kasım dönemi ve kapanmamış başvurular için tarama kısmi. Avrupa Birliği Başkanlığının Ankara’da 5 şoför alımı, bugünkü Resmî Gazete ilanı ve Ek-1 üzerinden doğrulandı. ÖSYM ve Adalet duyuruları ile Adli Tıp ve Jandarma ilan ekleri açıldı. Resmî Gazete’nin 19, 20, 21 ve 25 Kasım çeşitli ilan dizinleri bu turda okundu. 22–24, 26 ve 27 Kasım dizinleri ile dönemin tüm ekleri bu turda doğrulanamadı. Kariyer Kapısı, SBB, İŞKUR, OGM, Nüfus, İçişleri, Yerel Yönetimler ve ilan.gov.tr ana listelerinin kapsamı eksik. Çankırı ve Samsun dâhil belediye, il özel idaresi, adliye, KİT ve üniversite duyuruları için resmî alan adı aramaları yapıldı. Önceki açık ilanların tümünde düzeltme kontrolü tamamlanamadı.",
   "notices": [
+    {
+      "id": "ab-baskanligi-2026-11-sofor-ankara",
+      "title": "Sözleşmeli destek personeli (şoför)",
+      "institution": "Dışişleri Bakanlığı Avrupa Birliği Başkanlığı",
+      "city": "Ankara",
+      "quota": 5,
+      "year": 2026,
+      "min": 70,
+      "conditions": "Çankaya merkez teşkilatında 5 ortak kontenjan vardır. Ortaöğretim mezunları P94, ön lisans mezunları P93 ile başvurabilir. 14 Aralık itibarıyla en az üç yıldır B veya üst sınıf ehliyet sahibi olmak gerekir. Adayın seyahate, ülke genelinde her iklimde görev yapmaya ve açık veya kapalı alanda vardiyalı çalışmaya engeli bulunmamalıdır. 657 sayılı Kanun ve ilandaki genel şartlar aranır. Güvenlik soruşturması ve arşiv araştırması olumlu sonuçlanmalıdır. Başvuru Kariyer Kapısı üzerinden alınır. Yerleştirme sınavsız, KPSS puan sırasıyla yapılır.",
+      "start": "2026-11-27",
+      "end": "2026-12-14",
+      "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-8.pdf"
+    },
     {
       "id": "atk-2026-2-hizmetli-samsun",
       "title": "Destek personeli (hizmetli)",
