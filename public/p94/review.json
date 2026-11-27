@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı detayında kadro tablosu görüntülenemedi.",
+    "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kariyer Kapısı detayında kadro tablosu görüntülenemedi."
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -18546,9 +18546,9 @@
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
@@ -18581,23 +18581,23 @@
   },
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
@@ -18637,16 +18637,16 @@
   },
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
@@ -19287,39 +19287,39 @@
     "lastAttempt": "Üniversite öğretim üyesi kadrolarını ilan ediyor."
   },
   "https://www.sultanbeyli.bel.tr/proje/zabita-hizmet-binasi/": {
-    "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "status": "ineligible",
+    "reason": "Zabıta hizmet binasının açılışını anlatan belediye projesi.",
     "evidence": "https://www.sultanbeyli.bel.tr/proje/zabita-hizmet-binasi/",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Zabıta hizmet binasının açılışını anlatan belediye projesi."
   },
   "https://www.sultanbeyli.bel.tr//wp-content/uploads/2022/03/Ihale_Ilani_28022022_093648.pdf": {
-    "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "evidence": "https://www.sultanbeyli.bel.tr//wp-content/uploads/2022/03/Ihale_Ilani_28022022_093648.pdf",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "status": "ineligible",
+    "reason": "2022 tarihli cihaz ve mobil izleme sistemi ihalesi.",
+    "evidence": "https://www.sultanbeyli.bel.tr/wp-content/uploads/2022/03/Ihale_Ilani_28022022_093648.pdf",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "2022 tarihli cihaz ve mobil izleme sistemi ihalesi."
   },
   "https://www.sultanbeyli.bel.tr//wp-content/uploads/2020/01/Personel-Hizmeti-Alimi-ilani-14112016.docx.pdf": {
-    "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "evidence": "https://www.sultanbeyli.bel.tr//wp-content/uploads/2020/01/Personel-Hizmeti-Alimi-ilani-14112016.docx.pdf",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "status": "ineligible",
+    "reason": "Yüklenici firmalara yönelik personel hizmeti alımı ihalesi.",
+    "evidence": "https://www.sultanbeyli.bel.tr/wp-content/uploads/2020/01/Personel-Hizmeti-Alimi-ilani-14112016.docx.pdf",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Yüklenici firmalara yönelik personel hizmeti alımı ihalesi."
   },
   "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
   },
   "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
     "status": "ineligible",
@@ -19365,10 +19365,10 @@
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136": {
     "status": "closed",
@@ -19378,11 +19378,11 @@
     "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
   },
   "https://www.trabzon.edu.tr/Duyuru/12458": {
-    "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "evidence": "https://www.trabzon.edu.tr/Duyuru/12458",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "status": "closed",
+    "reason": "20 Temmuz alımının yedek adaylarına 27 Kasım–11 Aralık arasında evrak teslim çağrısı yapıldı.",
+    "evidence": "https://personel.trabzon.edu.tr/Duyuru/12457/sozlesmeli-personel-alim-ilani-kapsaminda-yedeklerden-sirasi-ile-cagrilan-adaylara-iliskin-duyuru",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "20 Temmuz alımının yedek adaylarına 27 Kasım–11 Aralık arasında evrak teslim çağrısı yapıldı."
   },
   "https://www.trabzon.edu.tr/Duyuru/12443": {
     "status": "closed",
@@ -19392,11 +19392,11 @@
     "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
   },
   "https://personel.trabzon.edu.tr/Duyuru/12457": {
-    "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
-    "evidence": "https://personel.trabzon.edu.tr/Duyuru/12457",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "status": "closed",
+    "reason": "20 Temmuz alımının yedek adaylarına 27 Kasım–11 Aralık arasında evrak teslim çağrısı yapıldı.",
+    "evidence": "https://personel.trabzon.edu.tr/Duyuru/12457/sozlesmeli-personel-alim-ilani-kapsaminda-yedeklerden-sirasi-ile-cagrilan-adaylara-iliskin-duyuru",
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "20 Temmuz alımının yedek adaylarına 27 Kasım–11 Aralık arasında evrak teslim çağrısı yapıldı."
   },
   "https://personel.trabzon.edu.tr/Duyuru/12442": {
     "status": "closed",
@@ -19407,9 +19407,9 @@
   },
   "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/": {
     "status": "pending",
-    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/",
-    "checkedAt": "2026-11-27T14:36:56Z",
-    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+    "checkedAt": "2026-11-27T16:10:25Z",
+    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
   }
 }
