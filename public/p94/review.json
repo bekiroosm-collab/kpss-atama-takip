@@ -1321,11 +1321,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.aile.gov.tr/duyurular/8000-sozlesmeli-personel-alim-ilani/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T07:18:22Z",
+    "reason": "Başvurular 11 Mart 2024 tarihinde kapandı.",
     "evidence": "https://www.aile.gov.tr/duyurular/8000-sozlesmeli-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Başvurular 11 Mart 2024 tarihinde kapandı."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-duyurusu/": {
     "status": "pending",
@@ -5316,11 +5316,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "http://www.elbistan.bel.tr/duyuru/elbistan-belediye-baskanligi-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani-1015.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "http://www.elbistan.bel.tr/duyuru/elbistan-belediye-baskanligi-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani-1015.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Başvuru dönemi 2–4 Eylül 2026 tarihinde tamamlandı.",
+    "checkedAt": "2026-11-27T07:18:22Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/07/20260725-4-14.pdf",
+    "lastAttempt": "Başvuru dönemi 2–4 Eylül 2026 tarihinde tamamlandı."
   },
   "http://www.elbistan.bel.tr/duyuru/elbistan-belediyesi-personel-alimi-938.html": {
     "status": "pending",
@@ -10130,11 +10130,11 @@
     "checkedAt": "2026-11-20T19:16:11Z"
   },
   "https://www.omu.edu.tr/tr/icerik/duyuru/sozlesmeli-personel-alim-ilani-0": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Başvuru dönemi 12–26 Ocak 2026 tarihinde tamamlandı.",
+    "checkedAt": "2026-11-27T07:18:22Z",
     "evidence": "https://www.omu.edu.tr/tr/icerik/duyuru/sozlesmeli-personel-alim-ilani-0",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Başvuru dönemi 12–26 Ocak 2026 tarihinde tamamlandı."
   },
   "https://www.onikisubat.bel.tr/Duyurular/DuyuruDetay/43": {
     "status": "pending",
@@ -10569,11 +10569,11 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://www.safranbolu.bel.tr/duyurular/tam-zamanli-sozlesmeli-personel-alim-ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T07:18:22Z",
+    "reason": "Başvuru süresi 15 Aralık 2020 tarihinde sona erdi.",
     "evidence": "https://www.safranbolu.bel.tr/duyurular/tam-zamanli-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Başvuru süresi 15 Aralık 2020 tarihinde sona erdi."
   },
   "https://www.safranbolu.bel.tr/duyurular/zabita-memuru-alimina-ait-sozlu-ve-uygulamali-sinav-sonuclarina-iliskin-duyuru": {
     "status": "closed",
@@ -19154,5 +19154,19 @@
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-17.pdf",
     "checkedAt": "2026-11-27T05:23:38Z",
     "lastAttempt": "Akademik personel alım ilanı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-8.pdf": {
+    "status": "verified",
+    "reason": "Resmî Gazete Ek-1, Ankara Çankaya için 5 ortak şoför kontenjanını ve 2026 P94 taban puanını (70) doğruluyor. Başvurular 27 Kasım–14 Aralık.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-8.pdf",
+    "checkedAt": "2026-11-27T07:18:22Z",
+    "lastAttempt": "Resmî Gazete Ek-1, Ankara Çankaya için 5 ortak şoför kontenjanını ve 2026 P94 taban puanını (70) doğruluyor. Başvurular 27 Kasım–14 Aralık."
+  },
+  "https://dinkulturu.bartin.edu.tr/duyurular/sozlesmelipersonelalimilani202604.html": {
+    "status": "ineligible",
+    "reason": "2026-04 ilanının resmî PDF’sinde ön lisans ve 2026 KPSS P93 şartı yer alıyor.",
+    "evidence": "https://cdn.bartin.edu.tr/onceinsan/fa8dc0ccaa1fa07ccf0ef519114d8f0a/ilan-metni.pdf",
+    "checkedAt": "2026-11-27T07:18:22Z",
+    "lastAttempt": "2026-04 ilanının resmî PDF’sinde ön lisans ve 2026 KPSS P93 şartı yer alıyor."
   }
 }
