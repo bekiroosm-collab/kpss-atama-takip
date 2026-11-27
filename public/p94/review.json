@@ -125,8 +125,8 @@
     "status": "pending",
     "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Sayfada güncel görev yeri ve şart tablosu doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -304,11 +304,11 @@
     "lastAttempt": "Üniversitenin duyuru metni okundu."
   },
   "https://w2.agu.edu.tr/duyurular/7854/Naklen İdari Personel Alım İlanı (11.09.2025)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2025-09-11 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7854/Naklen İdari Personel Alım İlanı (11.09.2025)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2025-09-11 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/7715/AGÜ 19.02.2025-05.03.2025 Başvuru Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (3.Duyuru) (28.04.2025)": {
     "status": "closed",
@@ -352,53 +352,53 @@
     "evidence": "https://w2.agu.edu.tr/duyurular/7074/AGÜ 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (5. Duyuru) (07.07.2023)"
   },
   "https://w2.agu.edu.tr/duyurular/7070/AGÜ 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (4.Duyuru) (22.06.2023)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2023-06-22 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7070/AGÜ 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (4.Duyuru) (22.06.2023)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2023-06-22 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/7066/AGÜi 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (3.Duyuru) (15.06.2023)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2023-06-15 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7066/AGÜi 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (3.Duyuru) (15.06.2023)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2023-06-15 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/7064/28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi - 2.Duyuru (05.06.2023)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2023-06-05 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7064/28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi - 2.Duyuru (05.06.2023)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2023-06-05 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/7025/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı (28.04.2023)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2023-04-28 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7025/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı (28.04.2023)",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "2023-04-28 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6840/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar (02.12.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2022-12-02 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6840/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar (02.12.2022)",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "2022-12-02 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6790/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı (24.10.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2022-10-24 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6790/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı (24.10.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2022-10-24 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6694/Sözleşmeli Personel Alım İlanı Sonuçları (24.08.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2022-08-24 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6694/Sözleşmeli Personel Alım İlanı Sonuçları (24.08.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2022-08-24 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6656/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (19.07.2022)": {
     "status": "ineligible",
@@ -407,11 +407,11 @@
     "evidence": "https://w2.agu.edu.tr/duyurular/6656/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (19.07.2022)"
   },
   "https://w2.agu.edu.tr/duyurular/6633/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2022-07-06 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6633/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2022-07-06 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6582/Abdullah Gül Üniversitesi Sözleşmeli Personel Alım ilanı": {
     "status": "pending",
@@ -2737,25 +2737,25 @@
     "lastAttempt": "Bu alıma başvuru 1 Şubat 2024’te kapandı. Üniversitenin sonuç ve yedek duyuruları aynı alıma ait."
   },
   "https://w2.agu.edu.tr/duyurular/7089/28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (6. Duyuru) (28.07.2023)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2023-07-28 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7089/28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Yedekten Yerleştirilmeye Hak Kazananlar Listesi (6. Duyuru) (28.07.2023)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2023-07-28 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/7049/Abdullah Gül Üniversitesi 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Sonuçları (26.05.2023)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2023-05-26 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/7049/Abdullah Gül Üniversitesi 28.04.2023-12.05.2023 Tarihli Sözleşmeli Personel Alım İlanı Sonuçları (26.05.2023)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2023-05-26 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6830/Sözleşmeli Personel Alım İlanı Sonuçları (21.11.2022)": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "reason": "2022-11-21 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor.",
     "evidence": "https://w2.agu.edu.tr/duyurular/6830/Sözleşmeli Personel Alım İlanı Sonuçları (21.11.2022)",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "2022-11-21 tarihli üniversite duyurusu geçmiş alıma ait. Güncel başvuru dönemi içermiyor."
   },
   "https://w2.agu.edu.tr/duyurular/6611/Sözleşmeli Personel Alım İlanı Sonuçları (24.06.2022)": {
     "status": "pending",
@@ -18547,8 +18547,8 @@
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı.",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
@@ -18582,22 +18582,22 @@
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
@@ -18638,15 +18638,15 @@
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
@@ -19311,15 +19311,15 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
     "status": "pending",
     "reason": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı.",
     "evidence": "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Sayfa açıldı ancak açık kadro ve başvuru şartları listesi doğrulanamadı."
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Sayfada güncel görev yeri ve şart tablosu doğrulanamadı."
   },
   "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
     "status": "ineligible",
@@ -19367,8 +19367,8 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı."
   },
   "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136": {
     "status": "closed",
@@ -19409,7 +19409,21 @@
     "status": "pending",
     "reason": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek.",
     "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/",
-    "checkedAt": "2026-11-27T16:10:25Z",
-    "lastAttempt": "Asıl metin veya ilgili ekler bu kontrolde okunamadı. Güncel başvuru şartları için yeniden incelenecek."
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "Kurum sayfasında bu ilana ait tam metin ve güncel şartlar doğrulanamadı."
+  },
+  "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Hizmetli.pdf": {
+    "status": "verified",
+    "reason": "GİB görev yeri tablosunda 45 hizmetli kontenjanı doğrulandı. 2026 P94 en az 70. Başvurular 2–9 Aralık.",
+    "evidence": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Hizmetli.pdf",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "GİB görev yeri tablosunda 45 hizmetli kontenjanı doğrulandı. 2026 P94 en az 70. Başvurular 2–9 Aralık."
+  },
+  "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Sofor.pdf": {
+    "status": "ineligible",
+    "reason": "GİB şoför alımında ön lisans, P93 ve D sınıfı ehliyet aranıyor.",
+    "evidence": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=DUYURU%2FUNIVERSAL%2F2026%2FDuyuru_27112026_Sofor.pdf",
+    "checkedAt": "2026-11-27T17:24:45Z",
+    "lastAttempt": "GİB şoför alımında ön lisans, P93 ve D sınıfı ehliyet aranıyor."
   }
 }
