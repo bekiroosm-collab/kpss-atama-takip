@@ -3801,19 +3801,24 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-3.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-21T01:56:30Z",
-    "reason": "Mudurnu Belediyesinin bir mühendis pozisyonunda ilgili lisans mezuniyeti ve P3 türünde en az 75 puan aranıyor.",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-3.pdf"
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Tek mühendis kadrosu lisans ve P3 en az 75 gerektiriyor.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-3.pdf",
+    "lastAttempt": "Tek mühendis kadrosu lisans ve P3 en az 75 gerektiriyor."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-4.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-19T05:49:08.000Z",
-    "reason": "İstanbul Medipol Üniversitesinin öğretim üyesi kadrolarına ilişkin ilan."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-4.pdf",
+    "lastAttempt": "Akademik personel alım ilanı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-5.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-19T05:49:08.000Z",
-    "reason": "Mersin Üniversitesinin ihalelere katılmaktan yasaklama kararı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-5.pdf",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-6.pdf": {
     "status": "ineligible",
@@ -3829,9 +3834,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-8.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-20T11:40:10Z",
-    "reason": "19 Kasım tarihli tam sayıda OGM metninin ihalelere katılmaktan yasaklama kararları içerdiği doğrulandı.",
-    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119.pdf"
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-8.pdf",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-9.pdf": {
     "status": "ineligible",
@@ -3841,8 +3847,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-10.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-19T06:37:14.000Z",
-    "reason": "Sağlık Bakanlığı Strateji Geliştirme Başkanlığının ihale yasağını kaldırma kararı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-10.pdf",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-11.pdf": {
     "status": "ineligible",
@@ -3858,14 +3866,17 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-13.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-19T06:37:14.000Z",
-    "reason": "Bilecik Şeyh Edebali Üniversitesi 2547 sayılı Kanun kapsamında akademik personel alıyor."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-13.pdf",
+    "lastAttempt": "Akademik personel alım ilanı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-14.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-20T11:40:10Z",
-    "reason": "İstanbul Atlas Üniversitesi öğretim üyesi alımı.",
-    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-14.pdf"
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-14.pdf",
+    "lastAttempt": "Akademik personel alım ilanı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4-15.pdf": {
     "status": "ineligible",
@@ -15188,15 +15199,15 @@
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120159_32c2758680134f9dbc38b6a1d99359e8.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120127_2daa0bf1f178420897a2f149a3e02439.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120127_2daa0bf1f178420897a2f149a3e02439.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260923_120056_94e642383e1447a4bd3f546ba3155f8d.zip": {
     "status": "pending",
@@ -15216,92 +15227,92 @@
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115928_310e21ee080d490fa582f43e34da16aa.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115856_30b217ea45cd4e8aab0201bee7308cf6.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115856_30b217ea45cd4e8aab0201bee7308cf6.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115816_3e9ba8fd34c54f78901130be189268ba.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115816_3e9ba8fd34c54f78901130be189268ba.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115746_5bc1d4bb5d074a5faad13eba79dc720c.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260923_115746_5bc1d4bb5d074a5faad13eba79dc720c.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213432_1937e97af76d4418846b283120d25acf.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213432_1937e97af76d4418846b283120d25acf.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213116_15dc19d8ea3e43ef9f4a8fe4973ed53c.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213116_15dc19d8ea3e43ef9f4a8fe4973ed53c.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213020_40c8e29716394e67a5552818baf745a1.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_213020_40c8e29716394e67a5552818baf745a1.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212713_d5a3a770a637428c8879de2e3b59a2da.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212713_d5a3a770a637428c8879de2e3b59a2da.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212645_86e43ed476784a508f1a016d360b7ade.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212645_86e43ed476784a508f1a016d360b7ade.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212601_d0bbbe7f52484fa79f06b9c1d0a30061.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212601_d0bbbe7f52484fa79f06b9c1d0a30061.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212530_79cf632730d94af9ace6f810469a7eb6.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_212530_79cf632730d94af9ace6f810469a7eb6.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163736_299703e9b185448f83268e0b82c68853.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163736_299703e9b185448f83268e0b82c68853.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163609_e13ab2d8010744bd8c1230baa5a9e7b7.pdf": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
     "evidence": "https://www.amasra.bel.tr/uploads/pagedocument/20260921_163609_e13ab2d8010744bd8c1230baa5a9e7b7.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.andirin.bel.tr/birim.php?slug=zabita-amirligi": {
     "status": "ineligible",
@@ -18042,8 +18053,8 @@
   "https://taskent.bel.tr/haberler.php?seo=memur-alim-ilan-iptali": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-27T03:48:06Z",
-    "lastAttempt": "Belediyenin iptal duyurusu açıldı. İptalin hangi tarihli kadroya ait olduğu metinden belirlenemedi."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İptalin hangi kadroya ait olduğu belirlenemedi."
   },
   "https://www.tavas.bel.tr/birim/zabita-mudurlugu": {
     "status": "ineligible",
@@ -18073,8 +18084,8 @@
   "https://www.tekkekoy.bel.tr/haber/289/ilk-defa-atanmak-uzere-memur-alimi-ilaninin-iptali": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-27T03:48:06Z",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.tercan.bel.tr/haberler/denetleme": {
     "status": "pending",
@@ -18805,8 +18816,8 @@
     "status": "pending",
     "reason": "27 Kasım çeşitli ilanlar dizini açılamadı. 33443 sayılı gazetenin tekil belgeleri dizinin tamamını doğrulamıyor.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4.htm",
-    "checkedAt": "2026-11-27T03:48:06Z",
-    "lastAttempt": "Resmî sayfanın içeriğine erişilemedi."
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Resmî sayfa veya ek bu kontrolde okunamadı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-4.pdf": {
     "status": "ineligible",
@@ -18824,10 +18835,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-6.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İlan akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Akademik personel alım ilanı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-6.pdf",
-    "lastAttempt": "İlan akademik personel kadrolarına ilişkin."
+    "lastAttempt": "Akademik personel alım ilanı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-7.pdf": {
     "status": "ineligible",
@@ -18838,10 +18849,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-10.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İlan akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Akademik personel alım ilanı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-10.pdf",
-    "lastAttempt": "İlan akademik personel kadrolarına ilişkin."
+    "lastAttempt": "Akademik personel alım ilanı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-11.pdf": {
     "status": "ineligible",
@@ -18859,10 +18870,10 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-13.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İlan akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "Akademik personel alım ilanı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-13.pdf",
-    "lastAttempt": "İlan akademik personel kadrolarına ilişkin."
+    "lastAttempt": "Akademik personel alım ilanı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-14.pdf": {
     "status": "ineligible",
@@ -18880,31 +18891,31 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-2.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İhaleye katılma yasağına ilişkin karar.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-2.pdf",
-    "lastAttempt": "İhaleye katılma yasağına ilişkin karar."
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-3.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İhaleye katılma yasağına ilişkin karar.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-3.pdf",
-    "lastAttempt": "İhaleye katılma yasağına ilişkin karar."
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-4.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İhaleye katılma yasağına ilişkin karar.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-4.pdf",
-    "lastAttempt": "İhaleye katılma yasağına ilişkin karar."
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-7.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-27T03:31:13Z",
-    "reason": "İhaleye katılma yasağına ilişkin karar.",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-7.pdf",
-    "lastAttempt": "İhaleye katılma yasağına ilişkin karar."
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-8.pdf": {
     "status": "ineligible",
@@ -18919,5 +18930,229 @@
     "reason": "İlan akademik personel kadrolarına ilişkin.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-10.pdf",
     "lastAttempt": "İlan akademik personel kadrolarına ilişkin."
+  },
+  "https://www.pau.edu.tr/yabanciuyruklupersonel": {
+    "status": "ineligible",
+    "reason": "Yabancı uyruklu personeli değerlendiren komisyonun kurumsal sayfası.",
+    "evidence": "https://www.pau.edu.tr/yabanciuyruklupersonel",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Yabancı uyruklu personeli değerlendiren komisyonun kurumsal sayfası."
+  },
+  "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-9": {
+    "status": "closed",
+    "reason": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu.",
+    "evidence": "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-9",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu."
+  },
+  "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-8": {
+    "status": "closed",
+    "reason": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu.",
+    "evidence": "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-8",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu."
+  },
+  "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-7": {
+    "status": "closed",
+    "reason": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu.",
+    "evidence": "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-7",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu."
+  },
+  "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-6": {
+    "status": "closed",
+    "reason": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu.",
+    "evidence": "https://www.pau.edu.tr/personel/tr/haber/1808-2026-tarihli-4b-sozlesmeli-personel-alim-ilani-yedek-sonuclari-6",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "18 Ağustos 2026 alımında sırası gelen yedek adayların sonuç duyurusu."
+  },
+  "https://www.rtuk.gov.tr/surekli-isci-alimi-basarili-adaylarin-ilani/5186": {
+    "status": "closed",
+    "reason": "RTÜK 13 Nisan 2026 mülakatının sonucunu açıkladı.",
+    "evidence": "https://www.rtuk.gov.tr/surekli-isci-alimi-basarili-adaylarin-ilani/5186",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "RTÜK 13 Nisan 2026 mülakatının sonucunu açıkladı."
+  },
+  "https://www.rtuk.gov.tr/surekli-isci-alimi-kura-tarih-ve-yeri-ile-ilgili-duyuru/5169": {
+    "status": "closed",
+    "reason": "9 Nisan 2026 noter kurasının yeri ve saati bildiriliyor.",
+    "evidence": "https://www.rtuk.gov.tr/surekli-isci-alimi-kura-tarih-ve-yeri-ile-ilgili-duyuru/5169",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "9 Nisan 2026 noter kurasının yeri ve saati bildiriliyor."
+  },
+  "https://www.rtuk.gov.tr/rtuk-surekli-isci-alimi-/5164": {
+    "status": "closed",
+    "reason": "31 Mart 2026 sürekli işçi alımı. Mülakat sonucu 14 Nisan’da ilan edildi.",
+    "evidence": "https://www.rtuk.gov.tr/rtuk-surekli-isci-alimi-/5164",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "31 Mart 2026 sürekli işçi alımı. Mülakat sonucu 14 Nisan’da ilan edildi."
+  },
+  "https://personel.erdogan.edu.tr/tr/news-detail/27-07-2026-tarihli-sozlesmeli-personel-alimi-ilani-degerlendirme-sonuclarina-gore-yedek-adayin-cagrilmasi/7720": {
+    "status": "closed",
+    "reason": "27 Temmuz 2026 ilanına başvuran yedek aday çağrılıyor.",
+    "evidence": "https://personel.erdogan.edu.tr/tr/news-detail/27-07-2026-tarihli-sozlesmeli-personel-alimi-ilani-degerlendirme-sonuclarina-gore-yedek-adayin-cagrilmasi/7720",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "27 Temmuz 2026 ilanına başvuran yedek aday çağrılıyor."
+  },
+  "https://www.rekabet.gov.tr/tr/Duyurular/rekabet-kurumu-rekabet-uzman-yardimcilig-d23d95b908e8f111a671005056854155": {
+    "status": "pending",
+    "reason": "Aday bağlantısı açılamadı. Aynı sınav dönemine ait asıl ilan ve şartları eşleştirilemedi.",
+    "evidence": "https://www.rekabet.gov.tr/tr/Duyurular/rekabet-kurumu-rekabet-uzman-yardimcilig-d23d95b908e8f111a671005056854155",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Aday bağlantısı açılamadı. Aynı sınav dönemine ait asıl ilan ve şartları eşleştirilemedi."
+  },
+  "https://www.sivas.edu.tr/hdetay/18092026-tarihli-sozlesmeli-personel-alim-yedek-sonuclari-1732": {
+    "status": "closed",
+    "reason": "18 Eylül 2026 alımının yedek yerleştirme sonucu.",
+    "evidence": "https://www.sivas.edu.tr/hdetay/18092026-tarihli-sozlesmeli-personel-alim-yedek-sonuclari-1732",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "18 Eylül 2026 alımının yedek yerleştirme sonucu."
+  },
+  "https://personel.sivas.edu.tr/duyurular/18-09-2026-tarihli-sozlesmeli-personel-alim-yedek-sonuclari-e0482f6db7eae8cb": {
+    "status": "closed",
+    "reason": "18 Eylül 2026 alımının yedek yerleştirme sonucu.",
+    "evidence": "https://personel.sivas.edu.tr/duyurular/18-09-2026-tarihli-sozlesmeli-personel-alim-yedek-sonuclari-e0482f6db7eae8cb",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "18 Eylül 2026 alımının yedek yerleştirme sonucu."
+  },
+  "https://www.cumhuriyet.edu.tr/personel/duyuru/38141-sozlesmeli-personel-3-yedek-alim-duyurusu": {
+    "status": "closed",
+    "reason": "8 Aralık son tarihi yalnızca üçüncü yedek listeden evrak teslim edecek adaylar için.",
+    "evidence": "https://www.cumhuriyet.edu.tr/personel/duyuru/38141-sozlesmeli-personel-3-yedek-alim-duyurusu",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "8 Aralık son tarihi yalnızca üçüncü yedek listeden evrak teslim edecek adaylar için."
+  },
+  "https://www.ogm.gov.tr/trabzonobm/duyurular/gecici-isci-aliminda-sozlu-ve-uygulamali-sinava-katilacak-kesin-aday-listesinin-ilani": {
+    "status": "closed",
+    "reason": "Maçka Orman İşletme Müdürlüğü bir geçici işçi için 2 Aralık sınavına girecek kesin aday listesini açıkladı.",
+    "evidence": "https://www.ogm.gov.tr/trabzonobm/duyurular/gecici-isci-aliminda-sozlu-ve-uygulamali-sinava-katilacak-kesin-aday-listesinin-ilani",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Maçka Orman İşletme Müdürlüğü bir geçici işçi için 2 Aralık sınavına girecek kesin aday listesini açıkladı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-3.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261123-4-3.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-1.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-1.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-2.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-2.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-4.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-4.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-7.pdf": {
+    "status": "ineligible",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-7.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Akademik personel alım ilanı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-8.pdf": {
+    "status": "ineligible",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4-8.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Akademik personel alım ilanı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-5.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261125-4-5.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-1.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-1.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-2.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-2.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-3.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-3.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-4.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-4.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-5.pdf": {
+    "status": "ineligible",
+    "reason": "İhalelere katılma yasağına ilişkin karar.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-5.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İhalelere katılma yasağına ilişkin karar."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-8.pdf": {
+    "status": "ineligible",
+    "reason": "İptal, Üretimde Kalite Kontrol öğretim görevlisi kadrosuna ait.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-8.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İptal, Üretimde Kalite Kontrol öğretim görevlisi kadrosuna ait."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-9.pdf": {
+    "status": "ineligible",
+    "reason": "İptal, iktisat profesörü kadrosuna ait.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-9.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İptal, iktisat profesörü kadrosuna ait."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-12.pdf": {
+    "status": "ineligible",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-12.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Akademik personel alım ilanı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-15.pdf": {
+    "status": "ineligible",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-15.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Akademik personel alım ilanı."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-16.pdf": {
+    "status": "ineligible",
+    "reason": "İki düzeltme doktor öğretim üyesi ve öğretim görevlisi kadrolarına ait.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-16.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "İki düzeltme doktor öğretim üyesi ve öğretim görevlisi kadrolarına ait."
+  },
+  "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-17.pdf": {
+    "status": "ineligible",
+    "reason": "Akademik personel alım ilanı.",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-17.pdf",
+    "checkedAt": "2026-11-27T05:23:38Z",
+    "lastAttempt": "Akademik personel alım ilanı."
   }
 }
