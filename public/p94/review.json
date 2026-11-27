@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı detay sayfası kadro ve mezuniyet tablosunu göstermedi.",
+    "reason": "Kariyer Kapısı detayında kadro tablosu görüntülenemedi.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "Kariyer Kapısı detay sayfası kadro ve mezuniyet tablosunu göstermedi."
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kariyer Kapısı detayında kadro tablosu görüntülenemedi."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -18546,9 +18546,9 @@
   },
   "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi": {
     "status": "pending",
-    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
     "evidence": "https://www.egm.gov.tr/egm-merkez-ve-tasra-teskilatinda-istihdam-edilmek-uzere-iskur-araciligiyla-16-surekli-isci-alimi"
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-15-yedek-ilani/": {
@@ -18581,23 +18581,23 @@
   },
   "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675": {
     "status": "pending",
-    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/news/universitemizde-iup-kapsaminda-200-kisilik-personel-alimi-icin-kura-cekimi-yapildi-7675"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673": {
     "status": "pending",
-    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alimi-kura-duyurusu-7673"
   },
   "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666": {
     "status": "pending",
-    "reason": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "Kurum bağlantısından asıl ilan ve ekleri alınamadı. Resmî alan adı aramasında şartları kesinleştiren tam metne erişilemedi.",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
     "evidence": "https://www.firat.edu.tr/tr/page/announcement/is-gucu-uyum-programi-iup-personel-alim-ilani-7666"
   },
   "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu?barkodlu=BelgeOlustur": {
@@ -18637,16 +18637,16 @@
   },
   "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
     "evidence": "https://www.icisleri.gov.tr/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu": {
     "status": "pending",
-    "reason": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
-    "checkedAt": "2026-11-27T13:39:06Z",
-    "lastAttempt": "23 Kasım Resmî Gazete metni açıldı. Kurum sayfasındaki olası ek değişiklikler erişim sağlanamadığı için bekliyor.",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
     "evidence": "https://www.icisleri.gov.tr/personel/2026-yili-merkez-ve-tasra-teskilatinda-calistirilmak-uzere-4b-sozlesmeli-personel-alimina-iliskin-sozlu-sinav-duyurusu"
   },
   "https://ikcu.edu.tr/Haber/21253": {
@@ -19236,5 +19236,180 @@
     "evidence": "https://www.turkak.org.tr/duyurular/turkak-tan-sozlesmeli-koruma-ve-guvenlik-gorevlisi-personel-alimi",
     "checkedAt": "2026-11-27T10:53:43Z",
     "lastAttempt": "TÜRKAK, 3 güvenlik görevlisi için ilgili ön lisans programından mezuniyet ve 2026 P93 puanından en az 70 istiyor."
+  },
+  "https://www.soke.bel.tr/duyurular/2026-yili-ilk-defa-atama-yolu-ile-sozlesmeli-diyetisyen-alimi-basari-puani-ve-nihai-sonuc-listesi-1": {
+    "status": "ineligible",
+    "reason": "Söke Belediyesinin diyetisyen kadrosu Beslenme ve Diyetetik lisansı ve P3 puanı gerektiriyor.",
+    "evidence": "https://www.soke.bel.tr/public/upload/raporlardosyalar/EBrTtxTMOTi4xGG.pdf",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Söke Belediyesinin diyetisyen kadrosu Beslenme ve Diyetetik lisansı ve P3 puanı gerektiriyor."
+  },
+  "https://www.soke.bel.tr/duyurular/diyetisyen-kadrosuna-aciktan-atama-yoluyla-memur-alimina-iliskin-sinav-basvuru-formu": {
+    "status": "ineligible",
+    "reason": "Söke Belediyesinin diyetisyen kadrosu Beslenme ve Diyetetik lisansı ve P3 puanı gerektiriyor.",
+    "evidence": "https://www.soke.bel.tr/public/upload/raporlardosyalar/EBrTtxTMOTi4xGG.pdf",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Söke Belediyesinin diyetisyen kadrosu Beslenme ve Diyetetik lisansı ve P3 puanı gerektiriyor."
+  },
+  "https://www.soke.bel.tr/duyurular/diyetisyen-alimi-sozlu-sinavina-katilmaya-hak-kazanan-aday-listesi": {
+    "status": "ineligible",
+    "reason": "Söke Belediyesinin diyetisyen kadrosu Beslenme ve Diyetetik lisansı ve P3 puanı gerektiriyor.",
+    "evidence": "https://www.soke.bel.tr/public/upload/raporlardosyalar/EBrTtxTMOTi4xGG.pdf",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Söke Belediyesinin diyetisyen kadrosu Beslenme ve Diyetetik lisansı ve P3 puanı gerektiriyor."
+  },
+  "https://www.sgk.gov.tr/duyuru/detay/Sosyal-Guvenlik-Kurumu-Mufettis-Yardimciligi-Giris-Sinavi-Duyurusu-2026-11-23-09-54-59": {
+    "status": "ineligible",
+    "reason": "19 Kasım Resmî Gazete metninde müfettiş yardımcılığı için en az dört yıllık yükseköğrenim şartı var.",
+    "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119.pdf",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "19 Kasım Resmî Gazete metninde müfettiş yardımcılığı için en az dört yıllık yükseköğrenim şartı var."
+  },
+  "https://www.suduragi.bel.tr/sehir/suduragi-belediyesi-emir-ve-yasaklarini-belirleyen-zabita-y/37/": {
+    "status": "ineligible",
+    "reason": "Belediyenin zabıta yönetmeliği yayımlanmış.",
+    "evidence": "https://www.suduragi.bel.tr/sehir/suduragi-belediyesi-emir-ve-yasaklarini-belirleyen-zabita-y/37/",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Belediyenin zabıta yönetmeliği yayımlanmış."
+  },
+  "https://w3.sdu.edu.tr/duyuru/14228/sozlesmeli-personel-657-sayili-kanunun-4b-maddesi-alim-ilani-sonucu-yedek-olarak-kazanan-siradaki-adaylarin-dikkatine": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://w3.sdu.edu.tr/duyuru/14228/sozlesmeli-personel-657-sayili-kanunun-4b-maddesi-alim-ilani-sonucu-yedek-olarak-kazanan-siradaki-adaylarin-dikkatine",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://w3.sdu.edu.tr/duyuru/14206/akademik-personel-alim-ilani": {
+    "status": "ineligible",
+    "reason": "Üniversite öğretim üyesi kadrolarını ilan ediyor.",
+    "evidence": "https://w3.sdu.edu.tr/duyuru/14206/akademik-personel-alim-ilani",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Üniversite öğretim üyesi kadrolarını ilan ediyor."
+  },
+  "https://www.sultanbeyli.bel.tr/proje/zabita-hizmet-binasi/": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.sultanbeyli.bel.tr/proje/zabita-hizmet-binasi/",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://www.sultanbeyli.bel.tr//wp-content/uploads/2022/03/Ihale_Ilani_28022022_093648.pdf": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.sultanbeyli.bel.tr//wp-content/uploads/2022/03/Ihale_Ilani_28022022_093648.pdf",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://www.sultanbeyli.bel.tr//wp-content/uploads/2020/01/Personel-Hizmeti-Alimi-ilani-14112016.docx.pdf": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.sultanbeyli.bel.tr//wp-content/uploads/2020/01/Personel-Hizmeti-Alimi-ilani-14112016.docx.pdf",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.sur.bel.tr/haber/esbaskanlar-firinci-esnafiyla-bir-araya-geldi",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.tbmm.gov.tr/ISAY/icerik-listesi?contentBoxName=TBMMIsciDuyurusu",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri": {
+    "status": "ineligible",
+    "reason": "TBMM Başkanlık Divanı kâtip üyeleri listeleniyor.",
+    "evidence": "https://www.tbmm.gov.tr/turkiye-buyuk-millet-meclisi-katip-uyeleri",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "TBMM Başkanlık Divanı kâtip üyeleri listeleniyor."
+  },
+  "https://bhi.nku.edu.tr/haberler/proje-destek-personeli-alim-ilani-sonucu/s/72403": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://bhi.nku.edu.tr/haberler/proje-destek-personeli-alim-ilani-sonucu/s/72403",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alimi-basvuru-sonuclarina-iliskin-duyuru-01-10-2026": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alimi-basvuru-sonuclarina-iliskin-duyuru-01-10-2026",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alimina-iliskin-duyuru-31072026": {
+    "status": "closed",
+    "reason": "31 Temmuz bilişim personeli alımı için başvuru sonuçları ayrıca yayımlandı.",
+    "evidence": "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alimi-basvuru-sonuclarina-iliskin-duyuru-01-10-2026",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "31 Temmuz bilişim personeli alımı için başvuru sonuçları ayrıca yayımlandı."
+  },
+  "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-gumruk-muhafaza-memuru-sozlu-sinav-sonucuna-iliskin-duyuru-16-03-2026": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-gumruk-muhafaza-memuru-sozlu-sinav-sonucuna-iliskin-duyuru-16-03-2026",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-gumruk-muhafaza-memuru-sozlu-sinavina-katilmaya-hak-kazanan-adaylar-hakkinda-duyuru-23-02-2026": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://personel.ticaret.gov.tr/duyurular/sozlesmeli-gumruk-muhafaza-memuru-sozlu-sinavina-katilmaya-hak-kazanan-adaylar-hakkinda-duyuru-23-02-2026",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55278",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://personel.gop.edu.tr:443/duyuruDetay.aspx?d=tr-TR&m=duyuru_detay&mk=36044&id=55136",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://www.trabzon.edu.tr/Duyuru/12458": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.trabzon.edu.tr/Duyuru/12458",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://www.trabzon.edu.tr/Duyuru/12443": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://www.trabzon.edu.tr/Duyuru/12443",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://personel.trabzon.edu.tr/Duyuru/12457": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://personel.trabzon.edu.tr/Duyuru/12457",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
+  },
+  "https://personel.trabzon.edu.tr/Duyuru/12442": {
+    "status": "closed",
+    "reason": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor.",
+    "evidence": "https://personel.trabzon.edu.tr/Duyuru/12442",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurumun mevcut alıma ilişkin sonuç, sınav daveti veya yedek yerleştirme duyurusu. Yeni başvuru dönemi açılmıyor."
+  },
+  "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/": {
+    "status": "pending",
+    "reason": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek.",
+    "evidence": "https://www.iskur.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3/",
+    "checkedAt": "2026-11-27T14:36:56Z",
+    "lastAttempt": "Kurum sayfasından başvuru şartları veya eklerin tamamı okunamadı. Yeniden kontrol edilecek."
   }
 }
