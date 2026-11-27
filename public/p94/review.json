@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı ilan ayrıntısında şartlar görüntülenemedi. Belediyenin resmî alan adı aramasında kadro tablosuna ulaşılamadı.",
+    "reason": "Kadro tablosu, ortaöğretim koşulu ve başvuru süresi birlikte doğrulanamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-27T21:47:57Z",
-    "lastAttempt": "Kariyer Kapısı ilan ayrıntısında şartlar görüntülenemedi. Belediyenin resmî alan adı aramasında kadro tablosuna ulaşılamadı."
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "Kadro tablosu, ortaöğretim koşulu ve başvuru süresi birlikte doğrulanamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -1171,10 +1171,10 @@
   },
   "https://www.agri.edu.tr/detail.aspx?id=65019&bid=1&tid=17": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kadro tablosu, ortaöğretim koşulu ve başvuru süresi birlikte doğrulanamadı.",
     "evidence": "https://www.agri.edu.tr/detail.aspx?id=65019&bid=1&tid=17",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kadro tablosu, ortaöğretim koşulu ve başvuru süresi birlikte doğrulanamadı."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-sozlesmeli-bilisim-personeli-sinav-sonuc-ilani/": {
     "status": "closed",
@@ -1300,11 +1300,11 @@
     "reason": "Kurum duyurusunda bu alım için son başvuru tarihi 10.05.2024 olarak veriliyor."
   },
   "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi-1/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 24 Nisan 2024 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi-1/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bakanlığın 24 Nisan 2024 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alim-ilani/": {
     "status": "closed",
@@ -1329,11 +1329,11 @@
     "lastAttempt": "Başvurular 11 Mart 2024 tarihinde kapandı."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-duyurusu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 25 Aralık 2023 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-duyurusu/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bakanlığın 25 Aralık 2023 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/facility-for-refugees-in-turkey-frit-ii-projesi-danisman-personel-alim-ilani/": {
     "status": "pending",
@@ -1362,11 +1362,11 @@
     "reason": "2.431 kişilik alımın yedek adayları için tercih süresi 24 Kasım 2023’te doldu."
   },
   "https://www.aile.gov.tr/duyurular/2431_belge_teslimi_uzatimi/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 04 Temmuz 2023 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/2431_belge_teslimi_uzatimi/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bakanlığın 04 Temmuz 2023 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/2431_sonuc/": {
     "status": "closed",
@@ -1380,11 +1380,11 @@
     "evidence": "https://www.aile.gov.tr/duyurular/2431_sure_uzatimi/"
   },
   "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 03 Mayıs 2023 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bakanlığın 03 Mayıs 2023 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/2431_sp_alimi/": {
     "status": "closed",
@@ -1411,10 +1411,10 @@
   },
   "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi-2022-2-ile-ilgili-duyuru/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi-2022-2-ile-ilgili-duyuru/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.aile.gov.tr/duyurular/isaret_sozlu_sonuc/": {
     "status": "ineligible",
@@ -1436,11 +1436,11 @@
     "lastAttempt": "Duyuru, önceki başvuruların sonuç veya sınava çağrı aşamasına ilişkin."
   },
   "https://www.aile.gov.tr/duyurular/145_sozlesmeli/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 02 Aralık 2022 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/145_sozlesmeli/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bakanlığın 02 Aralık 2022 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/bilisim_sozlu_sinav2/": {
     "status": "closed",
@@ -1448,18 +1448,18 @@
     "reason": "Kurum duyurusunda bu alım için son başvuru tarihi 31.10.2022 olarak veriliyor."
   },
   "https://www.aile.gov.tr/duyurular/mufettis_yardimci_giris_sinavi/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 11 Kasım 2022 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/mufettis_yardimci_giris_sinavi/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bakanlığın 11 Kasım 2022 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/isaret_dili_sinav_duyurusu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 04 Kasım 2022 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/isaret_dili_sinav_duyurusu/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bakanlığın 04 Kasım 2022 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/yedek_yerlestirme_duyurusu/": {
     "status": "closed",
@@ -1485,11 +1485,11 @@
     "lastAttempt": "21 Eylül 2022 tarihli kurum metni geçmiş alıma ait. Başvuru veya yerleştirme süresi doldu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-kesin-sonuclari-ile-ilgili-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Bakanlığın 14 Haziran 2022 tarihli geçmiş sınav veya yerleştirme duyurusu.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi-kesin-sonuclari-ile-ilgili-duyuru/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bakanlığın 14 Haziran 2022 tarihli geçmiş sınav veya yerleştirme duyurusu."
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-4175-sozlesmeli-personel-alimi-yerlestirme-duyurusu/": {
     "status": "closed",
@@ -1543,10 +1543,10 @@
   },
   "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi-ile-ilgili-duyuru/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavi-ile-ilgili-duyuru/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.aile.gov.tr/duyurular/mufettis-yardimciligi-giris-sinavina-katilmaya-hak-kazanan-adaylarla-ilgili-duyuru/": {
     "status": "closed",
@@ -1564,10 +1564,10 @@
   },
   "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-mufettis-yardimciligi-giris-sinavi/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.aile.gov.tr/duyurular/sozlesmeli-personel-yerlestirme-sonuclari-ve-istenilen-belgelere-iliskin-duyuru/": {
     "status": "closed",
@@ -1577,31 +1577,31 @@
   },
   "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru41/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru41/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://ailevecalisma.gov.tr/media/64371/2828_3donem_20201224_v1.pdf": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://ailevecalisma.gov.tr/media/64371/2828_3donem_20201224_v1.pdf",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru27/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru27/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.aile.gov.tr/duyurular/29052020-01-duyuru/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.aile.gov.tr/duyurular/29052020-01-duyuru/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://www.aile.gov.tr/duyurular/2020-yili-kpss-sinav-ve-merkezi-yerlestirme-takvimi/": {
     "status": "ineligible",
@@ -1617,10 +1617,10 @@
   },
   "https://www.ailevecalisma.gov.tr/pdb/duyurular/duyuru11/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "reason": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek.",
     "evidence": "https://www.ailevecalisma.gov.tr/pdb/duyurular/duyuru11/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurumun resmî metnine erişilemedi. Başvuru şartları ve tarihler yeniden kontrol edilecek."
   },
   "https://ailevecalisma.gov.tr/pdb/duyurular/duyuru9/": {
     "status": "pending",
@@ -10047,11 +10047,11 @@
     "checkedAt": "2026-11-20T19:16:11Z"
   },
   "https://www.omu.edu.tr/tr/icerik/duyuru/kamu-personel-secme-sinavi-ortaogretim-bina-sinav-sorumlulari-bss-ve-bina-sinav": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "KPSS bina sınav sorumlularına yönelik duyuru.",
+    "checkedAt": "2026-11-27T23:30:39Z",
     "evidence": "https://www.omu.edu.tr/tr/icerik/duyuru/kamu-personel-secme-sinavi-ortaogretim-bina-sinav-sorumlulari-bss-ve-bina-sinav",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "KPSS bina sınav sorumlularına yönelik duyuru."
   },
   "https://www.omu.edu.tr/tr/icerik/duyuru/14082026-tarihli-sozlesmeli-personel-4b-alim-ilani-yerlestirme-sonuclari": {
     "status": "ineligible",
@@ -19440,5 +19440,54 @@
     "evidence": "https://www.canakkale.bel.tr/tr/sayfa/1430-genel-ilanlar/6012-canakkale-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-ve-itfaiye-eri-alim-ilani",
     "checkedAt": "2026-11-27T18:59:52Z",
     "lastAttempt": "İlanın sözlü ve uygulamalı sınavları 9–10 Ocak 2023 tarihli."
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=145": {
+    "status": "closed",
+    "reason": "TTK’nın resmî duyurusunda 57 işçi alımındaki asıl adayların 20 Ekim kurasından sonraki belge kontrolü ve sağlık sevki açıklanıyor.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "TTK’nın resmî duyurusunda 57 işçi alımındaki asıl adayların 20 Ekim kurasından sonraki belge kontrolü ve sağlık sevki açıklanıyor.",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/duyuru-detay/?ihale_id=145"
+  },
+  "https://www.taskomuru.gov.tr/ttk/ttk/duyuru-detay/?ihale_id=144": {
+    "status": "closed",
+    "reason": "TTK’nın resmî duyurusunda 4 işçi alımındaki yedek adayların 20 Ekim kurasından sonraki belge kontrolü ve sağlık sevki açıklanıyor.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "TTK’nın resmî duyurusunda 4 işçi alımındaki yedek adayların 20 Ekim kurasından sonraki belge kontrolü ve sağlık sevki açıklanıyor.",
+    "evidence": "https://www.taskomuru.gov.tr/ttk/duyuru-detay/?ihale_id=144"
+  },
+  "https://www.vgm.gov.tr/duyurular/15-kasim-2026-vakif-uzman-yardimciligi-yazili-sinavini": {
+    "status": "closed",
+    "reason": "15 Kasım tarihli uzman yardımcılığı yazılı sınavını kazananların listesi.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "15 Kasım tarihli uzman yardımcılığı yazılı sınavını kazananların listesi.",
+    "evidence": "https://www.vgm.gov.tr/duyurular/15-kasim-2026-vakif-uzman-yardimciligi-yazili-sinavini"
+  },
+  "https://yakakent.bel.tr/birim/zabita": {
+    "status": "ineligible",
+    "reason": "Yakakent Belediyesinin zabıta birimini ve hizmetlerini tanıtan sayfa.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "Yakakent Belediyesinin zabıta birimini ve hizmetlerini tanıtan sayfa.",
+    "evidence": "https://yakakent.bel.tr/birim/zabita"
+  },
+  "https://yakakent.bel.tr/hizmetlerimiz/zabita-hizmetleri": {
+    "status": "ineligible",
+    "reason": "Yakakent Belediyesinin zabıta birimini ve hizmetlerini tanıtan sayfa.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "Yakakent Belediyesinin zabıta birimini ve hizmetlerini tanıtan sayfa.",
+    "evidence": "https://yakakent.bel.tr/hizmetlerimiz/zabita-hizmetleri"
+  },
+  "https://ceylanpinar.bel.tr/haber/okul-kantin-ve-yemekhanelerine-zabıta-denetimi": {
+    "status": "ineligible",
+    "reason": "Belediyenin okul kantinleri ve yemekhanelerindeki denetim haberi.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "Belediyenin okul kantinleri ve yemekhanelerindeki denetim haberi.",
+    "evidence": "https://ceylanpinar.bel.tr/haber/okul-kantin-ve-yemekhanelerine-zabıta-denetimi"
+  },
+  "https://ceylanpinar.bel.tr/duyuru/haber/okul-kantin-ve-yemekhanelerine-zabıta-denetimi": {
+    "status": "ineligible",
+    "reason": "Belediyenin okul kantinleri ve yemekhanelerindeki denetim haberi.",
+    "checkedAt": "2026-11-27T23:30:39Z",
+    "lastAttempt": "Belediyenin okul kantinleri ve yemekhanelerindeki denetim haberi.",
+    "evidence": "https://ceylanpinar.bel.tr/haber/okul-kantin-ve-yemekhanelerine-zabıta-denetimi"
   }
 }
