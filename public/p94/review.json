@@ -125,8 +125,8 @@
     "status": "pending",
     "reason": "Karabağlar Belediyesi için Kariyer Kapısı ayrıntısında kadro tablosu okunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-28T06:38:49Z",
-    "lastAttempt": "Karabağlar Belediyesi için Kariyer Kapısı ayrıntısında kadro tablosu okunamadı."
+    "checkedAt": "2026-11-28T09:12:16Z",
+    "lastAttempt": "Kariyer Kapısı ayrıntı sayfasında kadro tablosu ve şartlar görüntülenemedi."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -167,10 +167,10 @@
   },
   "https://www.bozkoy.bel.tr/ilan/bozkoy-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alim-ilani-ve-basvuru-formu": {
     "status": "cancelled",
-    "checkedAt": "2026-11-27T07:47:51Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "reason": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-2.pdf",
-    "lastAttempt": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı."
+    "lastAttempt": "27 Kasım Resmî Gazete ekinde itfaiye eri alımının iptali yeniden doğrulandı."
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm": {
     "status": "pending",
@@ -6766,16 +6766,16 @@
   "https://yerelyonetimler.csb.gov.tr/nigde-ili-bozkoy-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-ilani-duyuru-478758": {
     "status": "cancelled",
     "reason": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı.",
-    "checkedAt": "2026-11-27T07:47:51Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261127-4-2.pdf",
-    "lastAttempt": "Bozköy Belediyesinin 8 Kasım 2026 tarihli itfaiye eri alımını iptal ettiği 27 Kasım Resmî Gazete ilanında doğrulandı."
+    "lastAttempt": "27 Kasım Resmî Gazete ekinde itfaiye eri alımının iptali yeniden doğrulandı."
   },
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744": {
     "status": "pending",
     "reason": "8 Kasım Resmî Gazete dizininde Akseki ilanı bulundu. Bu alımın kadro tablosu ek PDF’den okunamadı.",
-    "checkedAt": "2026-11-28T08:26:17Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744",
-    "lastAttempt": "Bakanlık duyurusuna yeniden erişilemedi. Güncel resmî kadro tablosu bekleniyor."
+    "lastAttempt": "8 Kasım Resmî Gazete dizininde kurum ilanı yer alıyor. Güncel kadro tablosu okunamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-gundogmus-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478729": {
     "status": "pending",
@@ -6787,9 +6787,9 @@
   "https://yerelyonetimler.csb.gov.tr/tokat-ili-tanoba-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478728": {
     "status": "pending",
     "reason": "Belediyenin 4 Kasım duyurusu Bakanlık sayfasına yönlendiriyor. 8 Kasım Resmî Gazete ekindeki güncel kadro tablosu okunamadı.",
-    "checkedAt": "2026-11-28T08:26:17Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/tokat-ili-tanoba-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478728",
-    "lastAttempt": "Tanoba Belediyesinin 4 Kasım duyurusu Bakanlığa yönlendiriyor. Kadro tablosu yeniden okunamadı."
+    "lastAttempt": "8 Kasım Resmî Gazete dizininde kurum ilanı yer alıyor. Güncel kadro tablosu okunamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/mugla-ili-ula-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478727": {
     "status": "ineligible",
@@ -7916,11 +7916,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://kmu.edu.tr/personel/duyuru/44513/20012025-tarihli-sozlesmeli-bilisim-personel-alim-ilani/tr": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://kmu.edu.tr/personel/duyuru/44513/20012025-tarihli-sozlesmeli-bilisim-personel-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Üniversitenin ilan ekine göre son başvuru 3 Şubat 2025.",
+    "checkedAt": "2026-11-28T09:12:16Z",
+    "evidence": "https://dosya.kmu.edu.tr/personel/userfiles/files/bili%C5%9Fim%20personeli.pdf",
+    "lastAttempt": "Üniversitenin ilan ekine göre son başvuru 3 Şubat 2025."
   },
   "https://kmu.edu.tr/personel/duyuru/44447/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "closed",
@@ -7930,100 +7930,100 @@
   "https://kmu.edu.tr/personel/duyuru/44325/18_10_2024-tarihli-sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/44325/18_10_2024-tarihli-sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/44283/01_12_2024-tarihli-4_b-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/44283/01_12_2024-tarihli-4_b-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/44162/18_10_2024-tarihli-sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/44162/18_10_2024-tarihli-sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/44106/01122024-tarihli-sozlesmeli-personel-(4_b-)-alim-ilani/tr": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/44106/01122024-tarihli-sozlesmeli-personel-(4_b-)-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurumun arşiv sayfası incelendi. Güncel başvuru süresi doğrulanamadı."
   },
   "https://kmu.edu.tr/personel/duyuru/44083/18102024-tarihli-4_b-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/44083/18102024-tarihli-4_b-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/43902/sozlesmeli-personel-(4_b-)-alim-ilani/tr": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/43902/sozlesmeli-personel-(4_b-)-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurumun arşiv sayfası incelendi. Güncel başvuru süresi doğrulanamadı."
   },
   "https://kmu.edu.tr/personel/duyuru/43833/sozlesmeli-programci-alim-ilani-degerlendirme-sonuclari/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/43833/sozlesmeli-programci-alim-ilani-degerlendirme-sonuclari/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/43635/sozlesmeli-programci-alim-ilani/tr": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://kmu.edu.tr/personel/duyuru/43635/sozlesmeli-programci-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Üniversitenin ilan ekine göre son başvuru 22 Eylül 2024.",
+    "checkedAt": "2026-11-28T09:12:16Z",
+    "evidence": "https://dosya.kmu.edu.tr/personel/userfiles/files/programc%C4%B1%20eyl%C3%BCl%202024%20ilan%20p.pdf",
+    "lastAttempt": "Üniversitenin ilan ekine göre son başvuru 22 Eylül 2024."
   },
   "https://kmu.edu.tr/personel/duyuru/42937/sozlesmeli-bilisim-personeli-alim-ilani/tr": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://kmu.edu.tr/personel/duyuru/42937/sozlesmeli-bilisim-personeli-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Üniversitenin ilan ekine göre son başvuru 13 Mayıs 2024.",
+    "checkedAt": "2026-11-28T09:12:16Z",
+    "evidence": "https://dosya.kmu.edu.tr/personel/userfiles/files/ilan%20metni%20gazete.pdf",
+    "lastAttempt": "Üniversitenin ilan ekine göre son başvuru 13 Mayıs 2024."
   },
   "https://kmu.edu.tr/personel/duyuru/42907/29032024-tarihli-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42907/29032024-tarihli-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/42885/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42885/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/42875/sozlesmeli-personel-(4_b)-alim-ilani/tr": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42875/sozlesmeli-personel-(4_b)-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurumun arşiv sayfası incelendi. Güncel başvuru süresi doğrulanamadı."
   },
   "https://kmu.edu.tr/personel/duyuru/42743/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42743/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/42705/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42705/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/42589/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "closed",
@@ -8033,23 +8033,23 @@
   "https://kmu.edu.tr/personel/duyuru/42541/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42541/sozlesmeli-personel-alimi-yedek-aday-duyurusu/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/42361/10112023-tarihli-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42361/10112023-tarihli-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Üniversitenin ilan sayfasına bu kontrolde erişilemedi."
   },
   "https://kmu.edu.tr/personel/duyuru/42300/sozlesmeli-personel-(4_b-)-alim-ilani/tr": {
     "status": "pending",
     "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T09:12:16Z",
     "evidence": "https://kmu.edu.tr/personel/duyuru/42300/sozlesmeli-personel-(4_b-)-alim-ilani/tr",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kurumun arşiv sayfası incelendi. Güncel başvuru süresi doğrulanamadı."
   },
   "https://kmu.edu.tr/personel/duyuru/41579/02062023-tarihli-sozlesmeli-personel-alim-ilani-degerlendirme-sonuclari/tr": {
     "status": "pending",
@@ -11555,9 +11555,9 @@
   },
   "https://besyo.cumhuriyet.edu.tr/personel/duyuru/37441-sozlesmeli-personel-duzeltme-ilani": {
     "status": "closed",
-    "reason": "DP03 destek personeli için düzeltme, 11 Eylül 2026’da kapanan başvuru dönemine ait.",
+    "reason": "DP03 destek personeli düzeltmesi 28 Ağustos ilanına ait. Kurum sayfasındaki bitiş tarihi 11 Eylül 2026.",
     "evidence": "https://besyo.cumhuriyet.edu.tr/personel/duyuru/37441-sozlesmeli-personel-duzeltme-ilani",
-    "checkedAt": "2026-11-21T06:09:35Z"
+    "checkedAt": "2026-11-28T09:12:16Z"
   },
   "https://tigem.gov.tr/Folder/Duyuru/DuyuruDosyalari/b6842675-9863-4dca-9521-df3accf94520.pdf": {
     "status": "closed",
