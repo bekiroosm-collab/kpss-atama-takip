@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Karabağlar için Kariyer Kapısı ayrıntısı boş. Kurumdan kadro ve öğrenim tablosu doğrulanamadı.",
+    "reason": "Karabağlar Belediyesi için Kariyer Kapısı ayrıntısında kadro tablosu okunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-28T06:29:41Z",
-    "lastAttempt": "Karabağlar için Kariyer Kapısı ayrıntısı boş. Kurumdan kadro ve öğrenim tablosu doğrulanamadı."
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "lastAttempt": "Karabağlar Belediyesi için Kariyer Kapısı ayrıntısında kadro tablosu okunamadı."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -5777,11 +5777,11 @@
     "evidence": "https://personel.gazi.edu.tr/view/announcement/327097?type=1&item=04072025-tarihli-208-adet-sozlesmeli-personel-alim-sonuclari-ile-yedek-olarak-belirlenen-adaylarin-dikkatine-20818grup-yedek"
   },
   "https://personel.gazi.edu.tr/view/announcement/326741?type=1&item=universitemiz-30102026-tarihli-akademik-personel-alim-ilani-resmi-gazetede-yayimlanmistir": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Duyuru akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://personel.gazi.edu.tr/view/announcement/326741?type=1&item=universitemiz-30102026-tarihli-akademik-personel-alim-ilani-resmi-gazetede-yayimlanmistir",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Duyuru akademik personel kadrolarına ilişkin."
   },
   "https://personel.gazi.edu.tr/view/announcement/326627?type=1&item=27072026-tarihli-59-adet-sozlesmeli-personel-alim-sonuclari-ile-yedek-olarak-belirlenen-adaylarin-dikkatine-592grup-yedek": {
     "status": "closed",
@@ -6142,11 +6142,11 @@
     "evidence": "https://www.gundogmus.bel.tr/index.php?modul=8_4&lang=tr&ID=25&pID=1"
   },
   "https://www.gmka.gov.tr/duyuru/istanbul-kalkinma-ajansi-personel-alim-ilani-2026": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.gmka.gov.tr/duyuru/istanbul-kalkinma-ajansi-personel-alim-ilani-2026",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "closed",
+    "reason": "İstanbul Kalkınma Ajansının başvuruları 22 Kasım 2026 saat 23.59’da sona erdi.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://istka.org.tr/duyuru/istka-personel-alim-ilani-2026-w790",
+    "lastAttempt": "İstanbul Kalkınma Ajansının başvuruları 22 Kasım 2026 saat 23.59’da sona erdi."
   },
   "https://www.gmka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-personel-alim-ilani-2026": {
     "status": "ineligible",
@@ -6155,25 +6155,25 @@
     "evidence": "https://oka.gov.tr/assets/upload/dosyalar/2026-yili-uzman-ve-destek-personeli-alim-ilani.pdf"
   },
   "https://www.gmka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani-2026": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.gmka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani-2026",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Mevlana Kalkınma Ajansının başvuruları 13 Kasım 2026 tarihinde sona erdi.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://www.mevka.org.tr/tr/haberler/mevlana-kalkinma-ajansi-personel-alim-ilani",
+    "lastAttempt": "Mevlana Kalkınma Ajansının başvuruları 13 Kasım 2026 tarihinde sona erdi."
   },
   "https://www.gmka.gov.tr/duyuru/bati-akdeniz-kalkinma-ajansi-personel-alim-ilani-2026": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.gmka.gov.tr/duyuru/bati-akdeniz-kalkinma-ajansi-personel-alim-ilani-2026",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Batı Akdeniz Kalkınma Ajansının üç uzman kadrosu için başvurular 31 Ekim 2026’da sona erdi.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/09/20260922-4-7.pdf",
+    "lastAttempt": "Batı Akdeniz Kalkınma Ajansının üç uzman kadrosu için başvurular 31 Ekim 2026’da sona erdi."
   },
   "https://www.gmka.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-personel-alim-ilani-2026": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.gmka.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-personel-alim-ilani-2026",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı."
   },
   "https://www.gap.gov.tr/sayfa/plan-ve-program/programlar/ekonomik-kalkinma-projeleri/tamamlanan-projeler/sozlesmeli-kilis-kecisi-damizlik-isletmeleri-kurulmasi-projesi": {
     "status": "ineligible",
@@ -6195,18 +6195,18 @@
     "lastAttempt": "Resmî ilan eki okundu."
   },
   "https://www.gap.gov.tr/duyuru/t-c-mevlana-kalkinma-ajansi-personel-alim-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.gap.gov.tr/duyuru/t-c-mevlana-kalkinma-ajansi-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Mevlana Kalkınma Ajansının başvuruları 13 Kasım 2026 tarihinde sona erdi.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://www.mevka.org.tr/tr/haberler/mevlana-kalkinma-ajansi-personel-alim-ilani",
+    "lastAttempt": "Mevlana Kalkınma Ajansının başvuruları 13 Kasım 2026 tarihinde sona erdi."
   },
   "https://www.gap.gov.tr/duyuru/t-c-bati-akdeniz-baka-kalkinma-ajansi-personel-alim-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.gap.gov.tr/duyuru/t-c-bati-akdeniz-baka-kalkinma-ajansi-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Batı Akdeniz Kalkınma Ajansının üç uzman kadrosu için başvurular 31 Ekim 2026’da sona erdi.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/09/20260922-4-7.pdf",
+    "lastAttempt": "Batı Akdeniz Kalkınma Ajansının üç uzman kadrosu için başvurular 31 Ekim 2026’da sona erdi."
   },
   "https://www.guneyyurt.bel.tr/kurumsal/zabita-yonetmeligi/7/": {
     "status": "ineligible",
@@ -6364,11 +6364,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://www.ipekyolu.bel.tr/duyurular/kurum-disi-kamu-isci-alimi-ilani-sozlu-mulakat-yer-degisikligi-duyurusu/4708": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "İpekyolu Belediyesinin duyurusu 14–15 Ağustos 2026 mülakatlarının yer değişikliğine ilişkin.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.ipekyolu.bel.tr/duyurular/kurum-disi-kamu-isci-alimi-ilani-sozlu-mulakat-yer-degisikligi-duyurusu/4708",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "İpekyolu Belediyesinin duyurusu 14–15 Ağustos 2026 mülakatlarının yer değişikliğine ilişkin."
   },
   "https://www.ipekyolu.bel.tr/duyurular/kurum-disi-kamu-isci-alimi-ilani/4707": {
     "status": "closed",
@@ -6465,11 +6465,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://www.esenyurt.edu.tr/duyuru/1123-02-07-2025-tarihli-32944-sayili-resmi-gazete’de-yayimlanan-ogretim-uyesi-ve-ogretim-uyesi-disindaki-ogretim-elemani-kadrolarina-personel-alimi": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Duyuru akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.esenyurt.edu.tr/duyuru/1123-02-07-2025-tarihli-32944-sayili-resmi-gazete’de-yayimlanan-ogretim-uyesi-ve-ogretim-uyesi-disindaki-ogretim-elemani-kadrolarina-personel-alimi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Duyuru akademik personel kadrolarına ilişkin."
   },
   "https://www.esenyurt.edu.tr/duyuru/1108-ogretim-uyesi-disindaki-ogretim-elemani-kadrolarina-personel-alim-ilaninin-nihai-degerlendirme-sonuclari-aciklanmistir-7": {
     "status": "closed",
@@ -6490,11 +6490,11 @@
     "evidence": "https://www.esenyurt.edu.tr/duyuru/1589-ogretim-uyesi-disindaki-ogretim-elemani-kadrolarina-personel-alim-ilaninin-on-degerlendirme-sonuclari-aciklanmistir-6"
   },
   "https://www.esenyurt.edu.tr/duyuru/1571-17-10-2026-tarihli-33403-sayili-resmi-gazetede-yayimlanan-ogretim-uyesi-ve-ogretim-uyesi-disindaki-ogretim-elemani-kadrolarina-personel-alimi": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Duyuru akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.esenyurt.edu.tr/duyuru/1571-17-10-2026-tarihli-33403-sayili-resmi-gazetede-yayimlanan-ogretim-uyesi-ve-ogretim-uyesi-disindaki-ogretim-elemani-kadrolarina-personel-alimi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Duyuru akademik personel kadrolarına ilişkin."
   },
   "https://www.esenyurt.edu.tr/duyuru/1505-ogr-uyesi-disindaki-ogr-elemani-kadrolarina-personel-alim-ilaninin nihai degerlendirme-sonuclari-aciklanmistir": {
     "status": "closed",
@@ -6722,10 +6722,10 @@
   },
   "https://www.ilan.gov.tr/ilan/2290254/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-personel-alimi-yapilacaktir": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "reason": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı.",
     "evidence": "https://www.ilan.gov.tr/ilan/2290254/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-personel-alimi-yapilacaktir",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı."
   },
   "https://batman.bel.tr/duyuru/batman-belediyesi-personel-a-s-kapsaminda-personel-alimi": {
     "status": "ineligible",
@@ -6772,31 +6772,31 @@
   },
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "8 Kasım Resmî Gazete dizininde Akseki ilanı bulundu. Bu alımın kadro tablosu ek PDF’den okunamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "8 Kasım Resmî Gazete dizininde Akseki ilanı bulundu. Bu alımın kadro tablosu ek PDF’den okunamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-gundogmus-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478729": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/antalya-ili-gundogmus-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478729",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/tokat-ili-tanoba-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478728": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Belediyenin 4 Kasım duyurusu Bakanlık sayfasına yönlendiriyor. 8 Kasım Resmî Gazete ekindeki güncel kadro tablosu okunamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/tokat-ili-tanoba-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478728",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Belediyenin 4 Kasım duyurusu Bakanlık sayfasına yönlendiriyor. 8 Kasım Resmî Gazete ekindeki güncel kadro tablosu okunamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/mugla-ili-ula-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478727": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://yerelyonetimler.csb.gov.tr/mugla-ili-ula-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478727",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "ineligible",
+    "reason": "21–23 Aralık 2026 tarihli Ula zabıta başvurusunda ön lisans ve en az 70 P93 gerekiyor.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://ula.bel.tr/duyurular/zabita-memuru-alim-ilani",
+    "lastAttempt": "21–23 Aralık 2026 tarihli Ula zabıta başvurusunda ön lisans ve en az 70 P93 gerekiyor."
   },
   "https://yerelyonetimler.csb.gov.tr/ardahan-ili-posof-ilcesi-sozlesmeli-personel-alimi-iptal-ilani-duyuru-478688": {
     "status": "cancelled",
@@ -6805,25 +6805,25 @@
     "checkedAt": "2026-11-20T08:49:36Z"
   },
   "https://yerelyonetimler.csb.gov.tr/agri-ili-eleskirt-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-ilani-duyuru-478686": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://yerelyonetimler.csb.gov.tr/agri-ili-eleskirt-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alimi-ilani-duyuru-478686",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "ineligible",
+    "reason": "5 Kasım ilanındaki bir itfaiye eri kadrosu için lisans ve en az 70 P3 gerekiyor. 7 Kasım iptal metni ayrı bir Eylül ilanını anıyor.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://resmigazete.gov.tr/eskiler/2026/11/20261105.pdf",
+    "lastAttempt": "5 Kasım ilanındaki bir itfaiye eri kadrosu için lisans ve en az 70 P3 gerekiyor. 7 Kasım iptal metni ayrı bir Eylül ilanını anıyor."
   },
   "https://yerelyonetimler.csb.gov.tr/istanbul-ili-gaziosmanpasa-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478618": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://yerelyonetimler.csb.gov.tr/istanbul-ili-gaziosmanpasa-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478618",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "ineligible",
+    "reason": "7–11 Aralık tarihli zabıta alımının kadro tablosunda P3 ve P93 puan türleri yer alıyor.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/Gaziosmanpa%C5%9Fa%20%28%C4%B0stanbul%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Zab%C4%B1ta%20Memuru%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2807-11%20Aral%C4%B1k%202026%29.pdf",
+    "lastAttempt": "7–11 Aralık tarihli zabıta alımının kadro tablosunda P3 ve P93 puan türleri yer alıyor."
   },
   "https://yerelyonetimler.csb.gov.tr/sanliurfa-ili-eyyubiye-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478617": {
-    "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://yerelyonetimler.csb.gov.tr/sanliurfa-ili-eyyubiye-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478617",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "status": "ineligible",
+    "reason": "Belediyenin ilan PDF’sindeki iki zabıta kadrosu için lisans ve P3 aranıyor.",
+    "checkedAt": "2026-11-28T06:38:49Z",
+    "evidence": "https://www.eyyubiye.bel.tr/files/9/6ae20dc72ed1a.pdf",
+    "lastAttempt": "Belediyenin ilan PDF’sindeki iki zabıta kadrosu için lisans ve P3 aranıyor."
   },
   "https://oka.gov.tr/tr/duyuru/t-c-orta-anadolu-kalkinma-ajansi-oran-personel-alim-ilani": {
     "status": "ineligible",
@@ -7113,11 +7113,11 @@
     "checkedAt": "2026-11-20T11:19:41Z"
   },
   "https://www.kadikoy.bel.tr/duyuru-detay/2026-sozlesmeli-personel-alimi-1-sira-numarali-sozlu-sinav-sonucuna-itiraz-sonucu-guncellenen-kesin-liste-498": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kadıköy Belediyesi sözlü sınav sonucuna yapılan itirazın sonucunu yayımlamış.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.kadikoy.bel.tr/duyuru-detay/2026-sozlesmeli-personel-alimi-1-sira-numarali-sozlu-sinav-sonucuna-itiraz-sonucu-guncellenen-kesin-liste-498",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kadıköy Belediyesi sözlü sınav sonucuna yapılan itirazın sonucunu yayımlamış."
   },
   "https://www.kadikoy.bel.tr/duyuru-detay/2026-kadikoy-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alimi-sozlu-mulakat-sonuclari-496": {
     "status": "closed",
@@ -7125,11 +7125,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://www.kadikoy.bel.tr/tr/duyuru-detay/2026-sozlesmeli-personel-alimi-1-sira-numarali-sozlu-sinav-sonucuna-itiraz-sonucu-guncellenen-kesin-liste-498": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kadıköy Belediyesi sözlü sınav sonucuna yapılan itirazın sonucunu yayımlamış.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.kadikoy.bel.tr/tr/duyuru-detay/2026-sozlesmeli-personel-alimi-1-sira-numarali-sozlu-sinav-sonucuna-itiraz-sonucu-guncellenen-kesin-liste-498",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kadıköy Belediyesi sözlü sınav sonucuna yapılan itirazın sonucunu yayımlamış."
   },
   "https://www.kadikoy.bel.tr/tr/duyuru-detay/2026-kadikoy-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alimi-sozlu-mulakat-sonuclari-496": {
     "status": "closed",
@@ -7172,11 +7172,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://www.kafkas.edu.tr/pdb/tr/duyuru2/uNiVERSiTEMiZ-Dis-HEKiMLigi-FAKuLTESi-ogRETiM-GoREVLiSi-ALiMi-iLANi-GiRis-SiNAViNA-iLisKiN-DUYURU-27270": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Duyuru akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.kafkas.edu.tr/pdb/tr/duyuru2/uNiVERSiTEMiZ-Dis-HEKiMLigi-FAKuLTESi-ogRETiM-GoREVLiSi-ALiMi-iLANi-GiRis-SiNAViNA-iLisKiN-DUYURU-27270",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Duyuru akademik personel kadrolarına ilişkin."
   },
   "https://www.kafkas.edu.tr/pdb/tr/duyuru2/ESKi-HuKuMLu-SuREKLi-isci-ALiMi-SoZLu-SiNAV-SONUcLARi-27216": {
     "status": "closed",
@@ -7184,11 +7184,11 @@
     "checkedAt": "2026-11-21T01:52:24Z"
   },
   "https://www.kafkas.edu.tr/pdb/tr/duyuru2/uNiVERSiTEMiZ-Dis-HEKiMLigi-FAKuLTESi-VE-ATATuRK-SAgLiK-HiZMETLERi-MESLEK-YuKSEKOKULU-ogRETiM-GoREVLiSi-ALiMi-iLANi-GiRis-SiNAViNA-iLisKiN-DUYURU-27119": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Duyuru akademik personel kadrolarına ilişkin.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.kafkas.edu.tr/pdb/tr/duyuru2/uNiVERSiTEMiZ-Dis-HEKiMLigi-FAKuLTESi-VE-ATATuRK-SAgLiK-HiZMETLERi-MESLEK-YuKSEKOKULU-ogRETiM-GoREVLiSi-ALiMi-iLANi-GiRis-SiNAViNA-iLisKiN-DUYURU-27119",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Duyuru akademik personel kadrolarına ilişkin."
   },
   "https://www.kafkas.edu.tr/pdb/tr/duyuru2/ESKi-HuKuMLu-SuREKLi-isci-ALiMi-NOTER-KURA-SONUcLARi-VE-SoZLu-SiNAV-DUYURUSU-27018": {
     "status": "closed",
@@ -7277,17 +7277,17 @@
   },
   "https://www.karacadag.gov.tr/duyuru/27503/zafer-kalkinma-ajansi-personel-alim-ilani/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.karacadag.gov.tr/duyuru/27503/zafer-kalkinma-ajansi-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı."
   },
   "https://www.karacadag.gov.tr/duyuru/27502/tc-dogu-karadeniz-kalkinma-ajansi-doka-personel-alim-ilani/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T06:38:49Z",
     "evidence": "https://www.karacadag.gov.tr/duyuru/27502/tc-dogu-karadeniz-kalkinma-ajansi-doka-personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Güncel ilanın P94 kadro şartı ve başvuru dönemi birlikte doğrulanamadı."
   },
   "https://www.karacadag.gov.tr/duyuru/27499/tc-orta-anadolu-kalkinma-ajansi-oran-personel-alim-ilani/": {
     "status": "ineligible",
