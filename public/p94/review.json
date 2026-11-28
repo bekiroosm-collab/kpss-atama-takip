@@ -7306,14 +7306,14 @@
     "status": "closed",
     "reason": "Resmî başvuru takviminde son gün 22.11.2026.",
     "checkedAt": "2026-11-28T08:26:17Z",
-    "evidence": "OKA",
+    "evidence": "https://oka.gov.tr/duyuru/orta-karadeniz-kalkinma-ajansi-oka-personel-alimi-duyurusu",
     "lastAttempt": "Resmî başvuru takviminde son gün 22.11.2026."
   },
   "https://www.karacadag.gov.tr/duyuru/27495/dogu-marmara-kalkinma-ajansi-marka-personel-alim-ilani/": {
     "status": "closed",
     "reason": "Resmî başvuru takviminde son gün 27.10.2026.",
     "checkedAt": "2026-11-28T08:26:17Z",
-    "evidence": "2026",
+    "evidence": "https://marka.org.tr/dogu-marmara-kalkinma-ajansi-personel-alim-ilani-2026-2/",
     "lastAttempt": "Resmî başvuru takviminde son gün 27.10.2026."
   },
   "https://www.karacadag.gov.tr/duyuru/27494/bati-akdeniz-kalkinma-ajansi-baka-personel-alim-ilani/": {
