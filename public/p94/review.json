@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı ayrıntı ekranında kadro tablosu ve başvuru tarihleri boş. Karabağlar için resmî tablo aranacak.",
+    "reason": "Kariyer Kapısı ayrıntısında kadro tablosu görüntülenemedi. Karabağlar Belediyesinin güncel çevre mühendisi başvuru metni yeniden aranacak.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-28T01:50:59Z",
-    "lastAttempt": "Kariyer Kapısı ayrıntı ekranında kadro tablosu ve başvuru tarihleri boş. Karabağlar için resmî tablo aranacak."
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "lastAttempt": "Kariyer Kapısı ayrıntısında kadro tablosu görüntülenemedi. Karabağlar Belediyesinin güncel çevre mühendisi başvuru metni yeniden aranacak."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -2347,11 +2347,11 @@
     "lastAttempt": "Alaca Belediyesi mevcut memurların zabıta memurluğuna geçiş sınavını duyuruyor."
   },
   "https://www.alaca.bel.tr/zabita-ekipleri-ramazan-ayi-oncesi-firinlarda-denetim-gerceklestirdi/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Fırın denetimi hakkında belediye haberi.",
     "evidence": "https://www.alaca.bel.tr/zabita-ekipleri-ramazan-ayi-oncesi-firinlarda-denetim-gerceklestirdi/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Fırın denetimi hakkında belediye haberi."
   },
   "https://pdb.alanya.edu.tr/disiplin/disiplin/formlar/yeminli-katip-yemin-tutanagi/": {
     "status": "pending",
@@ -2362,52 +2362,52 @@
   },
   "https://pdb.alanya.edu.tr/idari-personel/atama-islemleri/sozlesmeli-personel/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Bu turda resmî sayfa içeriğine erişilemedi. Bağlantı yeniden kontrol edilecek.",
     "evidence": "https://pdb.alanya.edu.tr/idari-personel/atama-islemleri/sozlesmeli-personel/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu turda resmî sayfa içeriğine erişilemedi. Bağlantı yeniden kontrol edilecek."
   },
   "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4b-sozlesmeli-personel-alimi-yedek-yerlestirme-sonuclari-ile-ilgili-duyuru-6/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Üniversite yedekten atanmaya hak kazananlardan belge istiyor.",
     "evidence": "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4b-sozlesmeli-personel-alimi-yedek-yerlestirme-sonuclari-ile-ilgili-duyuru-6/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversite yedekten atanmaya hak kazananlardan belge istiyor."
   },
   "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4b-sozlesmeli-personel-alimi-yedek-yerlestirme-sonuclari-ile-ilgili-duyuru-5/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Üniversite yedek yerleştirme sonuçlarını duyuruyor.",
     "evidence": "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4b-sozlesmeli-personel-alimi-yedek-yerlestirme-sonuclari-ile-ilgili-duyuru-5/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversite yedek yerleştirme sonuçlarını duyuruyor."
   },
   "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4b-sozlesmeli-personel-alimi-yerlestirme-sonuclari-ile-ilgili-duyuru-1/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Psikolog, büro ve destek personeli yerleştirme sonuçları yayımlanmış.",
     "evidence": "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4b-sozlesmeli-personel-alimi-yerlestirme-sonuclari-ile-ilgili-duyuru-1/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Psikolog, büro ve destek personeli yerleştirme sonuçları yayımlanmış."
   },
   "https://pdb.alanya.edu.tr/duyuru/sozlesmeli-personel-alim-ilani-2/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Başvurular 3–17 Nisan 2026 tarihinde alındı.",
     "evidence": "https://pdb.alanya.edu.tr/duyuru/sozlesmeli-personel-alim-ilani-2/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Başvurular 3–17 Nisan 2026 tarihinde alındı."
   },
   "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-kpss-2025-2-4-b-sozlesmeli-personel-alimi-yerlestirme-sonuclari-ile-ilgili-duyuru/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Bu turda resmî sayfa içeriğine erişilemedi. Bağlantı yeniden kontrol edilecek.",
     "evidence": "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-kpss-2025-2-4-b-sozlesmeli-personel-alimi-yerlestirme-sonuclari-ile-ilgili-duyuru/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu turda resmî sayfa içeriğine erişilemedi. Bağlantı yeniden kontrol edilecek."
   },
   "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4-b-sozlesmeli-personel-alimi-yedek-yerlestirme-sonuclari-ile-ilgili-duyuru-1/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Bu turda resmî sayfa içeriğine erişilemedi. Bağlantı yeniden kontrol edilecek.",
     "evidence": "https://pdb.alanya.edu.tr/duyuru/alanya-alaaddin-keykubat-universitesi-4-b-sozlesmeli-personel-alimi-yedek-yerlestirme-sonuclari-ile-ilgili-duyuru-1/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu turda resmî sayfa içeriğine erişilemedi. Bağlantı yeniden kontrol edilecek."
   },
   "https://www.aliaga.bel.tr/kurumsal/mudurlukler/zabita-mudurlugu": {
     "status": "ineligible",
@@ -2424,18 +2424,18 @@
     "lastAttempt": "Altınordu Belediyesi bu geçici işçiler için Eylül 2026 içinde işe başlatma öngörmüş."
   },
   "https://www.altinordu.bel.tr/altinordu-da-zabita-personellerine-mevzuat-egitimi": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Mevcut zabıta personeline mevzuat eğitimi verilmiş.",
     "evidence": "https://www.altinordu.bel.tr/altinordu-da-zabita-personellerine-mevzuat-egitimi",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Mevcut zabıta personeline mevzuat eğitimi verilmiş."
   },
   "https://www.altinordu.bel.tr/altinordu-belediyesi-zabitasindan-dilenci-operasyonu": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Belediye zabıta denetiminin sonucunu duyuruyor.",
     "evidence": "https://www.altinordu.bel.tr/altinordu-belediyesi-zabitasindan-dilenci-operasyonu",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Belediye zabıta denetiminin sonucunu duyuruyor."
   },
   "https://altinozu.bel.tr/sayfa/zabita-hizmetleri": {
     "status": "ineligible",
@@ -2450,18 +2450,18 @@
     "reason": "Duyuru, daha önce başvurmuş adayların sınav, değerlendirme veya yerleştirme aşamasına ilişkin."
   },
   "https://altinozu.bel.tr/duyurular/sozlesmeli-personel-alimi-mulakat-listeleri": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Mülakat listesi 26 Ocak 2026 tarihli sınav için yayımlanmış.",
     "evidence": "https://altinozu.bel.tr/duyurular/sozlesmeli-personel-alimi-mulakat-listeleri",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Mülakat listesi 26 Ocak 2026 tarihli sınav için yayımlanmış."
   },
   "https://altinozu.bel.tr/duyurular/altinozu-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Resmî başvuru dönemi 3–17 Ocak 2026.",
     "evidence": "https://altinozu.bel.tr/duyurular/altinozu-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Resmî başvuru dönemi 3–17 Ocak 2026."
   },
   "https://altintas.bel.tr/hizmetlerimiz/zabita-hizmetleri": {
     "status": "ineligible",
@@ -2471,32 +2471,32 @@
     "lastAttempt": "Sayfa belediye hizmetini veya mevcut personelin kurum içi işlemini açıklıyor."
   },
   "https://www.amasya.edu.tr/universitemiz/komisyonlar/yabanci-uyruklu-sozlesmeli-ogretim-elemani-degerlendirme-komisyonu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası.",
     "evidence": "https://www.amasya.edu.tr/universitemiz/komisyonlar/yabanci-uyruklu-sozlesmeli-ogretim-elemani-degerlendirme-komisyonu/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası."
   },
   "https://pdb.amasya.edu.tr/yabanci-uyruklu-personel/yabanci-uyruklu-sozlesmeli-ogretim-elemani-istihdami-basvurusunda-istenilecek-evraklar.aspx": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası.",
     "evidence": "https://pdb.amasya.edu.tr/yabanci-uyruklu-personel/yabanci-uyruklu-sozlesmeli-ogretim-elemani-istihdami-basvurusunda-istenilecek-evraklar.aspx",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası."
   },
   "https://pdb.amasya.edu.tr/yabanci-uyruklu-personel/yabanci-uyruklu-sozlesmeli-ogretim-elemani-istihdaminda-izlenecek-yol.aspx": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası.",
     "evidence": "https://pdb.amasya.edu.tr/yabanci-uyruklu-personel/yabanci-uyruklu-sozlesmeli-ogretim-elemani-istihdaminda-izlenecek-yol.aspx",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası."
   },
   "https://pdb.amasya.edu.tr/yabanci-uyruklu-personel/yabanci-uyruklu-sozlesmeli-ogretim-elemani-istihdami-kilavuzu.aspx": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T03:24:51Z",
+    "reason": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası.",
     "evidence": "https://pdb.amasya.edu.tr/yabanci-uyruklu-personel/yabanci-uyruklu-sozlesmeli-ogretim-elemani-istihdami-kilavuzu.aspx",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Amasya Üniversitesinin yabancı uyruklu öğretim elemanları için komisyon veya istihdam işlemleri sayfası."
   },
   "https://pdb.amasya.edu.tr/ilanlar/idari-personel-ilanlari/4b-li-personel-alim-ilanlari.aspx": {
     "status": "pending",
