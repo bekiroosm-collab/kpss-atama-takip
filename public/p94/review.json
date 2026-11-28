@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı ayrıntısında resmî kadro tablosu görünmüyor. Belediyenin duyurularında güncel tablo doğrulanamadı.",
+    "reason": "Kariyer Kapısı ilan numarası, tarih ve kadro bilgilerini göstermedi. Karabağlar Belediyesinin çevre mühendisi ilanının asıl tablosu aranacak.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-28T03:41:29Z",
-    "lastAttempt": "Kariyer Kapısı ayrıntısında resmî kadro tablosu görünmüyor. Belediyenin duyurularında güncel tablo doğrulanamadı."
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Kariyer Kapısı ilan numarası, tarih ve kadro bilgilerini göstermedi. Karabağlar Belediyesinin çevre mühendisi ilanının asıl tablosu aranacak."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -4043,11 +4043,11 @@
     "lastAttempt": "Bu kontrolde açık bir P94 kadrosu ile başvuru süresi birlikte doğrulanamadı."
   },
   "https://www.bozkir.bel.tr/ilan/1-adet-memur-alimi-mimar": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "27 Haziran 2025 tarihli mimar kadrosunun arşiv ilanı.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.bozkir.bel.tr/ilan/1-adet-memur-alimi-mimar",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "27 Haziran 2025 tarihli mimar kadrosunun arşiv ilanı."
   },
   "https://www.bozuyuk.bel.tr/haber/baskan-bakkalcioglu-ndan-zabita-mudurlugu-ne-zabita-haftasi-ziyareti": {
     "status": "pending",
@@ -4147,11 +4147,11 @@
     "checkedAt": "2026-11-19T12:12:08Z"
   },
   "https://www.csgb.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alim-ilani/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "ÇSGB bilişim personeli başvuruları 11 Ekim 2026 tarihinde sona erdi.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.csgb.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "ÇSGB bilişim personeli başvuruları 11 Ekim 2026 tarihinde sona erdi."
   },
   "https://www.csgb.gov.tr/duyurular/sozlesmeli-bilisim-personeli-sinavi-sonucuna-gore-atanmaya-hak-kazanan-adaylara-iliskin-duyuru/": {
     "status": "closed",
@@ -4518,11 +4518,11 @@
     "checkedAt": "2026-11-19T12:12:08Z"
   },
   "https://www.cide.bel.tr/duyuru/30-12-2025-tarihli-cide-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani-hk.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.cide.bel.tr/duyuru/30-12-2025-tarihli-cide-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-personel-alim-ilani-hk.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "İlanın ekinde lisans ve P3 şartı var. Başvurular 20 Şubat 2026 tarihinde kapandı.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "evidence": "https://www.cide.bel.tr/uploads/files/30-12-2025%20-%20S%C3%96ZLE%C5%9EMEL%C4%B0%20PERSONEL%20ALIM%20%C4%B0LANI.pdf",
+    "lastAttempt": "İlanın ekinde lisans ve P3 şartı var. Başvurular 20 Şubat 2026 tarihinde kapandı."
   },
   "https://www.cide.bel.tr/duyuru/cide-belediye-baskanligi-sozlesmeli-veteriner-hekim-alimi-sozlu-mulakat-sonucu-asil-ve-yedek-listesi.html": {
     "status": "closed",
@@ -4533,10 +4533,10 @@
   },
   "https://www.cide.bel.tr/duyuru/cide-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-veteriner-hekim-ve-veteriner-saglik-teknikeri-alim-ilani.html": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.cide.bel.tr/duyuru/cide-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-veteriner-hekim-ve-veteriner-saglik-teknikeri-alim-ilani.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.cide.bel.tr/ilan/kurum-disi-kamu-isci-alimi-beden-iscisi.html": {
     "status": "pending",
@@ -4560,18 +4560,18 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.cide.bel.tr/ilan/cide-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-veteriner-hekim-ve-veteriner-saglik-teknikeri-alim-ilani.html": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "18 Eylül 2023 ilanındaki iki kadro için P3 ve P93 isteniyor.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.cide.bel.tr/ilan/cide-belediye-baskanligina-ilk-defa-atanmak-uzere-sozlesmeli-veteriner-hekim-ve-veteriner-saglik-teknikeri-alim-ilani.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "18 Eylül 2023 ilanındaki iki kadro için P3 ve P93 isteniyor."
   },
   "https://www.cide.bel.tr/ilan/bayram-yusuf-aslan-mesleki-ve-teknik-anadolu-lisesi-mudurlugu-kadrosuz-sozlesmeli-usta-ogretici-alim-ilani.html": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.cide.bel.tr/ilan/bayram-yusuf-aslan-mesleki-ve-teknik-anadolu-lisesi-mudurlugu-kadrosuz-sozlesmeli-usta-ogretici-alim-ilani.html",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.cide.bel.tr/duyuru/duyuru/zabita-mudurlugu-emir-ve-yasaklari-uygulama-yonetmeligi.html": {
     "status": "pending",
@@ -4723,17 +4723,17 @@
   },
   "https://www.deliilyas.bel.tr/2025/12/23/personel-alimi-basvuru-evraklari/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu sayfadan açık P94 kadrosu ve başvuru dönemi birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.deliilyas.bel.tr/2025/12/23/personel-alimi-basvuru-evraklari/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu sayfadan açık P94 kadrosu ve başvuru dönemi birlikte doğrulanamadı."
   },
   "https://www.deliilyas.bel.tr/2025/11/13/personel-alim-ilani/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.deliilyas.bel.tr/2025/11/13/personel-alim-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Belediyenin ilan PDF’sinde başvuru aralığı 24–26 Aralık 2025.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "evidence": "https://www.deliilyas.bel.tr/deliilyas.pdf",
+    "lastAttempt": "Belediyenin ilan PDF’sinde başvuru aralığı 24–26 Aralık 2025."
   },
   "https://www.denizlibozkurt.bel.tr/kurumsal/zabita-karakolu": {
     "status": "ineligible",
@@ -4746,11 +4746,11 @@
     "checkedAt": "2026-11-19T12:12:08Z"
   },
   "https://www.derinkuyu.bel.tr/duyuru/derinkuyu-belediye-baskanligi-memur-alimi-sozlu-sinava-gire/127/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Derinkuyu Belediyesi sözlü sınava girecek adayları duyuruyor.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.derinkuyu.bel.tr/duyuru/derinkuyu-belediye-baskanligi-memur-alimi-sozlu-sinava-gire/127/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Derinkuyu Belediyesi sözlü sınava girecek adayları duyuruyor."
   },
   "https://www.develi.bel.tr/birim/zabita-mudurlugu": {
     "status": "ineligible",
@@ -4808,17 +4808,17 @@
   },
   "https://www.devrek.bel.tr/duyuru/memur-alim-ilani": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.devrek.bel.tr/duyuru/memur-alim-ilani",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.devrek.bel.tr/duyuru/memur-alimi-sozlu-sinava-girmeye-hak-kazanan-aday-listesi": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.devrek.bel.tr/duyuru/memur-alimi-sozlu-sinava-girmeye-hak-kazanan-aday-listesi",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dilovasi.bel.tr/duyuru/1/75/gecici-isci-alimi-noter-kura-sonuclari-ve-evrak-teslim-duyurusu.aspx": {
     "status": "closed",
@@ -5141,45 +5141,45 @@
   },
   "https://www.dap.gov.tr/duyuru/mevlana-kalkinma-ajansi-mevka-personel-alim-ilani-4025/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.dap.gov.tr/duyuru/mevlana-kalkinma-ajansi-mevka-personel-alim-ilani-4025/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dap.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-marka-personel-alim-ilani-4024/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.dap.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-marka-personel-alim-ilani-4024/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dap.gov.tr/duyuru/tc-bati-akdeniz-kalkinma-ajansi-baka-personel-alim-ilani-4023/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.dap.gov.tr/duyuru/tc-bati-akdeniz-kalkinma-ajansi-baka-personel-alim-ilani-4023/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dap.gov.tr/duyuru/bursa-eskisehir-bilecik-kalkinma-ajansi-bebka-personel-alim-ilani-3021/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.dap.gov.tr/duyuru/bursa-eskisehir-bilecik-kalkinma-ajansi-bebka-personel-alim-ilani-3021/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dap.gov.tr/duyuru/ahiler-kalkinma-ajansi-ahika-personel-alim-ilani-basvuru-suresi-uzatildi-2019/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.dap.gov.tr/duyuru/ahiler-kalkinma-ajansi-ahika-personel-alim-ilani-basvuru-suresi-uzatildi-2019/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dap.gov.tr/duyuru/karacadag-kalkinma-ajansi-personel-alim-ilani-2020/": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
     "evidence": "https://www.dap.gov.tr/duyuru/karacadag-kalkinma-ajansi-personel-alim-ilani-2020/",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek."
   },
   "https://www.dap.gov.tr/duyuru/mevlana-kalkinma-ajansi-mevka-personel-alim-ilani-basvuru-suresi-uzatildi-2015/": {
     "status": "pending",
@@ -19496,5 +19496,47 @@
     "reason": "Dolu ve boş kadrolarda değişiklik kararı. P94 başvuru ilanı içermiyor.",
     "checkedAt": "2026-11-27T23:46:06Z",
     "evidence": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261128-17.pdf"
+  },
+  "https://www.agacoren.bel.tr/birim/zabita-amirligi": {
+    "status": "ineligible",
+    "reason": "Ağaçören Belediyesinin zabıta birimini tanıtan sayfa.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Ağaçören Belediyesinin zabıta birimini tanıtan sayfa.",
+    "evidence": "https://www.agacoren.bel.tr/birim/zabita-amirligi"
+  },
+  "https://www.agacoren.bel.tr/duyuru/birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Bu adresteki resmî metin okunamadı. Bağlantı yeniden denenecek.",
+    "evidence": "https://www.agacoren.bel.tr/duyuru/birim/zabita-amirligi"
+  },
+  "https://www.aksaray.bel.tr/HaberDetay.aspx?icerikId=6470&AKSARAY-BELEDIYESI-ZABITA-EKIPLERINDEN-FIRINLARA-GECE-DENETIMI": {
+    "status": "ineligible",
+    "reason": "Aksaray Belediyesi fırın denetimini haber veriyor.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Aksaray Belediyesi fırın denetimini haber veriyor.",
+    "evidence": "https://www.aksaray.bel.tr/HaberDetay.aspx?icerikId=6470&AKSARAY-BELEDIYESI-ZABITA-EKIPLERINDEN-FIRINLARA-GECE-DENETIMI"
+  },
+  "https://www.alacam.bel.tr/hizmet/zabita-hizmetleri": {
+    "status": "ineligible",
+    "reason": "Alaçam Belediyesinin zabıta hizmetlerini tanıtan sayfa.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Alaçam Belediyesinin zabıta hizmetlerini tanıtan sayfa.",
+    "evidence": "https://www.alacam.bel.tr/hizmet/zabita-hizmetleri"
+  },
+  "https://www.alacam.bel.tr/birim/zabita-amirligi": {
+    "status": "pending",
+    "reason": "Alaçam Belediyesi bu adreste sayfa bulunamadığı yanıtını verdi.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Alaçam Belediyesi bu adreste sayfa bulunamadığı yanıtını verdi.",
+    "evidence": "https://www.alacam.bel.tr/birim/zabita-amirligi"
+  },
+  "https://araban.bel.tr/haber/ilcemizde-marketlere-yonelik-zabita-denetimlerimiz-araliksiz-suruyor.html": {
+    "status": "ineligible",
+    "reason": "Araban Belediyesi marketlerde yaptığı denetimleri duyuruyor.",
+    "checkedAt": "2026-11-28T05:26:24Z",
+    "lastAttempt": "Araban Belediyesi marketlerde yaptığı denetimleri duyuruyor.",
+    "evidence": "https://araban.bel.tr/haber/ilcemizde-marketlere-yonelik-zabita-denetimlerimiz-araliksiz-suruyor.html"
   }
 }
