@@ -125,8 +125,8 @@
     "status": "pending",
     "reason": "Karabağlar Belediyesi için Kariyer Kapısı ayrıntısında kadro tablosu okunamadı.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-28T09:12:16Z",
-    "lastAttempt": "Kariyer Kapısı ayrıntı sayfasında kadro tablosu ve şartlar görüntülenemedi."
+    "checkedAt": "2026-11-28T10:09:17Z",
+    "lastAttempt": "Kariyer Kapısı ayrıntı ekranında başvuru koşulları yüklenmedi."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -2670,8 +2670,8 @@
   },
   "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/G%C3%BCndo%C4%9Fmu%C5%9F%20%28Antalya%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28M%C3%BChendis%20%28%C4%B0n%C5%9Faat%29%2C%20Mimar%2C%20Muhasebeci%2C%20Memur%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2821%20Aral%C4%B1k%202026-05%20Ocak%202027%29.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-21T00:20:36Z",
-    "reason": "Gündoğmuş Belediyesinin mühendis, mimar, muhasebeci ve memur kadrolarında lisans ve P3 gerekiyor.",
+    "checkedAt": "2026-11-28T10:09:17Z",
+    "reason": "Gündoğmuş ilanındaki dört unvan için lisans ve KPSS P3 isteniyor.",
     "evidence": "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/G%C3%BCndo%C4%9Fmu%C5%9F%20%28Antalya%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28M%C3%BChendis%20%28%C4%B0n%C5%9Faat%29%2C%20Mimar%2C%20Muhasebeci%2C%20Memur%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2821%20Aral%C4%B1k%202026-05%20Ocak%202027%29.pdf"
   },
   "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/Ula%20%28Mu%C4%9Fla%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Zab%C4%B1ta%20Memuru%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2821-23%20Aral%C4%B1k%202026%29.pdf": {
@@ -2682,8 +2682,8 @@
   },
   "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/Bergama%20%28%C4%B0zmir%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Memur%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2809-11%20Aral%C4%B1k%202026%29.pdf": {
     "status": "ineligible",
-    "checkedAt": "2026-11-21T00:20:36Z",
-    "reason": "Bergama Belediyesinin memur kadrolarında lisans ve P3 gerekiyor.",
+    "checkedAt": "2026-11-28T10:09:17Z",
+    "reason": "Bergama memur kadrolarında lisans ve KPSS P3 isteniyor.",
     "evidence": "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/Bergama%20%28%C4%B0zmir%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Memur%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2809-11%20Aral%C4%B1k%202026%29.pdf"
   },
   "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/Gaziosmanpa%C5%9Fa%20%28%C4%B0stanbul%29%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Zab%C4%B1ta%20Memuru%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2807-11%20Aral%C4%B1k%202026%29.pdf": {
@@ -3457,11 +3457,11 @@
     "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.bilecik.edu.tr/personel/Icerik/20-08-2026-tarihli-ve-33346-sayili-resmi-gazete-de-yayimlanan-4-b-sozlesmeli-personel-lani": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T10:09:17Z",
+    "reason": "Üniversite, 20 Ağustos alımı için yedek listeden atama duyurularını yayımladı.",
     "evidence": "https://www.bilecik.edu.tr/personel/Icerik/20-08-2026-tarihli-ve-33346-sayili-resmi-gazete-de-yayimlanan-4-b-sozlesmeli-personel-lani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Üniversite, 20 Ağustos alımı için yedek listeden atama duyurularını yayımladı."
   },
   "https://ihale.bilecik.edu.tr/ihaledetay.aspx?id=14201": {
     "status": "pending",
@@ -4925,8 +4925,8 @@
   },
   "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/%C4%B0zmir%20B%C3%BCy%C3%BCk%C5%9Fehir%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Zab%C4%B1ta%20Memuru%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2830%20Kas%C4%B1m-04%20Aral%C4%B1k%202026%29.pdf": {
     "status": "ineligible",
-    "reason": "Kurumun ilanındaki kadro tablosunda P3 ve P93 puan türü aranıyor.",
-    "checkedAt": "2026-11-19T15:25:32Z",
+    "reason": "İzmir Büyükşehir Belediyesi zabıta kadroları lisans P3 ve ön lisans P93 düzeyinde.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://mezun.omu.edu.tr/tr/is-hayati/is-staj/kpss-b-ilanlari/%C4%B0zmir%20B%C3%BCy%C3%BCk%C5%9Fehir%20Belediye%20Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1%20Personel%20%28Zab%C4%B1ta%20Memuru%29%20Al%C4%B1m%20%C4%B0lan%C4%B1%20%2830%20Kas%C4%B1m-04%20Aral%C4%B1k%202026%29.pdf"
   },
   "https://mardin.adalet.gov.tr/mardin-adliyesi-sozlesmeli-koruma-ve-guvenlik-gorevlisi-sinavina-iliskin-duyuru": {
@@ -5660,11 +5660,11 @@
     "lastAttempt": "Sayfa belediye hizmetini veya mevcut personelin kurum içi işlemini açıklıyor."
   },
   "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-14-yedek-ilani/": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Temmuz alımının 14. yedek çağrısı yayımlanmış.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://personel.ebyu.edu.tr/06-07-2026-tarihli-ve-33302-sayili-resmi-gazetede-yayimlanan-sozlesmeli-personel-14-yedek-ilani/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Temmuz alımının 14. yedek çağrısı yayımlanmış."
   },
   "https://www.ogu.edu.tr/Web/DuyuruDetay/13626": {
     "status": "pending",
@@ -5855,18 +5855,18 @@
     "lastAttempt": "9 Kasım duyurusu, mevcut adayların 16–17 Kasım 2026 sözlü ve uygulamalı sınavına ilişkin."
   },
   "https://www.gsb.gov.tr/tr/duyuru/304956-2026-yili-sozlesmeli-diyetisyen-psikolog-ve-sosyal-calismaci-alimi-sozlu-sinav-duyurusu": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "GSB’nin sınav duyurusu, 2024 KPSS P3 ile seçilen adaylara yönelik.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.gsb.gov.tr/tr/duyuru/304956-2026-yili-sozlesmeli-diyetisyen-psikolog-ve-sosyal-calismaci-alimi-sozlu-sinav-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "GSB’nin sınav duyurusu, 2024 KPSS P3 ile seçilen adaylara yönelik."
   },
   "https://www.gsb.gov.tr/tr/duyuru/303398-2026-yili-sozlesmeli-yurt-yonetim-personeli-ve-genclik-calisani-alimi-sozlu-sinav-duyurusu": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "GSB’nin sınav duyurusu, 2024 KPSS P3 ile seçilen adaylara yönelik.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.gsb.gov.tr/tr/duyuru/303398-2026-yili-sozlesmeli-yurt-yonetim-personeli-ve-genclik-calisani-alimi-sozlu-sinav-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "GSB’nin sınav duyurusu, 2024 KPSS P3 ile seçilen adaylara yönelik."
   },
   "https://www.gsb.gov.tr/tr/duyuru/303073-2026-yili-sozlesmeli-bilisim-personeli-alimi-duyurusu": {
     "status": "ineligible",
@@ -5876,11 +5876,11 @@
     "lastAttempt": "18 Eylül tarihli ilan, değerlendirmede 2024 KPSS P3 puanını kullanıyor."
   },
   "https://www.gsb.gov.tr/tr/duyuru/302877-2026-yili-sozlesmeli-antrenor-alimi-sozlu-ve-uygulamali-sinav-duyurusu": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "GSB’nin sınav duyurusu, 2024 KPSS P3 ile seçilen adaylara yönelik.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.gsb.gov.tr/tr/duyuru/302877-2026-yili-sozlesmeli-antrenor-alimi-sozlu-ve-uygulamali-sinav-duyurusu",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "GSB’nin sınav duyurusu, 2024 KPSS P3 ile seçilen adaylara yönelik."
   },
   "https://www.gsb.gov.tr/tr/duyuru/302554-2026-yili-surekli-isci-alimi-sozlu-sinav-sonuc-duyurusu": {
     "status": "closed",
@@ -5890,23 +5890,23 @@
   "https://www.canakkalegeyikli.bel.tr/ilanlar/detay/5078/29062026-1-adet-beden-iscisitemizlik-gecici-isci-alimi-nihai-basari-listesi": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.canakkalegeyikli.bel.tr/ilanlar/detay/5078/29062026-1-adet-beden-iscisitemizlik-gecici-isci-alimi-nihai-basari-listesi",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurum bağlantısı bu kontrolde açılamadı."
   },
   "https://www.canakkalegeyikli.bel.tr/ilanlar/detay/5075/20022026-1-adet-zeytin-agaci-budamacisi-gecici-isci-alimi-nihai-basari-listesi": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Şubat 2026 geçici işçi alımının nihai başarı listesi.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.canakkalegeyikli.bel.tr/ilanlar/detay/5075/20022026-1-adet-zeytin-agaci-budamacisi-gecici-isci-alimi-nihai-basari-listesi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Şubat 2026 geçici işçi alımının nihai başarı listesi."
   },
   "https://www.canakkalegeyikli.bel.tr/ilanlar/detay/5074/20022026-1-adet-hemsire-yardimcisi-gecici-isci-alimi-nihai-basari-listesi": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Şubat 2026 geçici işçi alımının nihai başarı listesi.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.canakkalegeyikli.bel.tr/ilanlar/detay/5074/20022026-1-adet-hemsire-yardimcisi-gecici-isci-alimi-nihai-basari-listesi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Şubat 2026 geçici işçi alımının nihai başarı listesi."
   },
   "https://giresun.bel.tr/2026/11/04/zabita-ekipleri-koy-okullarinin-onunde-yaya-gecidi-calismasi-yapti/": {
     "status": "pending",
@@ -6031,9 +6031,9 @@
   "https://www.goc.gov.tr/sozlesmeli-bilisim-personeli-sinav-duyurusu2026": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.goc.gov.tr/sozlesmeli-bilisim-personeli-sinav-duyurusu2026",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurum bağlantısı bu kontrolde açılamadı."
   },
   "https://www.goc.gov.tr/il-goc-uzman-yardimciligi-giris-sinavi-basvuru-sonuclari-aciklanmistir1026": {
     "status": "pending",
@@ -6773,9 +6773,9 @@
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744": {
     "status": "pending",
     "reason": "8 Kasım Resmî Gazete dizininde Akseki ilanı bulundu. Bu alımın kadro tablosu ek PDF’den okunamadı.",
-    "checkedAt": "2026-11-28T09:12:16Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/antalya-ili-akseki-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478744",
-    "lastAttempt": "8 Kasım Resmî Gazete dizininde kurum ilanı yer alıyor. Güncel kadro tablosu okunamadı."
+    "lastAttempt": "Yerel Yönetimler bağlantısı açılamadı. Kasım ilanına ait resmî kadro tablosu doğrulanamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/antalya-ili-gundogmus-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478729": {
     "status": "pending",
@@ -6787,9 +6787,9 @@
   "https://yerelyonetimler.csb.gov.tr/tokat-ili-tanoba-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478728": {
     "status": "pending",
     "reason": "Belediyenin 4 Kasım duyurusu Bakanlık sayfasına yönlendiriyor. 8 Kasım Resmî Gazete ekindeki güncel kadro tablosu okunamadı.",
-    "checkedAt": "2026-11-28T09:12:16Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://yerelyonetimler.csb.gov.tr/tokat-ili-tanoba-belediye-baskanligina-ilk-defa-atanmak-uzere-memur-alim-ilani-duyuru-478728",
-    "lastAttempt": "8 Kasım Resmî Gazete dizininde kurum ilanı yer alıyor. Güncel kadro tablosu okunamadı."
+    "lastAttempt": "Yerel Yönetimler bağlantısı açılamadı. Kasım ilanına ait resmî kadro tablosu doğrulanamadı."
   },
   "https://yerelyonetimler.csb.gov.tr/mugla-ili-ula-belediye-baskanligina-ilk-defa-atanmak-uzere-zabita-memuru-alimi-ilani-duyuru-478727": {
     "status": "ineligible",
@@ -8606,46 +8606,46 @@
     "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10773/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-ESKI-HUKUMLU-TMY-KONTENJANINDA-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10773/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-ESKI-HUKUMLU-TMY-KONTENJANINDA-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10772/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-DENIZ-TRAFIK-OPERATORU-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10772/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-DENIZ-TRAFIK-OPERATORU-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10770/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-ENGELLI-KONTENJANINDA-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10770/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-ENGELLI-KONTENJANINDA-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10769/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-CESITLI-UNVANLARDA-PERSONEL-ALIMINA-ILISKIN-ADAY-LISTESI-VE-SOZLU-SINAV-(MULAKAT)-TARIHI": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav tarihini yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10769/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-CESITLI-UNVANLARDA-PERSONEL-ALIMINA-ILISKIN-ADAY-LISTESI-VE-SOZLU-SINAV-(MULAKAT)-TARIHI",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav tarihini yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10767/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-CESITLI-UNVANLARDA-PERSONEL-ALIMINA-DAIR-EVRAK-TESLIMI-HAKKINDA-DUYURU": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için evrak teslim duyurusunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10767/1923-EKIM-2026-TARIHLERINDE-ILAN-EDILEN-CESITLI-UNVANLARDA-PERSONEL-ALIMINA-DAIR-EVRAK-TESLIMI-HAKKINDA-DUYURU",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için evrak teslim duyurusunu yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10765/1721-AGUSTOS-2026-TARIHLERINDE-ILAN-EDILEN-GEMICI-VE-YAGCI-UNVANLARINDA-PERSONEL-ALIMINA-ILISKIN-KURA-SONUCU": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için kura sonucunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10765/1721-AGUSTOS-2026-TARIHLERINDE-ILAN-EDILEN-GEMICI-VE-YAGCI-UNVANLARINDA-PERSONEL-ALIMINA-ILISKIN-KURA-SONUCU",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için kura sonucunu yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10763/PERSONEL-ALIM-ILANI": {
     "status": "pending",
@@ -8655,18 +8655,18 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10761/1721-AGUSTOS-2026-TARIHLERINDE-ILAN-EDILEN-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10761/1721-AGUSTOS-2026-TARIHLERINDE-ILAN-EDILEN-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı."
   },
   "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10760/1721-AGUSTOS-2026-TARIHLERINDE-ILAN-EDILEN-MUHENDIS-VE-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı.",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.kiyiemniyeti.gov.tr/AnnouncementDetail/10760/1721-AGUSTOS-2026-TARIHLERINDE-ILAN-EDILEN-MUHENDIS-VE-BURO-PERSONELI-(MEMUR)-UNVANINDA-PERSONEL-ALIMINA-ILISKIN-SOZLU-SINAV-SONUCU-VE-ADAYLARDAN-ISTENILEN-BELGELER",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Kıyı Emniyeti, daha önce başvuran adaylar için sözlü sınav sonucunu yayımladı."
   },
   "http://www.kiziltepe.bel.tr/zabita-mudurlugu": {
     "status": "pending",
@@ -9489,11 +9489,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://www.mersin.bel.tr/ilan/2026-yili-mersin-buyuksehir-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alim-ilani": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "evidence": "https://www.mersin.bel.tr/ilan/2026-yili-mersin-buyuksehir-belediye-baskanligina-ilk-defa-atanmak-uzere-itfaiye-eri-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "status": "closed",
+    "reason": "Kurum ilanının ekinde son başvuru 11 Eylül 2026.",
+    "checkedAt": "2026-11-28T10:09:17Z",
+    "evidence": "https://www.mersin.bel.tr/uploads/files/mersinitfaiyeerialimiilan22072026sonn2026072410460780498312-366070.pdf",
+    "lastAttempt": "Kurum ilanının ekinde son başvuru 11 Eylül 2026."
   },
   "https://www.mersin.bel.tr/ilan/belediyemizde-gorev-yapan-personele-yonelik-zabita-memuru-kadrosuna-gecis-sinavi-guncelleme": {
     "status": "pending",
@@ -9524,9 +9524,9 @@
   "https://www.mucur.bel.tr/Detay/1-adet-lisans-mezunu-memur-alimina-iliskin-sozlu-sinava-katilacaklar-basvuru-yogunlugu-ve-teknik-aksaklar-sebebiyle-4-12-2026-tarihine-ertelenmis-olup-sozlu-sinavi-ise-14-12-2026-tarih-saat-9-30-gerceklestirilecektir.html": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.mucur.bel.tr/Detay/1-adet-lisans-mezunu-memur-alimina-iliskin-sozlu-sinava-katilacaklar-basvuru-yogunlugu-ve-teknik-aksaklar-sebebiyle-4-12-2026-tarihine-ertelenmis-olup-sozlu-sinavi-ise-14-12-2026-tarih-saat-9-30-gerceklestirilecektir.html",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurum bağlantısı bu kontrolde açılamadı."
   },
   "https://www.mucur.bel.tr/Detay/3-itfaiye-eri-1-memur-alimi-kapsaminda-b-ve-c-sinifi-ehliyeti-itfaiye-eri-uygulama-sinavina-cagrilmaya-hak-kazanan-adaylar-listesi.html": {
     "status": "pending",
@@ -9545,9 +9545,9 @@
   "https://www.mucur.bel.tr/Detay/mucur-belediye-baskanligi-3-itfaiye-eri-alimi-uygulamasi-sinavi-6-kasim-da-yapilacak.html": {
     "status": "pending",
     "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "evidence": "https://www.mucur.bel.tr/Detay/mucur-belediye-baskanligi-3-itfaiye-eri-alimi-uygulamasi-sinavi-6-kasim-da-yapilacak.html",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Kurum bağlantısı bu kontrolde açılamadı."
   },
   "https://www.mucur.bel.tr/Detay/1-adet-lisans-mezunu-memur-alim-sureci-bilgilendirme.html": {
     "status": "pending",
@@ -18751,9 +18751,9 @@
   },
   "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-11.pdf": {
     "status": "ineligible",
-    "reason": "Özburun Belediyesinin iki operatör pozisyonu için noter kurası, sözlü ve uygulamalı sınav yapılacak.",
+    "reason": "Özburun Belediyesi iki sürekli işçi kadrosu için şartları sağlayan tüm adayları noter kurasına alıyor.",
     "evidence": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4-11.pdf",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "checkedAt": "2026-11-28T10:09:17Z",
     "lastAttempt": "Özburun Belediyesinin iki operatör pozisyonu için noter kurası, sözlü ve uygulamalı sınav yapılacak."
   },
   "https://istanbulanadolu.adalet.gov.tr/sozlesmeli-personel-zabit-katibi-mubasir-koruma-ve-guvenlik-gorevlisi-teknisyen-destek-personel": {
