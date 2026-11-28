@@ -123,10 +123,10 @@
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d": {
     "status": "pending",
-    "reason": "Kariyer Kapısı ayrıntısında kadro tablosu görünmüyor. İkincil kopyalarda çevre mühendisliği lisans koşulu yer alıyor. Asıl tablo yeniden kontrol edilecek.",
+    "reason": "Kariyer Kapısı ayrıntı ekranında kadro tablosu ve başvuru tarihleri boş. Karabağlar için resmî tablo aranacak.",
     "evidence": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
-    "checkedAt": "2026-11-28T00:51:17Z",
-    "lastAttempt": "Kariyer Kapısı ayrıntısında kadro tablosu görünmüyor. İkincil kopyalarda çevre mühendisliği lisans koşulu yer alıyor. Asıl tablo yeniden kontrol edilecek."
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "lastAttempt": "Kariyer Kapısı ayrıntı ekranında kadro tablosu ve başvuru tarihleri boş. Karabağlar için resmî tablo aranacak."
   },
   "https://kariyerkapisi.gov.tr/IlanDetay?i=35749108-46fb-4b62-bc89-3700f1525802": {
     "status": "ineligible",
@@ -2208,123 +2208,123 @@
     "lastAttempt": "Üniversitenin önceki alımına başvuranların yerleştirme ve sonuç duyurusu."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani__24082023-5119": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesinin 24 Ağustos 2023 tarihli arşiv ilanı.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani__24082023-5119",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesinin 24 Ağustos 2023 tarihli arşiv ilanı."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4_guncelleme-5056": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4_guncelleme-5056",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-4932": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-4932",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-4794": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-4794",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek1-4645": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/25042023_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek1-4645",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-4515": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-4515",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_4_ocak_2024_tarihli_sozlesmeli_657_s_k__4b_personel_alim_ilani_yedek3_sonucu-8399": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_4_ocak_2024_tarihli_sozlesmeli_657_s_k__4b_personel_alim_ilani_yedek3_sonucu-8399",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_4_ocak_2024_tarihli_sozlesmeli_657_s_k__4b_personel_alim_ilani_yedek2_sonucu-8263": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_4_ocak_2024_tarihli_sozlesmeli_657_s_k__4b_personel_alim_ilani_yedek2_sonucu-8263",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_4_ocak_2024_tarihli_sozlesmeli_657_s_k__4b_personel_alim_ilani_yedek1_sonucu-8094": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_4_ocak_2024_tarihli_sozlesmeli_657_s_k__4b_personel_alim_ilani_yedek1_sonucu-8094",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek7-3638": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek7-3638",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-3245": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek6-3245",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4-2835": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek4-2835",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-2576": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek3-2576",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-2531": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/29072022_tarihli_akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu_yedek2-2531",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-2822": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/duyuru/akdeniz_universitesi_sozlesmeli_657_s_k__4b_personel_alim_ilani_sonucu-2822",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Akdeniz Üniversitesi önceki alımın yerleştirme veya yedek sonucunu duyuruyor."
   },
   "https://personel.akdeniz.edu.tr/tr/ilk_defa_atanacak_memurlar_icin_istenen_belgeler-4400": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Sayfa ataması yapılan memurların teslim edeceği belgeleri listeliyor.",
     "evidence": "https://personel.akdeniz.edu.tr/tr/ilk_defa_atanacak_memurlar_icin_istenen_belgeler-4400",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Sayfa ataması yapılan memurların teslim edeceği belgeleri listeliyor."
   },
   "https://www.aksaray.edu.tr/2026-kpss-ortaogretim-gorevlendirme-takvimi": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://www.aksaray.edu.tr/2026-kpss-ortaogretim-gorevlendirme-takvimi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://personel.aksaray.edu.tr/sozlesmeli-personel-4-b-alimi-7-yedek-liste-2": {
     "status": "ineligible",
@@ -2340,11 +2340,11 @@
     "lastAttempt": "Sayfa belediye hizmetini veya mevcut personelin kurum içi işlemini açıklıyor."
   },
   "https://www.alaca.bel.tr/memurluktan-zabita-memurluguna-gecis-nihai-sinav-duyurusu/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Alaca Belediyesi mevcut memurların zabıta memurluğuna geçiş sınavını duyuruyor.",
     "evidence": "https://www.alaca.bel.tr/memurluktan-zabita-memurluguna-gecis-nihai-sinav-duyurusu/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Alaca Belediyesi mevcut memurların zabıta memurluğuna geçiş sınavını duyuruyor."
   },
   "https://www.alaca.bel.tr/zabita-ekipleri-ramazan-ayi-oncesi-firinlarda-denetim-gerceklestirdi/": {
     "status": "pending",
@@ -2417,11 +2417,11 @@
     "lastAttempt": "Sayfa belediye hizmetini veya mevcut personelin kurum içi işlemini açıklıyor."
   },
   "https://www.altinordu.bel.tr/80-gecici-isci-alim-ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Altınordu Belediyesi bu geçici işçiler için Eylül 2026 içinde işe başlatma öngörmüş.",
     "evidence": "https://www.altinordu.bel.tr/80-gecici-isci-alim-ilani",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Altınordu Belediyesi bu geçici işçiler için Eylül 2026 içinde işe başlatma öngörmüş."
   },
   "https://www.altinordu.bel.tr/altinordu-da-zabita-personellerine-mevzuat-egitimi": {
     "status": "pending",
@@ -2534,11 +2534,11 @@
     "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
   },
   "https://ankarabilim.edu.tr/duyuru/ankara-bilim-universitesi-akademik-personel-alim-ilani": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "ineligible",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Ankara Bilim Üniversitesinin duyurusu akademik personel alımına ait.",
     "evidence": "https://ankarabilim.edu.tr/duyuru/ankara-bilim-universitesi-akademik-personel-alim-ilani",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Ankara Bilim Üniversitesinin duyurusu akademik personel alımına ait."
   },
   "https://zabita.ankara.bel.tr/": {
     "status": "ineligible",
@@ -2556,10 +2556,10 @@
   },
   "https://www.ankara.bel.tr/duyurular/ozel-guvenlik-personeline-kiyafet-alimi-isi-1418": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://www.ankara.bel.tr/duyurular/ozel-guvenlik-personeline-kiyafet-alimi-isi-1418",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.mgu.edu.tr/sozlesmeli-statudeki-personelin-kadroya-gecirilmelerine-iliskin-duyuru/": {
     "status": "pending",
@@ -3192,10 +3192,10 @@
   },
   "https://avrasya.edu.tr/2026/09/12-09-2026-tarih-ve-33368-sayili-resmi-gazetede-yayinlanan-akademik-personel-alim-ilani-hk/": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://avrasya.edu.tr/2026/09/12-09-2026-tarih-ve-33368-sayili-resmi-gazetede-yayinlanan-akademik-personel-alim-ilani-hk/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.ab.gov.tr/54287.html": {
     "status": "pending",
@@ -3450,10 +3450,10 @@
   },
   "https://www.bilecik.edu.tr/personel/Icerik/20_08_2026_Tarihli_4_B_S%C3%B6zle%C5%9Fmeli_Personel_Al%C4%B1m_%C4%B0lan%C4%B1_Sonu%C3%A7lar%C4%B1_2feb1": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://www.bilecik.edu.tr/personel/Icerik/20_08_2026_Tarihli_4_B_S%C3%B6zle%C5%9Fmeli_Personel_Al%C4%B1m_%C4%B0lan%C4%B1_Sonu%C3%A7lar%C4%B1_2feb1",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.bilecik.edu.tr/personel/Icerik/20-08-2026-tarihli-ve-33346-sayili-resmi-gazete-de-yayimlanan-4-b-sozlesmeli-personel-lani": {
     "status": "pending",
@@ -3521,10 +3521,10 @@
   },
   "https://batman.edu.tr/duyurular/sozlesmeli-personel-alim-ilani---on-degerlendirme-sonuclari-2026-1/19877": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://batman.edu.tr/duyurular/sozlesmeli-personel-alim-ilani---on-degerlendirme-sonuclari-2026-1/19877",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.bayburt.bel.tr/duyurular/kuzeydogu-anadolu-kalkinma-ajansi-personel-alim-ilani": {
     "status": "pending",
@@ -3579,11 +3579,11 @@
     "reason": "Bingöl Üniversitesi 25 Şubat 2026 tarihli alımın nihai sonuçlarını ve asıl yerleşenlerden istenen belgeleri duyurdu."
   },
   "https://pdb.bingol.edu.tr/duyurular/universitemiz-sozlesmeli-personel-alim-ilani-hakkinda-duyuru/": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bingöl Üniversitesi Şubat 2026 alımında nihai sonuçların açıklanmasındaki gecikmeyi duyuruyor.",
     "evidence": "https://pdb.bingol.edu.tr/duyurular/universitemiz-sozlesmeli-personel-alim-ilani-hakkinda-duyuru/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bingöl Üniversitesi Şubat 2026 alımında nihai sonuçların açıklanmasındaki gecikmeyi duyuruyor."
   },
   "https://pdb.bingol.edu.tr/duyurular/sozlesmeli-personel-alimi-on-degerlendirme-sonuclari_13-03-2026/": {
     "status": "closed",
@@ -3669,10 +3669,10 @@
   },
   "https://www.bilecik.edu.tr/personel/Icerik/20_08_2026_Tarihli_4_B_Sözleşmeli_Personel_Alım_İlanı_Sonuçları_2feb1": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://www.bilecik.edu.tr/personel/Icerik/20_08_2026_Tarihli_4_B_Sözleşmeli_Personel_Alım_İlanı_Sonuçları_2feb1",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.bilecik.edu.tr/personel/Icerik/11-agustos-2025-tarihli-4-b-sozlesmeli-personel-alim-lani-yedek-listeden-atanmaya-hak-kazanan-adayin-duyurusu_a32": {
     "status": "ineligible",
@@ -3763,17 +3763,17 @@
   },
   "https://www.botas.gov.tr/Icerik/10-kasim-2025-14-kasim-2025/1222": {
     "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
     "evidence": "https://www.botas.gov.tr/Icerik/10-kasim-2025-14-kasim-2025/1222",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.botas.gov.tr/Icerik/1014-kasim-2025-tarihli-perso/1212": {
-    "status": "pending",
-    "checkedAt": "2026-11-26T20:49:54Z",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
+    "status": "closed",
+    "checkedAt": "2026-11-28T01:50:59Z",
+    "reason": "BOTAŞ duyurusu 10–14 Kasım 2025 dönemindeki İŞKUR alımına ait.",
     "evidence": "https://www.botas.gov.tr/Icerik/1014-kasim-2025-tarihli-perso/1212",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "BOTAŞ duyurusu 10–14 Kasım 2025 dönemindeki İŞKUR alımına ait."
   },
   "https://www.botas.gov.tr/Icerik/223-kisilik-personel-alim-duyu/1203": {
     "status": "pending",
@@ -4100,18 +4100,18 @@
     "checkedAt": "2026-11-19T12:12:08Z"
   },
   "https://bursa-yenisehir.bel.tr/duyurular/guncel/yenigun-mahallesi-kapali-pazar-alani-yapim-isi": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "ineligible",
+    "reason": "Belediyenin duyurusu kapalı pazar alanı yapım ihalesine ait.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://bursa-yenisehir.bel.tr/duyurular/guncel/yenigun-mahallesi-kapali-pazar-alani-yapim-isi",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Belediyenin duyurusu kapalı pazar alanı yapım ihalesine ait."
   },
   "https://www.cag.edu.tr/tr/duyurular/akademik-personel-alimi-25": {
     "status": "pending",
-    "reason": "Resmî bağlantıdan okunabilir ilan metni alınamadı. Kurum duyurusu ve ekleri yeniden kontrol edilecek.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://www.cag.edu.tr/tr/duyurular/akademik-personel-alimi-25",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.caglayancerit.bel.tr/caglayancerit-belediyesi-memur-alimi-sonuclari": {
     "status": "closed",
@@ -4202,10 +4202,10 @@
   },
   "https://www.csgb.gov.tr/duyurular/13032026/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://www.csgb.gov.tr/duyurular/13032026/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.csgb.gov.tr/duyurular/calisma-uzman-yardimciligi-giris-sinavi-sinav-tarihi-ve-yeri/": {
     "status": "pending",
@@ -4252,10 +4252,10 @@
   },
   "https://www.csgb.gov.tr/duyurular/01112025/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://www.csgb.gov.tr/duyurular/01112025/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.csgb.gov.tr/duyurular/22082025/": {
     "status": "closed",
@@ -4366,10 +4366,10 @@
   },
   "https://www.csgb.gov.tr/duyurular/04-11-2023/": {
     "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "reason": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://www.csgb.gov.tr/duyurular/04-11-2023/",
-    "lastAttempt": "Bağlantı yeniden kontrol edildi. Açık P94 kadrosu ile son başvuru tarihi birlikte doğrulanamadı."
+    "lastAttempt": "Bu kontrolde güncel başvuru dönemi ve P94 şartını birlikte gösteren resmî metin doğrulanamadı."
   },
   "https://www.csgb.gov.tr/duyurular/16-10-2023/": {
     "status": "pending",
@@ -5094,11 +5094,11 @@
     "evidence": "https://oran.org.tr/dokuman/fcff3eca-5f37-4a33-890d-822aa9bec77f.pdf"
   },
   "https://www.dogaka.gov.tr/duyuru/t-c-istanbul-kalkinma-ajansi-personel-alim-ilani/853": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "İstanbul Kalkınma Ajansı için başvurular 22 Kasım 2026 saat 23.59’da sona erdi.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://www.dogaka.gov.tr/duyuru/t-c-istanbul-kalkinma-ajansi-personel-alim-ilani/853",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "İstanbul Kalkınma Ajansı için başvurular 22 Kasım 2026 saat 23.59’da sona erdi."
   },
   "https://www.dogaka.gov.tr/duyuru/mevlana-kalkinma-ajansi-personel-alim-ilani/852": {
     "status": "closed",
@@ -5114,11 +5114,11 @@
     "lastAttempt": "22 Kasım kapanışlı ilanın asıl PDF’sinde dört uzman ve bir büro görevlisi için lisans mezuniyeti aranıyor."
   },
   "https://www.dogaka.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-personel-alim-ilani/848": {
-    "status": "pending",
-    "reason": "İlanın P94 şartı ve başvuru tarihleri kurum metninde birlikte doğrulanamadı.",
-    "checkedAt": "2026-11-26T20:49:54Z",
+    "status": "closed",
+    "reason": "Doğu Marmara Kalkınma Ajansı için son başvuru 27 Ekim 2026.",
+    "checkedAt": "2026-11-28T01:50:59Z",
     "evidence": "https://www.dogaka.gov.tr/duyuru/dogu-marmara-kalkinma-ajansi-personel-alim-ilani/848",
-    "lastAttempt": "Bağlantıya yeniden erişim denendi. İncelenebilir ilan metni alınamadı."
+    "lastAttempt": "Doğu Marmara Kalkınma Ajansı için son başvuru 27 Ekim 2026."
   },
   "https://www.dap.gov.tr/sayfa/insan-kaynaklari/4b-sozlesmeli-personel-yerlestirme-sonuclari-hakkinda/": {
     "status": "closed",
